@@ -175,7 +175,7 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                                if (!ExceptionList(FinalPath.c_str())){
                                          //Synchronize(&TGet);
                                          Form1->idFTP->Get("/"+FF,FP,TRUE);
-                                         //Log->Write("File created : "+FinalPath);
+                                         Log->Write("File created : "+FinalPath);
                                         }
                                else     {
                                          Log->Write("Exception for path: "+FinalPath+" . Please choose another way to update this file");
@@ -322,7 +322,7 @@ string *notdirtxt=TFoLi->ListFolder("notupdate"); //получаем папки, которые мы х
                     }
 		  }
         }
-Log->Write("ExceptionList: ends with false");
+//Log->Write("ExceptionList: ends with false");
 return false;
 }
 

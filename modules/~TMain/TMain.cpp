@@ -217,7 +217,13 @@ void __fastcall TMain::TStartDownload()
         Form1->idFTP->Host=thost;
         Form1->idFTP->Username=username;
         Form1->idFTP->Password=password;
+        try{
         Form1->idFTP->Connect();
+        }
+         catch (Exception &ex)
+        {
+         Log->Write("Exception: "+AnsiString(ex.Message));
+        }
         if (Form1->idFTP->Connected())
         {
         Log->Write("Соединение с сервером ...Успешно");
@@ -231,6 +237,7 @@ void __fastcall TMain::TStartDownload()
      /**************************************************************************
      ВНИМАНИЕ!: Качаем из папки /Webclient/md5.txt в  C:\Webclient\webclient.txt
      **************************************************************************/
+     try{
      Form1->idFTP->Get("/Webclient/md5.txt","C:\\Webclient\\webclient.txt",TRUE);
      Form1->Memo1->Lines->LoadFromFile("C:\\Webclient\\webclient.txt");
      for (int q=0; q<=Form1->Memo1->Lines->Count-1; q++)
@@ -244,6 +251,11 @@ void __fastcall TMain::TStartDownload()
      {
       Memo2[q]= Form1->Memo2->Lines->Strings[q];
       GM2C = q;
+     }
+     }
+     catch (Exception &ex)
+     {
+    Log->Write("Exception: "+AnsiString(ex.Message));
      }
      // delete MDCL;
      // MDCL = new TMD5Class();
