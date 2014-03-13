@@ -1,0 +1,538 @@
+07.03.2014 09:21:24.185 //-------------- 07.03.2014 9:21:24 -------------------------
+07.03.2014 09:21:24.189 Configuration XML has been opened ... 
+07.03.2014 09:21:24.264 Try to get Configuration info...
+07.03.2014 09:21:24.276 host: 192.168.2.222.....OK
+07.03.2014 09:21:24.276 user: terminals......OK
+07.03.2014 09:21:24.276 password: terminals1357.....OK
+07.03.2014 09:21:24.276 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:21:24.281 Terminal: 99999
+07.03.2014 09:21:24.281 SubDealer: 0
+07.03.2014 09:21:24.282 Serial: 105899
+07.03.2014 09:30:30.734 //-------------- 07.03.2014 9:30:30 -------------------------
+07.03.2014 09:30:30.747 Configuration XML has been opened ... 
+07.03.2014 09:30:30.777 Try to get Configuration info...
+07.03.2014 09:30:30.777 host: 192.168.2.222.....OK
+07.03.2014 09:30:30.777 user: terminals......OK
+07.03.2014 09:30:30.777 password: terminals1357.....OK
+07.03.2014 09:30:30.777 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:30:30.782 Terminal: 99999
+07.03.2014 09:30:30.782 SubDealer: 0
+07.03.2014 09:30:30.782 Serial: 105899
+07.03.2014 09:32:25.567 //-------------- 07.03.2014 9:32:25 -------------------------
+07.03.2014 09:32:25.569 Configuration XML has been opened ... 
+07.03.2014 09:32:25.580 Try to get Configuration info...
+07.03.2014 09:32:25.580 host: 192.168.2.222.....OK
+07.03.2014 09:32:25.580 user: terminals......OK
+07.03.2014 09:32:25.580 password: terminals1357.....OK
+07.03.2014 09:32:25.580 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:32:25.586 Terminal: 99999
+07.03.2014 09:32:25.586 SubDealer: 0
+07.03.2014 09:32:25.586 Serial: 105899
+07.03.2014 09:33:04.365 //-------------- 07.03.2014 9:33:04 -------------------------
+07.03.2014 09:33:04.367 Configuration XML has been opened ... 
+07.03.2014 09:33:04.370 Try to get Configuration info...
+07.03.2014 09:33:04.370 host: 192.168.2.222.....OK
+07.03.2014 09:33:04.370 user: terminals......OK
+07.03.2014 09:33:04.370 password: terminals1357.....OK
+07.03.2014 09:33:04.370 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:33:04.375 Terminal: 99999
+07.03.2014 09:33:04.375 SubDealer: 0
+07.03.2014 09:33:04.375 Serial: 105899
+07.03.2014 09:35:52.878 //-------------- 07.03.2014 9:35:52 -------------------------
+07.03.2014 09:35:52.880 Configuration XML has been opened ... 
+07.03.2014 09:35:52.896 Try to get Configuration info...
+07.03.2014 09:35:52.896 host: 192.168.2.222.....OK
+07.03.2014 09:35:52.896 user: terminals......OK
+07.03.2014 09:35:52.896 password: terminals1357.....OK
+07.03.2014 09:35:52.896 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:35:52.905 Terminal: 99999
+07.03.2014 09:35:52.905 SubDealer: 0
+07.03.2014 09:35:52.905 Serial: 105899
+07.03.2014 09:36:27.128 //-------------- 07.03.2014 9:36:27 -------------------------
+07.03.2014 09:36:27.130 Configuration XML has been opened ... 
+07.03.2014 09:36:27.133 Try to get Configuration info...
+07.03.2014 09:36:27.133 host: 192.168.2.222.....OK
+07.03.2014 09:36:27.133 user: terminals......OK
+07.03.2014 09:36:27.133 password: terminals1357.....OK
+07.03.2014 09:36:27.133 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:36:27.138 Terminal: 99999
+07.03.2014 09:36:27.138 SubDealer: 0
+07.03.2014 09:36:27.138 Serial: 105899
+07.03.2014 09:36:48.149 Connection to server error...check your connection settings
+07.03.2014 09:36:48.149 Starting C:\WebClient\DPSKiosk.exe...OK.
+07.03.2014 09:36:48.199 Starting C:\WebClient\DPSCom.exe...OK.
+07.03.2014 09:36:58.232 Connection to server error...check your connection settings
+07.03.2014 09:40:59.834 //-------------- 07.03.2014 9:40:59 -------------------------
+07.03.2014 09:40:59.837 Configuration XML has been opened ... 
+07.03.2014 09:40:59.840 Try to get Configuration info...
+07.03.2014 09:40:59.841 host: 192.168.2.222.....OK
+07.03.2014 09:40:59.841 user: terminals......OK
+07.03.2014 09:40:59.841 password: terminals1357.....OK
+07.03.2014 09:40:59.841 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:40:59.847 Terminal: 99999
+07.03.2014 09:40:59.847 SubDealer: 0
+07.03.2014 09:40:59.847 Serial: 105899
+07.03.2014 09:41:20.869 Connection to server error...check your connection settings
+07.03.2014 09:41:20.869 Starting C:\WebClient\DPSKiosk.exe...OK.
+07.03.2014 09:41:20.875 Starting C:\WebClient\DPSCom.exe...OK.
+07.03.2014 09:41:30.883 Connection to server error...check your connection settings
+07.03.2014 09:44:13.528 //-------------- 07.03.2014 9:44:13 -------------------------
+07.03.2014 09:44:13.531 Configuration XML has been opened ... 
+07.03.2014 09:44:13.534 Try to get Configuration info...
+07.03.2014 09:44:13.534 host: 192.168.2.222.....OK
+07.03.2014 09:44:13.534 user: terminals......OK
+07.03.2014 09:44:13.534 password: terminals1357.....OK
+07.03.2014 09:44:13.534 Connecting to: 192.168.2.222 | terminals | terminals1357 | ... OK 
+07.03.2014 09:44:13.538 Terminal: 99999
+07.03.2014 09:44:13.538 SubDealer: 0
+07.03.2014 09:44:13.538 Serial: 105899
+07.03.2014 09:44:34.561 Connection to server error...check your connection settings
+07.03.2014 09:44:34.561 Starting C:\WebClient\DPSKiosk.exe...OK.
+07.03.2014 09:44:34.567 Starting C:\WebClient\DPSCom.exe...OK.
+07.03.2014 09:44:44.573 Connection to server error...check your connection settings
+07.03.2014 09:46:26.237 //-------------- 07.03.2014 9:46:26 -------------------------
+07.03.2014 09:46:26.240 Configuration XML has been opened ... 
+07.03.2014 09:46:26.244 Try to get Configuration info...
+07.03.2014 09:46:26.244 host: 192.168.1.251.....OK
+07.03.2014 09:46:26.244 user: terminals......OK
+07.03.2014 09:46:26.244 password: terminals1357.....OK
+07.03.2014 09:46:26.244 Connecting to: 192.168.1.251 | terminals | terminals1357 | ... OK 
+07.03.2014 09:46:26.251 Terminal: 99999
+07.03.2014 09:46:26.251 SubDealer: 0
+07.03.2014 09:46:26.251 Serial: 105899
+07.03.2014 09:46:26.292 Соединение с сервером ...Успешно
+07.03.2014 09:46:26.293 Connected to: 192.168.1.251
+07.03.2014 09:46:29.096 Проверка обновления...started
+07.03.2014 09:46:29.102 Совпали: f2f67ef641a35a6a67cbe794cb077768 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.102 Совпали: 885e9eb42889ca547f4e3515dcde5d3d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 17bddadca7044cc7b8406f1ca45210df * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 90a44e0e4b14a4a5d839f8fc48030af5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: f849f2f6992d596183b8e9380e8f712d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 4793b32cf8ddf285a78f0ba78e122f90 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: bfc82d93a05444aa8c7697722d4e7c1f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 8de680b3e881fc8ec8f8c8b10716fbbc * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 129608098b4bca257cfc3f524e5ce05a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 1d9ad5040c5a901108ca0328aff82fc3 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 63c67ea91af5d2b46f676d1d002eabab * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 064b1dcaf76eeb6845e8e0bf6597da26 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 064b1dcaf76eeb6845e8e0bf6597da26 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 54bdaacff60f39e0810dca401b6824c5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: f416c37ea5fa4c223ac943703afe1954 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 6e1cf00e831698047afb1f7c01b9fca4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: e908028c83400f9318aed3bd967cab28 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 09efc9a115303f9499a7d49d0aee2078 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 5dc84ec83fd1e8040f1bb1c9bf35ff32 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: ff39c404184d844a38ebf408ade2d8a4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 25e923715c4586096824af6abdba472c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 0e6578b848b6d1223c30f066445241a7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 083e6cd32297f96fe82e92430a298d47 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 4986a9ae251bf590343badafb937416d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: cb336c0604162f66f0e5a9a617b0e63d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 23730c70f88f05075269426fec3aeb7b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 5007f6c30d60fac7e04665f2223ab99a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 7728ca8423c1d89d41a5ae7a4780ab5f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 8beaa4a8bcb653179bdbd4902dd5bb75 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: a0ef1e32a11713118ff1d8cec4c0aea0 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: a6ba3e25568edf589cee9b30f488ca91 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 44e0906dfd63615446c748e71d660da2 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 80789bfe262afcaddd42323d3d7cbfa5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 66633fbfa30fee72f0108ec4e09c74c5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 33bca8933fc722acf3e1c38711a9c6c8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 94c6a5cdc903a8b113367e117f3f5a35 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 26b992b018dec18fa6c119f470df06c4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 97fa8324c7746e0ee5f584d26116e709 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 704806a460133a35bf941aa14dc1d625 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 8025bf259bb880e524eb6d3cdc86364a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: a2ca2c73b254e1a18491f615332b43a3 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 825c1c604dbb86ab1cad85ce6f513a34 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 3051ddc3861e3a981eaef786d72e7b90 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 665b8bec3b883a4103985d24d308ac6a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 8dea11b1a2d1847f5571b6b638238ce0 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.103 Совпали: 3a1021a95d1d2d1533b3e4f2dc84680e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: b3b0f29c8e92edb9182f0ae4efecaa05 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 1b83b07f7639e49d426254a93a6ce011 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: a2ff022ba22f012c8899283183369d56 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 9021d9898c848ba30fab31672d2bf005 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: eb9faed4641e89f15535c4e5c213310c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 9e7f47d59b59767f62232a42f4192e85 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 77e82458af5f12a9666722c6b622aff4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: a05f22875ad12daaf37d8cde9dd3c6f7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 0190a967a578faabc3dbfd07e1e3ebd4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 369b7b7cbb727887f441980099b7e4d2 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 033c28e5d0be047271619c7e091cfe5f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 8696899459fd09e254d04f8cacfe7043 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 2ccc1ecaf3b3f80d2e84b78b84b10d91 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 05067e9b8de1a6c62abc12a88ee9ba1d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 04d176bbe59fe6474f6e770c50c6b103 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 1b5ab499b221d23169088e54054beb61 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: c560660ed826676e08180ab3179eb748 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 69c984ab51601a94d04510189d5944df * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 03168d7a521ef765f978a3e23fcf5a0d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: ac59a508b82781180d596db05d577962 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: a3998730ee7d410cf9a70b21c5145008 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 77b970918b7edd7553d53b8707d81783 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 389abdf0ac073587b048fefd0aa2f706 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: cac37a600e3358c9ec2354bd3b69ef53 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 6fc5f932ddb8a60a56e763c65bd84081 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 83d8bc56801b04b60f71150ec1a7415e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: bc7503b1103fca02093936cd3df3d730 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: ee705153102490edf44cf8b6e0299a46 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 3f7ef21409df2a41681486da61554266 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 4ae10be80c3b9663d4c8627cfe164396 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 0a3a69b0ee468fde2d381fe9cbad3c02 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 0a9942fbdfc8f3ca4af527597896bf66 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: a139c17a7deb06c99de05af123758067 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 681f97f22955a28614faf2804ff9e160 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 0cf73f270fca3e94a4dcc49e509c1b79 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: c8a2ade72cf89228768b120cd69f31f8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 0d432204e955ce84ef309fba799261bd * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: c06eafe291ae144b9bc627d2d6f6edd0 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 9fc6785a43e02401c0f4f7005ada9c21 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 487525f6a5683d27875ac9a5ce5ab69e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 878421f46a43cae12e9899e21182642b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: a4b33ccd91f3ab871fa7bb474d188c5c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 1d41d63e58f60b67ee8436adfd1e6e94 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 2af4b7606414bf792a3e895f38093eea * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 9a5364b66a6a6ee68ed16f180a3f730f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 8e1928b94896d0f81684b4709738d83e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 9576b4439f8cf5692e52667132965dee * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 82e601b1d8172847fbbc2f8fa4030b9a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 69bfe7694a3bca504b7caef47e728f54 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 489db748712bec9c653e2f5aab4d70da * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.104 Совпали: 29bc2f44c39e93689e572f147860cddb * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: a073bbf74f9015832dc572bf86c24f51 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: de8d740046fb38bdeb0860d0ac5ff8cd * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 78ae928513bf16dfc5ecda03e9fabdb7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 8964f24b4fdeab1218dfa9d4380feaf1 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: c9feb02e55836dbb21959b473906a4b6 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 674f091761ce30adc1e640dae88e2fe4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: ebb107856b46e1038b06842db0bf1a49 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 7cd2b3c447e6b8b62254005207a80b39 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 7e320ac8536bd4213db2f00a5cd061ed * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: c832bcd4f62be462ff743096adde6839 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 93415d9f350880819f096cd3f390b55c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 7539ca709421918e903c73a0d6c2d6d5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: e41e56d81f660cda0e0c59c5dad63b78 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 7f62d2fbabb738ea035f7f34f5c61433 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d7213a4c2438905a8f37a8c0b90d0847 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: c286b94f9e8a75bdab987a83eca8f385 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 0b20d61c01fad807bb39171089c32a80 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: e96ea7c3d09a1262ae2b8bda41133f1b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: cc3738f980bb38837aad3122e5fb2b21 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: 3d0cc418bbd90d04b8c05d3ed9684768 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: a3f7a43193c24e4953a9cb0223a7f34e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.105 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 3b3971c0fed714d8ba21279cfe63f510 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: e86c2a040cec17d26ced583c43f3c152 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: b76f4058ce491cdf8b5bd632595e0dee * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 596dea2a49abec299e173b43f04ab743 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 596dea2a49abec299e173b43f04ab743 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 184791b38f78382c1f6e33f476f9dd59 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 1f851ded8c30a53533056fb0fedb0bfd * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 4adaa6bf3e4658045f8c09b75956b83b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 781381f7e2d3ada8425739a7749440fe * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 8bfc4583037ad6e7adada4b5c494cb18 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: b4b1e34c366af69bc2f0f986b581ad44 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: e1e3ba1f1d9c8c7d246ba7086233905f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 879dffb9107bf4f136bc80a153d6ef66 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: c20ad4d76fe97759aa27a0c99bff6710 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 0137e8b84d3450789d86794bbedd409d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 97dd70feca64fb4f63de7bb7e66a80b1 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 3ae3dc630d51981ee1c81b0c64d7eb3f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 91590003933ef3da8235cf96311bca25 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 73dab007edd53ea3525e305bbddf3d82 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: bba09f9da99b0d482451929389322e61 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 9b619356853521b3f888ef2a830037fb * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: aad6f4b96f96dd5e52f7b4989e5c5103 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 468393c570d436810327dbb5340a3589 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: f48bac4f97939fbe32c6ec255f40ee40 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 41b0c69266f1ea6201df4fa358e8e933 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: fd0de834717c864a3e7de542b472cef7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 891fa81f148955335d2bcb68ffd87509 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 4efaa53c545f4ffb1ee0ed1709c15ea7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 4a601f16edf4da27786edc559fa44ae2 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Совпали: 9bb3501fc79f1c4aa13e745118f3a595 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.106 Added toreload[m]: 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 09:46:29.113 Added toreload[m]: ed663ea0dbae20fd440fa0716e1409fc *Webclient\DPSKiosk.exe
+07.03.2014 09:46:29.113 Create Directory: C:\Webclient\
+07.03.2014 09:46:29.113 Directory created: C:\Webclient\
+07.03.2014 09:46:29.120 Have/Webclient
+07.03.2014 09:46:29.139 download: true
+07.03.2014 09:46:29.139 Check directory exists ...
+07.03.2014 09:46:30.134 File created : C:\Webclient\DPSKiosk.exe
+07.03.2014 09:46:30.173 File created : C:\Webclient\document.txt
+07.03.2014 09:46:30.173 Disconnect...
+07.03.2014 09:46:30.175 Starting C:\WebClient\DPSKiosk.exe...OK.
+07.03.2014 09:46:30.629 Starting C:\WebClient\DPSCom.exe...OK.
+07.03.2014 10:44:52.429 //-------------- 07.03.2014 10:44:52 -------------------------
+07.03.2014 10:44:52.431 Configuration XML has been opened ... 
+07.03.2014 10:44:52.435 Try to get Configuration info...
+07.03.2014 10:44:52.435 host: www.forwardmobile.ru.....OK
+07.03.2014 10:44:52.435 user: terminals......OK
+07.03.2014 10:44:52.435 password: terminals1357.....OK
+07.03.2014 10:44:52.436 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+07.03.2014 10:44:52.442 Terminal: 99999
+07.03.2014 10:44:52.442 SubDealer: 0
+07.03.2014 10:44:52.442 Serial: 105899
+07.03.2014 10:44:52.487 Соединение с сервером ...Успешно
+07.03.2014 10:44:52.488 Connected to: www.forwardmobile.ru
+07.03.2014 10:44:53.697 Проверка обновления...started
+07.03.2014 10:44:53.703 Совпали: f2f67ef641a35a6a67cbe794cb077768 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 885e9eb42889ca547f4e3515dcde5d3d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 17bddadca7044cc7b8406f1ca45210df * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 90a44e0e4b14a4a5d839f8fc48030af5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: f849f2f6992d596183b8e9380e8f712d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 4793b32cf8ddf285a78f0ba78e122f90 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: bfc82d93a05444aa8c7697722d4e7c1f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 8de680b3e881fc8ec8f8c8b10716fbbc * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 129608098b4bca257cfc3f524e5ce05a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 1d9ad5040c5a901108ca0328aff82fc3 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 63c67ea91af5d2b46f676d1d002eabab * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 064b1dcaf76eeb6845e8e0bf6597da26 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 064b1dcaf76eeb6845e8e0bf6597da26 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 54bdaacff60f39e0810dca401b6824c5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: f416c37ea5fa4c223ac943703afe1954 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 6e1cf00e831698047afb1f7c01b9fca4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: e908028c83400f9318aed3bd967cab28 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 09efc9a115303f9499a7d49d0aee2078 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 5dc84ec83fd1e8040f1bb1c9bf35ff32 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: ff39c404184d844a38ebf408ade2d8a4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 25e923715c4586096824af6abdba472c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 0e6578b848b6d1223c30f066445241a7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 083e6cd32297f96fe82e92430a298d47 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 4986a9ae251bf590343badafb937416d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: cb336c0604162f66f0e5a9a617b0e63d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 23730c70f88f05075269426fec3aeb7b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.703 Совпали: 5007f6c30d60fac7e04665f2223ab99a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 7728ca8423c1d89d41a5ae7a4780ab5f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 8beaa4a8bcb653179bdbd4902dd5bb75 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: a0ef1e32a11713118ff1d8cec4c0aea0 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: a6ba3e25568edf589cee9b30f488ca91 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 44e0906dfd63615446c748e71d660da2 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 80789bfe262afcaddd42323d3d7cbfa5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 66633fbfa30fee72f0108ec4e09c74c5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 33bca8933fc722acf3e1c38711a9c6c8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 94c6a5cdc903a8b113367e117f3f5a35 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 26b992b018dec18fa6c119f470df06c4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 97fa8324c7746e0ee5f584d26116e709 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 704806a460133a35bf941aa14dc1d625 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 8025bf259bb880e524eb6d3cdc86364a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: a2ca2c73b254e1a18491f615332b43a3 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 825c1c604dbb86ab1cad85ce6f513a34 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 3051ddc3861e3a981eaef786d72e7b90 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 665b8bec3b883a4103985d24d308ac6a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 8dea11b1a2d1847f5571b6b638238ce0 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 3a1021a95d1d2d1533b3e4f2dc84680e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: b3b0f29c8e92edb9182f0ae4efecaa05 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 1b83b07f7639e49d426254a93a6ce011 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: a2ff022ba22f012c8899283183369d56 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 9021d9898c848ba30fab31672d2bf005 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: eb9faed4641e89f15535c4e5c213310c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 9e7f47d59b59767f62232a42f4192e85 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 77e82458af5f12a9666722c6b622aff4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: a05f22875ad12daaf37d8cde9dd3c6f7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 0190a967a578faabc3dbfd07e1e3ebd4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 369b7b7cbb727887f441980099b7e4d2 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 033c28e5d0be047271619c7e091cfe5f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 8696899459fd09e254d04f8cacfe7043 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 2ccc1ecaf3b3f80d2e84b78b84b10d91 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 05067e9b8de1a6c62abc12a88ee9ba1d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 04d176bbe59fe6474f6e770c50c6b103 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 1b5ab499b221d23169088e54054beb61 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: c560660ed826676e08180ab3179eb748 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 69c984ab51601a94d04510189d5944df * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 03168d7a521ef765f978a3e23fcf5a0d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: ac59a508b82781180d596db05d577962 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: a3998730ee7d410cf9a70b21c5145008 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 77b970918b7edd7553d53b8707d81783 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 389abdf0ac073587b048fefd0aa2f706 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: cac37a600e3358c9ec2354bd3b69ef53 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 6fc5f932ddb8a60a56e763c65bd84081 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 83d8bc56801b04b60f71150ec1a7415e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: bc7503b1103fca02093936cd3df3d730 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: ee705153102490edf44cf8b6e0299a46 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 3f7ef21409df2a41681486da61554266 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 4ae10be80c3b9663d4c8627cfe164396 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.704 Совпали: 0a3a69b0ee468fde2d381fe9cbad3c02 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 0a9942fbdfc8f3ca4af527597896bf66 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: a139c17a7deb06c99de05af123758067 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 681f97f22955a28614faf2804ff9e160 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 0cf73f270fca3e94a4dcc49e509c1b79 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: c8a2ade72cf89228768b120cd69f31f8 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 0d432204e955ce84ef309fba799261bd * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: c06eafe291ae144b9bc627d2d6f6edd0 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 9fc6785a43e02401c0f4f7005ada9c21 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 487525f6a5683d27875ac9a5ce5ab69e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 878421f46a43cae12e9899e21182642b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: a4b33ccd91f3ab871fa7bb474d188c5c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 1d41d63e58f60b67ee8436adfd1e6e94 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 2af4b7606414bf792a3e895f38093eea * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 9a5364b66a6a6ee68ed16f180a3f730f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 8e1928b94896d0f81684b4709738d83e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 9576b4439f8cf5692e52667132965dee * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 82e601b1d8172847fbbc2f8fa4030b9a * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 69bfe7694a3bca504b7caef47e728f54 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 489db748712bec9c653e2f5aab4d70da * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 29bc2f44c39e93689e572f147860cddb * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: a073bbf74f9015832dc572bf86c24f51 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: de8d740046fb38bdeb0860d0ac5ff8cd * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 78ae928513bf16dfc5ecda03e9fabdb7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 8964f24b4fdeab1218dfa9d4380feaf1 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: c9feb02e55836dbb21959b473906a4b6 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 674f091761ce30adc1e640dae88e2fe4 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: ebb107856b46e1038b06842db0bf1a49 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 7cd2b3c447e6b8b62254005207a80b39 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 7e320ac8536bd4213db2f00a5cd061ed * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: c832bcd4f62be462ff743096adde6839 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 93415d9f350880819f096cd3f390b55c * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 7539ca709421918e903c73a0d6c2d6d5 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: e41e56d81f660cda0e0c59c5dad63b78 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 7f62d2fbabb738ea035f7f34f5c61433 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d7213a4c2438905a8f37a8c0b90d0847 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: c286b94f9e8a75bdab987a83eca8f385 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 0b20d61c01fad807bb39171089c32a80 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: e96ea7c3d09a1262ae2b8bda41133f1b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: cc3738f980bb38837aad3122e5fb2b21 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: 3d0cc418bbd90d04b8c05d3ed9684768 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.705 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: a3f7a43193c24e4953a9cb0223a7f34e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 3b3971c0fed714d8ba21279cfe63f510 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: e86c2a040cec17d26ced583c43f3c152 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: b76f4058ce491cdf8b5bd632595e0dee * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 596dea2a49abec299e173b43f04ab743 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 596dea2a49abec299e173b43f04ab743 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 184791b38f78382c1f6e33f476f9dd59 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 1f851ded8c30a53533056fb0fedb0bfd * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 4adaa6bf3e4658045f8c09b75956b83b * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 781381f7e2d3ada8425739a7749440fe * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 8bfc4583037ad6e7adada4b5c494cb18 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: b4b1e34c366af69bc2f0f986b581ad44 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: e1e3ba1f1d9c8c7d246ba7086233905f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 879dffb9107bf4f136bc80a153d6ef66 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: c20ad4d76fe97759aa27a0c99bff6710 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 0137e8b84d3450789d86794bbedd409d * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 97dd70feca64fb4f63de7bb7e66a80b1 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 3ae3dc630d51981ee1c81b0c64d7eb3f * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 91590003933ef3da8235cf96311bca25 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 73dab007edd53ea3525e305bbddf3d82 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: bba09f9da99b0d482451929389322e61 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 9b619356853521b3f888ef2a830037fb * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: aad6f4b96f96dd5e52f7b4989e5c5103 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 468393c570d436810327dbb5340a3589 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: f48bac4f97939fbe32c6ec255f40ee40 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: d41d8cd98f00b204e9800998ecf8427e * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 41b0c69266f1ea6201df4fa358e8e933 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: fd0de834717c864a3e7de542b472cef7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 891fa81f148955335d2bcb68ffd87509 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.706 Совпали: 4efaa53c545f4ffb1ee0ed1709c15ea7 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.707 Совпали: 4a601f16edf4da27786edc559fa44ae2 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.707 Совпали: 9bb3501fc79f1c4aa13e745118f3a595 * и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.707 Added toreload[m]: 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+07.03.2014 10:44:53.713 Added toreload[m]: ed663ea0dbae20fd440fa0716e1409fc *Webclient\DPSKiosk.exe
+07.03.2014 10:44:53.713 Create Directory: C:\Webclient\
+07.03.2014 10:44:53.713 Directory created: C:\Webclient\
+07.03.2014 10:44:53.721 Have/Webclient
+07.03.2014 10:44:53.735 download: true
+07.03.2014 10:44:53.735 Check directory exists ...
+07.03.2014 10:44:54.628 File created : C:\Webclient\DPSKiosk.exe
+07.03.2014 10:44:54.638 File created : C:\Webclient\document.txt
+07.03.2014 10:44:54.638 Disconnect...
+07.03.2014 10:44:54.638 Starting C:\WebClient\DPSKiosk.exe...OK.
+07.03.2014 10:44:54.978 Starting C:\WebClient\DPSCom.exe...OK.
+07.03.2014 11:48:28.281 //-------------- 07.03.2014 11:48:28 -------------------------
+07.03.2014 11:48:28.284 Configuration XML has been opened ... 
+07.03.2014 11:48:28.287 Try to get Configuration info...
+07.03.2014 11:48:28.287 host: www.forwardmobile.ru.....OK
+07.03.2014 11:48:28.287 user: terminals......OK
+07.03.2014 11:48:28.287 password: terminals1357.....OK
+07.03.2014 11:48:28.288 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+07.03.2014 11:48:28.295 Terminal: 99999
+07.03.2014 11:48:28.295 SubDealer: 0
+07.03.2014 11:48:28.295 Serial: 105899
+07.03.2014 11:48:28.399 Соединение с сервером ...Успешно
+07.03.2014 11:48:28.401 Connected to: www.forwardmobile.ru
+07.03.2014 11:56:06.659 //-------------- 07.03.2014 11:56:06 -------------------------
+07.03.2014 11:56:06.664 Configuration XML has been opened ... 
+07.03.2014 11:56:06.669 Try to get Configuration info...
+07.03.2014 11:56:06.669 host: www.forwardmobile.ru.....OK
+07.03.2014 11:56:06.669 user: terminals......OK
+07.03.2014 11:56:06.669 password: terminals1357.....OK
+07.03.2014 11:56:06.669 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+07.03.2014 11:56:06.680 Terminal: 99999
+07.03.2014 11:56:06.680 SubDealer: 0
+07.03.2014 11:56:06.680 Serial: 105899
+07.03.2014 11:56:06.718 Соединение с сервером ...Успешно
+07.03.2014 11:56:06.719 Connected to: www.forwardmobile.ru

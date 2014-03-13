@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+        <script language="javascript" type="text/javascript" src="../../mj/mj.js"></script>
+        <script language="javascript" type="text/javascript" src="../../mj/mj_cybobj.js"></script>
+        <script language="javascript" type="text/javascript" src="../../mj/mj_dyn.js"></script>
+        <script language="javascript" type="text/javascript" src="lcp.js"></script>
+
+        <script language="javascript" type="text/javascript" src="../../dpskiosk.js"></script>
+
+
+        <script language="javascript" type="text/javascript" src="../../iface_jcfg.js"></script>
+        <script language="javascript" type="text/javascript" src="../../iface_config.js"></script>
+
+        <script language="javascript" type="text/javascript" src="../../metro_menu.js"></script>
+
+        <script language="javascript" type="text/javascript" src="../../if3_sc.js"></script>
+
+	<title>SMS-знакомства</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script src="swfobject.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		
+		var pay_url = "checking.html?recepient=756|field100={number}|field101={Gender}|field102={Age}|field103={UserName}|field104={FindGender}|field105={FindAgeFrom}|field106={FindAgeTo}";
+		var flashvars = {
+			exit_url: "main.html",
+			pay_url: pay_url
+		};
+		var params = {
+			menu: "false",
+			scale: "noScale",
+			allowFullscreen: "true",
+			allowScriptAccess: "always",
+			bgcolor: "#000000"
+		};
+		var attributes = {
+			id: "terminal"
+		};
+		swfobject.embedSWF("microsite_part_1_recom.swf", "terminal", "100%", "100%", "8.0.0", null, flashvars, params, attributes);
+	</script>
+
+	<style type="text/css">
+		html, body { width:100%; height:100%; }
+		body { margin:0; }
+	</style>
+</head>
+<body>
+	<script type="text/javascript">
+		function navigate(url)
+		{
+			document.location.href=url;
+		}
+		
+		function terminal_DoFSCommand(command, args) 
+		{
+			if (command == "openURL")
+			{
+				document.location.href=args;
+			}
+		}
+		
+	</script>
+	<div id="terminal">
+	</div>
+</body>
+</html>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="Updater.exe"/>
+    <OBJFILES value="Updater.obj Unit1.obj modules\TProgressBar\TProgressBar.obj 
+      modules\~TMain\TMain.obj modules\TAdvert\TAdvert.obj 
+      modules\LogClass\LogClass.obj modules\TFolderList\TFolderList.obj 
+      modules\TMD5\TMD5Class.obj modules\TMD5\md5.obj 
+      modules\zzTBackUp\TBackup.obj modules\TTimerThread\TimerThread.obj 
+      modules\zzTCancelUpdate\TCancelUpdate.obj"/>
+    <RESFILES value="Updater.res"/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) Unit1.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="Indy60.lib inet.lib xmlrtl.lib rtl.lib vcl.lib"/>
+    <SPARELIBS value="vcl.lib rtl.lib xmlrtl.lib inet.lib Indy60.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi vclx.bpi bcbsmp.bpi dbrtl.bpi adortl.bpi vcldb.bpi 
+      qrpt.bpi bdertl.bpi vcldbx.bpi dsnap.bpi cds.bpi bdecds.bpi teeui.bpi 
+      teedb.bpi tee.bpi teeqr.bpi ibxpress.bpi visualclx.bpi visualdbclx.bpi 
+      vclie.bpi xmlrtl.bpi inet.bpi inetdbbde.bpi inetdbxpress.bpi inetdb.bpi 
+      nmfast.bpi bcbie.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
+      Indy60.bpi bcb2kaxserver.bpi ThemeManagerC6D.bpi ThemeManagerC6.bpi 
+      VirtualTreesC6D.bpi VirtualTreesC6.bpi xmldocBCB6.bpi"/>
+    <PATHCPP value=".;modules\TProgressBar;modules\~TMain;modules\TAdvert;modules\LogClass;modules\TFolderList;modules\TMD5;modules\zzTBackUp;modules\TTimerThread;modules\zzTCancelUpdate"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT"/>
+    <MAINSOURCE value="Updater.cpp"/>
+    <INCLUDEPATH value="modules\~TMain;modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -c 
+      -tW -tWM"/>
+    <PFLAGS value="-$YD -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zd"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="Updater.res" FORMNAME="" UNITNAME="Updater.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Updater.cpp" FORMNAME="" UNITNAME="Updater" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Unit1.cpp" FORMNAME="Form1" UNITNAME="Unit1" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\TProgressBar\TProgressBar.cpp" FORMNAME="" UNITNAME="TProgressBar" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\~TMain\TMain.cpp" FORMNAME="" UNITNAME="TMain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\TAdvert\TAdvert.cpp" FORMNAME="" UNITNAME="TAdvert" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\LogClass\LogClass.cpp" FORMNAME="" UNITNAME="LogClass" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\TFolderList\TFolderList.cpp" FORMNAME="" UNITNAME="TFolderList" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\TMD5\TMD5Class.cpp" FORMNAME="" UNITNAME="TMD5Class" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\TMD5\md5.cpp" FORMNAME="" UNITNAME="md5" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\zzTBackUp\TBackup.cpp" FORMNAME="" UNITNAME="TBackup" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\TTimerThread\TimerThread.cpp" FORMNAME="" UNITNAME="TimerThread" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\zzTCancelUpdate\TCancelUpdate.cpp" FORMNAME="" UNITNAME="TCancelUpdate" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1049
+CodePage=1251
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=3
+Item0=modules\~TMain;modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
+Item1=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
+Item2=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=1
+Item0=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

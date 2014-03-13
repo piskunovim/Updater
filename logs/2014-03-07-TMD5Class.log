@@ -1,0 +1,1110 @@
+07.03.2014 09:21:24.186 MD5 class started ...
+07.03.2014 09:30:30.734 MD5 class started ...
+07.03.2014 09:32:25.567 MD5 class started ...
+07.03.2014 09:33:04.365 MD5 class started ...
+07.03.2014 09:35:52.878 MD5 class started ...
+07.03.2014 09:36:27.129 MD5 class started ...
+07.03.2014 09:40:59.835 MD5 class started ...
+07.03.2014 09:44:13.529 MD5 class started ...
+07.03.2014 09:46:26.237 MD5 class started ...
+07.03.2014 09:46:26.314 Start getting md5 of: C:\DPSUpdate
+07.03.2014 09:46:26.314 MD5 ( C:\DPSUpdate\20120530-ct.cer ) 
+07.03.2014 09:46:26.314 GetSum start: C:\DPSUpdate\20120530-ct.cer
+07.03.2014 09:46:26.345 Start reading C:\DPSUpdate\20120530-ct.cer
+07.03.2014 09:46:26.427 MD5 ( C:\DPSUpdate\7z.exe ) 
+07.03.2014 09:46:26.427 GetSum start: C:\DPSUpdate\7z.exe
+07.03.2014 09:46:26.447 Start reading C:\DPSUpdate\7z.exe
+07.03.2014 09:46:26.454 MD5 ( C:\DPSUpdate\7za.dll ) 
+07.03.2014 09:46:26.454 GetSum start: C:\DPSUpdate\7za.dll
+07.03.2014 09:46:26.470 Start reading C:\DPSUpdate\7za.dll
+07.03.2014 09:46:26.475 MD5 ( C:\DPSUpdate\ASKOPM_KIOSK.dll ) 
+07.03.2014 09:46:26.475 GetSum start: C:\DPSUpdate\ASKOPM_KIOSK.dll
+07.03.2014 09:46:26.478 Start reading C:\DPSUpdate\ASKOPM_KIOSK.dll
+07.03.2014 09:46:26.485 MD5 ( C:\DPSUpdate\AtolPrinter.pcr ) 
+07.03.2014 09:46:26.485 GetSum start: C:\DPSUpdate\AtolPrinter.pcr
+07.03.2014 09:46:26.498 MD5 ( C:\DPSUpdate\Azimuth.dll ) 
+07.03.2014 09:46:26.498 GetSum start: C:\DPSUpdate\Azimuth.dll
+07.03.2014 09:46:26.511 Start reading C:\DPSUpdate\Azimuth.dll
+07.03.2014 09:46:26.513 Start getting md5 of: C:\DPSUpdate\Backup
+07.03.2014 09:46:26.513 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20
+07.03.2014 09:46:26.527 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface
+07.03.2014 09:46:26.530 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface\skins
+07.03.2014 09:46:26.530 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface\skins\metro2
+07.03.2014 09:46:26.530 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface\skins\metro2\i
+07.03.2014 09:46:26.531 Start getting md5 of: C:\DPSUpdate\Backup\632014 11-18-19
+07.03.2014 09:46:26.531 Start getting md5 of: C:\DPSUpdate\Backup\632014 11-21-36
+07.03.2014 09:46:26.531 MD5 ( C:\DPSUpdate\Backup\632014 11-21-36\document.txt ) 
+07.03.2014 09:46:26.531 GetSum start: C:\DPSUpdate\Backup\632014 11-21-36\document.txt
+07.03.2014 09:46:26.532 Start reading C:\DPSUpdate\Backup\632014 11-21-36\document.txt
+07.03.2014 09:46:26.532 MD5 ( C:\DPSUpdate\bcbie60.bpl ) 
+07.03.2014 09:46:26.532 GetSum start: C:\DPSUpdate\bcbie60.bpl
+07.03.2014 09:46:26.541 Start reading C:\DPSUpdate\bcbie60.bpl
+07.03.2014 09:46:26.545 MD5 ( C:\DPSUpdate\beeline.bat ) 
+07.03.2014 09:46:26.545 GetSum start: C:\DPSUpdate\beeline.bat
+07.03.2014 09:46:26.546 Start reading C:\DPSUpdate\beeline.bat
+07.03.2014 09:46:26.546 MD5 ( C:\DPSUpdate\Beta.7z ) 
+07.03.2014 09:46:26.546 GetSum start: C:\DPSUpdate\Beta.7z
+07.03.2014 09:46:26.565 Start reading C:\DPSUpdate\Beta.7z
+07.03.2014 09:46:26.576 MD5 ( C:\DPSUpdate\borlndmm.dll ) 
+07.03.2014 09:46:26.576 GetSum start: C:\DPSUpdate\borlndmm.dll
+07.03.2014 09:46:26.585 Start reading C:\DPSUpdate\borlndmm.dll
+07.03.2014 09:46:26.586 MD5 ( C:\DPSUpdate\cc3260mt.dll ) 
+07.03.2014 09:46:26.586 GetSum start: C:\DPSUpdate\cc3260mt.dll
+07.03.2014 09:46:26.605 Start reading C:\DPSUpdate\cc3260mt.dll
+07.03.2014 09:46:26.623 MD5 ( C:\DPSUpdate\cg32.dll ) 
+07.03.2014 09:46:26.623 GetSum start: C:\DPSUpdate\cg32.dll
+07.03.2014 09:46:26.642 Start reading C:\DPSUpdate\cg32.dll
+07.03.2014 09:46:26.645 Start getting md5 of: C:\DPSUpdate\config
+07.03.2014 09:46:26.645 MD5 ( C:\DPSUpdate\config\config.lastgood ) 
+07.03.2014 09:46:26.645 GetSum start: C:\DPSUpdate\config\config.lastgood
+07.03.2014 09:46:26.653 Start reading C:\DPSUpdate\config\config.lastgood
+07.03.2014 09:46:26.653 MD5 ( C:\DPSUpdate\config\config.xml ) 
+07.03.2014 09:46:26.653 GetSum start: C:\DPSUpdate\config\config.xml
+07.03.2014 09:46:26.661 Start reading C:\DPSUpdate\config\config.xml
+07.03.2014 09:46:26.661 MD5 ( C:\DPSUpdate\config\Details.xml ) 
+07.03.2014 09:46:26.661 GetSum start: C:\DPSUpdate\config\Details.xml
+07.03.2014 09:46:26.661 Start reading C:\DPSUpdate\config\Details.xml
+07.03.2014 09:46:26.661 Start getting md5 of: C:\DPSUpdate\config\templates
+07.03.2014 09:46:26.662 MD5 ( C:\DPSUpdate\config\templates\balance.chq ) 
+07.03.2014 09:46:26.662 GetSum start: C:\DPSUpdate\config\templates\balance.chq
+07.03.2014 09:46:26.662 Start reading C:\DPSUpdate\config\templates\balance.chq
+07.03.2014 09:46:26.662 MD5 ( C:\DPSUpdate\config\templates\default.chq ) 
+07.03.2014 09:46:26.662 GetSum start: C:\DPSUpdate\config\templates\default.chq
+07.03.2014 09:46:26.665 Start reading C:\DPSUpdate\config\templates\default.chq
+07.03.2014 09:46:26.665 MD5 ( C:\DPSUpdate\config\templates\incassation.chq ) 
+07.03.2014 09:46:26.665 GetSum start: C:\DPSUpdate\config\templates\incassation.chq
+07.03.2014 09:46:26.665 Start reading C:\DPSUpdate\config\templates\incassation.chq
+07.03.2014 09:46:26.666 MD5 ( C:\DPSUpdate\config\templates\payment-error.chq ) 
+07.03.2014 09:46:26.666 GetSum start: C:\DPSUpdate\config\templates\payment-error.chq
+07.03.2014 09:46:26.666 Start reading C:\DPSUpdate\config\templates\payment-error.chq
+07.03.2014 09:46:26.666 MD5 ( C:\DPSUpdate\confTool.exe ) 
+07.03.2014 09:46:26.666 GetSum start: C:\DPSUpdate\confTool.exe
+07.03.2014 09:46:26.686 Start reading C:\DPSUpdate\confTool.exe
+07.03.2014 09:46:26.706 MD5 ( C:\DPSUpdate\CryptLib.dll ) 
+07.03.2014 09:46:26.707 GetSum start: C:\DPSUpdate\CryptLib.dll
+07.03.2014 09:46:26.722 Start reading C:\DPSUpdate\CryptLib.dll
+07.03.2014 09:46:26.724 MD5 ( C:\DPSUpdate\dclusr60.bpl ) 
+07.03.2014 09:46:26.725 GetSum start: C:\DPSUpdate\dclusr60.bpl
+07.03.2014 09:46:26.735 Start reading C:\DPSUpdate\dclusr60.bpl
+07.03.2014 09:46:26.736 MD5 ( C:\DPSUpdate\DllEmul.dll ) 
+07.03.2014 09:46:26.736 GetSum start: C:\DPSUpdate\DllEmul.dll
+07.03.2014 09:46:26.747 Start reading C:\DPSUpdate\DllEmul.dll
+07.03.2014 09:46:26.754 MD5 ( C:\DPSUpdate\DPSCom.exe ) 
+07.03.2014 09:46:26.754 GetSum start: C:\DPSUpdate\DPSCom.exe
+07.03.2014 09:46:26.761 Start reading C:\DPSUpdate\DPSCom.exe
+07.03.2014 09:46:26.777 MD5 ( C:\DPSUpdate\DPSCom.tds ) 
+07.03.2014 09:46:26.777 GetSum start: C:\DPSUpdate\DPSCom.tds
+07.03.2014 09:46:26.826 Start reading C:\DPSUpdate\DPSCom.tds
+07.03.2014 09:46:26.880 MD5 ( C:\DPSUpdate\Dpsdruppal.txt ) 
+07.03.2014 09:46:26.880 GetSum start: C:\DPSUpdate\Dpsdruppal.txt
+07.03.2014 09:46:26.891 MD5 ( C:\DPSUpdate\DPSKiosk.exe ) 
+07.03.2014 09:46:26.891 GetSum start: C:\DPSUpdate\DPSKiosk.exe
+07.03.2014 09:46:26.959 Start reading C:\DPSUpdate\DPSKiosk.exe
+07.03.2014 09:46:27.035 MD5 ( C:\DPSUpdate\DPSKiosk.tds ) 
+07.03.2014 09:46:27.035 GetSum start: C:\DPSUpdate\DPSKiosk.tds
+07.03.2014 09:46:27.153 Start reading C:\DPSUpdate\DPSKiosk.tds
+07.03.2014 09:46:27.331 MD5 ( C:\DPSUpdate\DPSKioskSetup.exe ) 
+07.03.2014 09:46:27.331 GetSum start: C:\DPSUpdate\DPSKioskSetup.exe
+07.03.2014 09:46:27.360 Start reading C:\DPSUpdate\DPSKioskSetup.exe
+07.03.2014 09:46:27.399 MD5 ( C:\DPSUpdate\DPSUpdate.7z ) 
+07.03.2014 09:46:27.400 GetSum start: C:\DPSUpdate\DPSUpdate.7z
+07.03.2014 09:46:27.417 Start reading C:\DPSUpdate\DPSUpdate.7z
+07.03.2014 09:46:27.429 MD5 ( C:\DPSUpdate\hidwdt32.dll ) 
+07.03.2014 09:46:27.429 GetSum start: C:\DPSUpdate\hidwdt32.dll
+07.03.2014 09:46:27.440 Start reading C:\DPSUpdate\hidwdt32.dll
+07.03.2014 09:46:27.441 Start getting md5 of: C:\DPSUpdate\inbound
+07.03.2014 09:46:27.441 MD5 ( C:\DPSUpdate\indy60.bpl ) 
+07.03.2014 09:46:27.441 GetSum start: C:\DPSUpdate\indy60.bpl
+07.03.2014 09:46:27.447 Start reading C:\DPSUpdate\indy60.bpl
+07.03.2014 09:46:27.460 MD5 ( C:\DPSUpdate\libeay32.dll ) 
+07.03.2014 09:46:27.460 GetSum start: C:\DPSUpdate\libeay32.dll
+07.03.2014 09:46:27.477 Start reading C:\DPSUpdate\libeay32.dll
+07.03.2014 09:46:27.485 MD5 ( C:\DPSUpdate\libipriv.dll ) 
+07.03.2014 09:46:27.485 GetSum start: C:\DPSUpdate\libipriv.dll
+07.03.2014 09:46:27.497 Start reading C:\DPSUpdate\libipriv.dll
+07.03.2014 09:46:27.498 Start getting md5 of: C:\DPSUpdate\logs
+07.03.2014 09:46:27.499 MD5 ( C:\DPSUpdate\logs\2013-06-06-.log ) 
+07.03.2014 09:46:27.499 GetSum start: C:\DPSUpdate\logs\2013-06-06-.log
+07.03.2014 09:46:27.511 Start reading C:\DPSUpdate\logs\2013-06-06-.log
+07.03.2014 09:46:27.511 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-CommandsThread.log ) 
+07.03.2014 09:46:27.511 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-CommandsThread.log
+07.03.2014 09:46:27.512 Start reading C:\DPSUpdate\logs\2013-06-06-Com-CommandsThread.log
+07.03.2014 09:46:27.512 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-EMailThread.log ) 
+07.03.2014 09:46:27.512 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-EMailThread.log
+07.03.2014 09:46:27.512 Start reading C:\DPSUpdate\logs\2013-06-06-Com-EMailThread.log
+07.03.2014 09:46:27.512 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-PaymentsThread.log ) 
+07.03.2014 09:46:27.512 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-PaymentsThread.log
+07.03.2014 09:46:27.525 Start reading C:\DPSUpdate\logs\2013-06-06-Com-PaymentsThread.log
+07.03.2014 09:46:27.525 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-StatThread.log ) 
+07.03.2014 09:46:27.525 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-StatThread.log
+07.03.2014 09:46:27.535 Start reading C:\DPSUpdate\logs\2013-06-06-Com-StatThread.log
+07.03.2014 09:46:27.535 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com.log ) 
+07.03.2014 09:46:27.535 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com.log
+07.03.2014 09:46:27.544 Start reading C:\DPSUpdate\logs\2013-06-06-Com.log
+07.03.2014 09:46:27.544 MD5 ( C:\DPSUpdate\logs\2013-06-06-DPSKiosk.log ) 
+07.03.2014 09:46:27.544 GetSum start: C:\DPSUpdate\logs\2013-06-06-DPSKiosk.log
+07.03.2014 09:46:27.548 Start reading C:\DPSUpdate\logs\2013-06-06-DPSKiosk.log
+07.03.2014 09:46:27.548 MD5 ( C:\DPSUpdate\logs\2013-06-06-iface.log ) 
+07.03.2014 09:46:27.548 GetSum start: C:\DPSUpdate\logs\2013-06-06-iface.log
+07.03.2014 09:46:27.567 Start reading C:\DPSUpdate\logs\2013-06-06-iface.log
+07.03.2014 09:46:27.567 MD5 ( C:\DPSUpdate\logs\2013-06-06-list.log ) 
+07.03.2014 09:46:27.567 GetSum start: C:\DPSUpdate\logs\2013-06-06-list.log
+07.03.2014 09:46:27.567 Start reading C:\DPSUpdate\logs\2013-06-06-list.log
+07.03.2014 09:46:27.567 MD5 ( C:\DPSUpdate\logs\2013-06-06-Modem.log ) 
+07.03.2014 09:46:27.567 GetSum start: C:\DPSUpdate\logs\2013-06-06-Modem.log
+07.03.2014 09:46:27.569 Start reading C:\DPSUpdate\logs\2013-06-06-Modem.log
+07.03.2014 09:46:27.569 MD5 ( C:\DPSUpdate\logs\2013-06-06-PagesHistory.log ) 
+07.03.2014 09:46:27.569 GetSum start: C:\DPSUpdate\logs\2013-06-06-PagesHistory.log
+07.03.2014 09:46:27.580 Start reading C:\DPSUpdate\logs\2013-06-06-PagesHistory.log
+07.03.2014 09:46:27.580 MD5 ( C:\DPSUpdate\logs\2013-06-06-Payments.log ) 
+07.03.2014 09:46:27.580 GetSum start: C:\DPSUpdate\logs\2013-06-06-Payments.log
+07.03.2014 09:46:27.581 MD5 ( C:\DPSUpdate\logs\2013-06-06-SiemensMC35i.log ) 
+07.03.2014 09:46:27.581 GetSum start: C:\DPSUpdate\logs\2013-06-06-SiemensMC35i.log
+07.03.2014 09:46:27.582 Start reading C:\DPSUpdate\logs\2013-06-06-SiemensMC35i.log
+07.03.2014 09:46:27.582 MD5 ( C:\DPSUpdate\logs\2013-06-06-Sound.log ) 
+07.03.2014 09:46:27.582 GetSum start: C:\DPSUpdate\logs\2013-06-06-Sound.log
+07.03.2014 09:46:27.582 Start reading C:\DPSUpdate\logs\2013-06-06-Sound.log
+07.03.2014 09:46:27.582 MD5 ( C:\DPSUpdate\logs\2013-06-06-TCModule.log ) 
+07.03.2014 09:46:27.582 GetSum start: C:\DPSUpdate\logs\2013-06-06-TCModule.log
+07.03.2014 09:46:27.593 Start reading C:\DPSUpdate\logs\2013-06-06-TCModule.log
+07.03.2014 09:46:27.593 MD5 ( C:\DPSUpdate\logs\2013-06-06-TransportCardTimer.log ) 
+07.03.2014 09:46:27.593 GetSum start: C:\DPSUpdate\logs\2013-06-06-TransportCardTimer.log
+07.03.2014 09:46:27.607 Start reading C:\DPSUpdate\logs\2013-06-06-TransportCardTimer.log
+07.03.2014 09:46:27.607 MD5 ( C:\DPSUpdate\logs\2013-06-06-TTimeSynch.log ) 
+07.03.2014 09:46:27.607 GetSum start: C:\DPSUpdate\logs\2013-06-06-TTimeSynch.log
+07.03.2014 09:46:27.618 Start reading C:\DPSUpdate\logs\2013-06-06-TTimeSynch.log
+07.03.2014 09:46:27.618 MD5 ( C:\DPSUpdate\logs\2013-06-06-WinPrinter.log ) 
+07.03.2014 09:46:27.619 GetSum start: C:\DPSUpdate\logs\2013-06-06-WinPrinter.log
+07.03.2014 09:46:27.619 Start reading C:\DPSUpdate\logs\2013-06-06-WinPrinter.log
+07.03.2014 09:46:27.619 MD5 ( C:\DPSUpdate\logs\2013-06-07-.log ) 
+07.03.2014 09:46:27.619 GetSum start: C:\DPSUpdate\logs\2013-06-07-.log
+07.03.2014 09:46:27.620 Start reading C:\DPSUpdate\logs\2013-06-07-.log
+07.03.2014 09:46:27.620 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-CommandsThread.log ) 
+07.03.2014 09:46:27.620 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-CommandsThread.log
+07.03.2014 09:46:27.620 Start reading C:\DPSUpdate\logs\2013-06-07-Com-CommandsThread.log
+07.03.2014 09:46:27.620 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-EMailThread.log ) 
+07.03.2014 09:46:27.620 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-EMailThread.log
+07.03.2014 09:46:27.621 Start reading C:\DPSUpdate\logs\2013-06-07-Com-EMailThread.log
+07.03.2014 09:46:27.621 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-PaymentsThread.log ) 
+07.03.2014 09:46:27.621 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-PaymentsThread.log
+07.03.2014 09:46:27.623 Start reading C:\DPSUpdate\logs\2013-06-07-Com-PaymentsThread.log
+07.03.2014 09:46:27.623 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-StatThread.log ) 
+07.03.2014 09:46:27.623 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-StatThread.log
+07.03.2014 09:46:27.631 Start reading C:\DPSUpdate\logs\2013-06-07-Com-StatThread.log
+07.03.2014 09:46:27.631 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com.log ) 
+07.03.2014 09:46:27.631 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com.log
+07.03.2014 09:46:27.632 Start reading C:\DPSUpdate\logs\2013-06-07-Com.log
+07.03.2014 09:46:27.633 MD5 ( C:\DPSUpdate\logs\2013-06-07-DPSKiosk.log ) 
+07.03.2014 09:46:27.633 GetSum start: C:\DPSUpdate\logs\2013-06-07-DPSKiosk.log
+07.03.2014 09:46:27.637 Start reading C:\DPSUpdate\logs\2013-06-07-DPSKiosk.log
+07.03.2014 09:46:27.637 MD5 ( C:\DPSUpdate\logs\2013-06-07-iface.log ) 
+07.03.2014 09:46:27.637 GetSum start: C:\DPSUpdate\logs\2013-06-07-iface.log
+07.03.2014 09:46:27.638 Start reading C:\DPSUpdate\logs\2013-06-07-iface.log
+07.03.2014 09:46:27.638 MD5 ( C:\DPSUpdate\logs\2013-06-07-list.log ) 
+07.03.2014 09:46:27.638 GetSum start: C:\DPSUpdate\logs\2013-06-07-list.log
+07.03.2014 09:46:27.639 Start reading C:\DPSUpdate\logs\2013-06-07-list.log
+07.03.2014 09:46:27.640 MD5 ( C:\DPSUpdate\logs\2013-06-07-Modem.log ) 
+07.03.2014 09:46:27.640 GetSum start: C:\DPSUpdate\logs\2013-06-07-Modem.log
+07.03.2014 09:46:27.647 Start reading C:\DPSUpdate\logs\2013-06-07-Modem.log
+07.03.2014 09:46:27.648 MD5 ( C:\DPSUpdate\logs\2013-06-07-PagesHistory.log ) 
+07.03.2014 09:46:27.648 GetSum start: C:\DPSUpdate\logs\2013-06-07-PagesHistory.log
+07.03.2014 09:46:27.656 Start reading C:\DPSUpdate\logs\2013-06-07-PagesHistory.log
+07.03.2014 09:46:27.656 MD5 ( C:\DPSUpdate\logs\2013-06-07-Payments.log ) 
+07.03.2014 09:46:27.657 GetSum start: C:\DPSUpdate\logs\2013-06-07-Payments.log
+07.03.2014 09:46:27.657 Start reading C:\DPSUpdate\logs\2013-06-07-Payments.log
+07.03.2014 09:46:27.657 MD5 ( C:\DPSUpdate\logs\2013-06-07-SiemensMC35i.log ) 
+07.03.2014 09:46:27.657 GetSum start: C:\DPSUpdate\logs\2013-06-07-SiemensMC35i.log
+07.03.2014 09:46:27.670 Start reading C:\DPSUpdate\logs\2013-06-07-SiemensMC35i.log
+07.03.2014 09:46:27.670 MD5 ( C:\DPSUpdate\logs\2013-06-07-Sound.log ) 
+07.03.2014 09:46:27.670 GetSum start: C:\DPSUpdate\logs\2013-06-07-Sound.log
+07.03.2014 09:46:27.675 Start reading C:\DPSUpdate\logs\2013-06-07-Sound.log
+07.03.2014 09:46:27.675 MD5 ( C:\DPSUpdate\logs\2013-06-07-TCModule.log ) 
+07.03.2014 09:46:27.675 GetSum start: C:\DPSUpdate\logs\2013-06-07-TCModule.log
+07.03.2014 09:46:27.675 Start reading C:\DPSUpdate\logs\2013-06-07-TCModule.log
+07.03.2014 09:46:27.675 MD5 ( C:\DPSUpdate\logs\2013-06-07-TransportCardTimer.log ) 
+07.03.2014 09:46:27.676 GetSum start: C:\DPSUpdate\logs\2013-06-07-TransportCardTimer.log
+07.03.2014 09:46:27.686 Start reading C:\DPSUpdate\logs\2013-06-07-TransportCardTimer.log
+07.03.2014 09:46:27.686 MD5 ( C:\DPSUpdate\logs\2013-06-07-TTimeSynch.log ) 
+07.03.2014 09:46:27.686 GetSum start: C:\DPSUpdate\logs\2013-06-07-TTimeSynch.log
+07.03.2014 09:46:27.687 Start reading C:\DPSUpdate\logs\2013-06-07-TTimeSynch.log
+07.03.2014 09:46:27.687 MD5 ( C:\DPSUpdate\logs\2013-06-07-unlock.log ) 
+07.03.2014 09:46:27.687 GetSum start: C:\DPSUpdate\logs\2013-06-07-unlock.log
+07.03.2014 09:46:27.688 Start reading C:\DPSUpdate\logs\2013-06-07-unlock.log
+07.03.2014 09:46:27.688 MD5 ( C:\DPSUpdate\logs\2013-06-07-WinPrinter.log ) 
+07.03.2014 09:46:27.688 GetSum start: C:\DPSUpdate\logs\2013-06-07-WinPrinter.log
+07.03.2014 09:46:27.691 Start reading C:\DPSUpdate\logs\2013-06-07-WinPrinter.log
+07.03.2014 09:46:27.692 MD5 ( C:\DPSUpdate\logs\2013-06-10-.log ) 
+07.03.2014 09:46:27.692 GetSum start: C:\DPSUpdate\logs\2013-06-10-.log
+07.03.2014 09:46:27.692 Start reading C:\DPSUpdate\logs\2013-06-10-.log
+07.03.2014 09:46:27.692 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com-EMailThread.log ) 
+07.03.2014 09:46:27.692 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com-EMailThread.log
+07.03.2014 09:46:27.693 Start reading C:\DPSUpdate\logs\2013-06-10-Com-EMailThread.log
+07.03.2014 09:46:27.693 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com-PaymentsThread.log ) 
+07.03.2014 09:46:27.693 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com-PaymentsThread.log
+07.03.2014 09:46:27.694 Start reading C:\DPSUpdate\logs\2013-06-10-Com-PaymentsThread.log
+07.03.2014 09:46:27.694 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com-StatThread.log ) 
+07.03.2014 09:46:27.694 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com-StatThread.log
+07.03.2014 09:46:27.696 Start reading C:\DPSUpdate\logs\2013-06-10-Com-StatThread.log
+07.03.2014 09:46:27.696 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com.log ) 
+07.03.2014 09:46:27.696 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com.log
+07.03.2014 09:46:27.697 Start reading C:\DPSUpdate\logs\2013-06-10-Com.log
+07.03.2014 09:46:27.697 MD5 ( C:\DPSUpdate\logs\2013-06-10-DPSKiosk.log ) 
+07.03.2014 09:46:27.697 GetSum start: C:\DPSUpdate\logs\2013-06-10-DPSKiosk.log
+07.03.2014 09:46:27.703 Start reading C:\DPSUpdate\logs\2013-06-10-DPSKiosk.log
+07.03.2014 09:46:27.703 MD5 ( C:\DPSUpdate\logs\2013-06-10-iface.log ) 
+07.03.2014 09:46:27.703 GetSum start: C:\DPSUpdate\logs\2013-06-10-iface.log
+07.03.2014 09:46:27.711 Start reading C:\DPSUpdate\logs\2013-06-10-iface.log
+07.03.2014 09:46:27.711 MD5 ( C:\DPSUpdate\logs\2013-06-10-list.log ) 
+07.03.2014 09:46:27.711 GetSum start: C:\DPSUpdate\logs\2013-06-10-list.log
+07.03.2014 09:46:27.711 Start reading C:\DPSUpdate\logs\2013-06-10-list.log
+07.03.2014 09:46:27.711 MD5 ( C:\DPSUpdate\logs\2013-06-10-Modem.log ) 
+07.03.2014 09:46:27.711 GetSum start: C:\DPSUpdate\logs\2013-06-10-Modem.log
+07.03.2014 09:46:27.725 Start reading C:\DPSUpdate\logs\2013-06-10-Modem.log
+07.03.2014 09:46:27.725 MD5 ( C:\DPSUpdate\logs\2013-06-10-PagesHistory.log ) 
+07.03.2014 09:46:27.725 GetSum start: C:\DPSUpdate\logs\2013-06-10-PagesHistory.log
+07.03.2014 09:46:27.737 Start reading C:\DPSUpdate\logs\2013-06-10-PagesHistory.log
+07.03.2014 09:46:27.737 MD5 ( C:\DPSUpdate\logs\2013-06-10-Payments.log ) 
+07.03.2014 09:46:27.737 GetSum start: C:\DPSUpdate\logs\2013-06-10-Payments.log
+07.03.2014 09:46:27.748 Start reading C:\DPSUpdate\logs\2013-06-10-Payments.log
+07.03.2014 09:46:27.748 MD5 ( C:\DPSUpdate\logs\2013-06-10-SiemensMC35i.log ) 
+07.03.2014 09:46:27.748 GetSum start: C:\DPSUpdate\logs\2013-06-10-SiemensMC35i.log
+07.03.2014 09:46:27.753 Start reading C:\DPSUpdate\logs\2013-06-10-SiemensMC35i.log
+07.03.2014 09:46:27.753 MD5 ( C:\DPSUpdate\logs\2013-06-10-Sound.log ) 
+07.03.2014 09:46:27.753 GetSum start: C:\DPSUpdate\logs\2013-06-10-Sound.log
+07.03.2014 09:46:27.761 Start reading C:\DPSUpdate\logs\2013-06-10-Sound.log
+07.03.2014 09:46:27.761 MD5 ( C:\DPSUpdate\logs\2013-06-10-TCModule.log ) 
+07.03.2014 09:46:27.761 GetSum start: C:\DPSUpdate\logs\2013-06-10-TCModule.log
+07.03.2014 09:46:27.762 Start reading C:\DPSUpdate\logs\2013-06-10-TCModule.log
+07.03.2014 09:46:27.762 MD5 ( C:\DPSUpdate\logs\2013-06-10-TransportCardTimer.log ) 
+07.03.2014 09:46:27.762 GetSum start: C:\DPSUpdate\logs\2013-06-10-TransportCardTimer.log
+07.03.2014 09:46:27.763 Start reading C:\DPSUpdate\logs\2013-06-10-TransportCardTimer.log
+07.03.2014 09:46:27.763 MD5 ( C:\DPSUpdate\logs\2013-06-10-TTimeSynch.log ) 
+07.03.2014 09:46:27.763 GetSum start: C:\DPSUpdate\logs\2013-06-10-TTimeSynch.log
+07.03.2014 09:46:27.763 Start reading C:\DPSUpdate\logs\2013-06-10-TTimeSynch.log
+07.03.2014 09:46:27.763 MD5 ( C:\DPSUpdate\logs\2013-06-10-unlock.log ) 
+07.03.2014 09:46:27.763 GetSum start: C:\DPSUpdate\logs\2013-06-10-unlock.log
+07.03.2014 09:46:27.764 Start reading C:\DPSUpdate\logs\2013-06-10-unlock.log
+07.03.2014 09:46:27.764 MD5 ( C:\DPSUpdate\logs\2013-06-10-WinPrinter.log ) 
+07.03.2014 09:46:27.764 GetSum start: C:\DPSUpdate\logs\2013-06-10-WinPrinter.log
+07.03.2014 09:46:27.769 Start reading C:\DPSUpdate\logs\2013-06-10-WinPrinter.log
+07.03.2014 09:46:27.770 MD5 ( C:\DPSUpdate\logs\2014-01-23-.log ) 
+07.03.2014 09:46:27.770 GetSum start: C:\DPSUpdate\logs\2014-01-23-.log
+07.03.2014 09:46:27.770 Start reading C:\DPSUpdate\logs\2014-01-23-.log
+07.03.2014 09:46:27.770 MD5 ( C:\DPSUpdate\logs\2014-01-23-Com-CommandsThread.log ) 
+07.03.2014 09:46:27.770 GetSum start: C:\DPSUpdate\logs\2014-01-23-Com-CommandsThread.log
+07.03.2014 09:46:27.782 Start reading C:\DPSUpdate\logs\2014-01-23-Com-CommandsThread.log
+07.03.2014 09:46:27.782 MD5 ( C:\DPSUpdate\logs\2014-01-23-Com-PaymentsThread.log ) 
+07.03.2014 09:46:27.782 GetSum start: C:\DPSUpdate\logs\2014-01-23-Com-PaymentsThread.log
+07.03.2014 09:46:27.795 Start reading C:\DPSUpdate\logs\2014-01-23-Com-PaymentsThread.log
+07.03.2014 09:46:27.795 MD5 ( C:\DPSUpdate\logs\2014-01-23-Com.log ) 
+07.03.2014 09:46:27.795 GetSum start: C:\DPSUpdate\logs\2014-01-23-Com.log
+07.03.2014 09:46:27.806 Start reading C:\DPSUpdate\logs\2014-01-23-Com.log
+07.03.2014 09:46:27.807 MD5 ( C:\DPSUpdate\logs\2014-01-23-DPSKiosk.log ) 
+07.03.2014 09:46:27.807 GetSum start: C:\DPSUpdate\logs\2014-01-23-DPSKiosk.log
+07.03.2014 09:46:27.818 Start reading C:\DPSUpdate\logs\2014-01-23-DPSKiosk.log
+07.03.2014 09:46:27.819 MD5 ( C:\DPSUpdate\logs\2014-01-23-iface.log ) 
+07.03.2014 09:46:27.819 GetSum start: C:\DPSUpdate\logs\2014-01-23-iface.log
+07.03.2014 09:46:27.829 Start reading C:\DPSUpdate\logs\2014-01-23-iface.log
+07.03.2014 09:46:27.830 MD5 ( C:\DPSUpdate\logs\2014-01-23-list.log ) 
+07.03.2014 09:46:27.830 GetSum start: C:\DPSUpdate\logs\2014-01-23-list.log
+07.03.2014 09:46:27.830 Start reading C:\DPSUpdate\logs\2014-01-23-list.log
+07.03.2014 09:46:27.830 MD5 ( C:\DPSUpdate\logs\2014-01-23-PagesHistory.log ) 
+07.03.2014 09:46:27.830 GetSum start: C:\DPSUpdate\logs\2014-01-23-PagesHistory.log
+07.03.2014 09:46:27.836 Start reading C:\DPSUpdate\logs\2014-01-23-PagesHistory.log
+07.03.2014 09:46:27.837 MD5 ( C:\DPSUpdate\logs\2014-01-23-Payments.log ) 
+07.03.2014 09:46:27.837 GetSum start: C:\DPSUpdate\logs\2014-01-23-Payments.log
+07.03.2014 09:46:27.837 MD5 ( C:\DPSUpdate\logs\2014-01-23-Sound.log ) 
+07.03.2014 09:46:27.837 GetSum start: C:\DPSUpdate\logs\2014-01-23-Sound.log
+07.03.2014 09:46:27.837 Start reading C:\DPSUpdate\logs\2014-01-23-Sound.log
+07.03.2014 09:46:27.837 MD5 ( C:\DPSUpdate\logs\2014-01-23-TBlackList.log ) 
+07.03.2014 09:46:27.837 GetSum start: C:\DPSUpdate\logs\2014-01-23-TBlackList.log
+07.03.2014 09:46:27.842 Start reading C:\DPSUpdate\logs\2014-01-23-TBlackList.log
+07.03.2014 09:46:27.842 MD5 ( C:\DPSUpdate\logs\2014-01-23-TCModule.log ) 
+07.03.2014 09:46:27.842 GetSum start: C:\DPSUpdate\logs\2014-01-23-TCModule.log
+07.03.2014 09:46:27.845 Start reading C:\DPSUpdate\logs\2014-01-23-TCModule.log
+07.03.2014 09:46:27.846 MD5 ( C:\DPSUpdate\logs\2014-01-23-TransportCardTimer.log ) 
+07.03.2014 09:46:27.846 GetSum start: C:\DPSUpdate\logs\2014-01-23-TransportCardTimer.log
+07.03.2014 09:46:27.851 Start reading C:\DPSUpdate\logs\2014-01-23-TransportCardTimer.log
+07.03.2014 09:46:27.851 MD5 ( C:\DPSUpdate\logs\2014-01-23-TTimeSynch.log ) 
+07.03.2014 09:46:27.851 GetSum start: C:\DPSUpdate\logs\2014-01-23-TTimeSynch.log
+07.03.2014 09:46:27.851 Start reading C:\DPSUpdate\logs\2014-01-23-TTimeSynch.log
+07.03.2014 09:46:27.851 MD5 ( C:\DPSUpdate\logs\2014-01-23-WinPrinter.log ) 
+07.03.2014 09:46:27.851 GetSum start: C:\DPSUpdate\logs\2014-01-23-WinPrinter.log
+07.03.2014 09:46:27.852 Start reading C:\DPSUpdate\logs\2014-01-23-WinPrinter.log
+07.03.2014 09:46:27.852 MD5 ( C:\DPSUpdate\logs\2014-03-06-TBackup.log ) 
+07.03.2014 09:46:27.852 GetSum start: C:\DPSUpdate\logs\2014-03-06-TBackup.log
+07.03.2014 09:46:27.853 Start reading C:\DPSUpdate\logs\2014-03-06-TBackup.log
+07.03.2014 09:46:27.853 MD5 ( C:\DPSUpdate\logs\2014-03-06-TCancelUpdate.log ) 
+07.03.2014 09:46:27.853 GetSum start: C:\DPSUpdate\logs\2014-03-06-TCancelUpdate.log
+07.03.2014 09:46:27.854 Start reading C:\DPSUpdate\logs\2014-03-06-TCancelUpdate.log
+07.03.2014 09:46:27.854 MD5 ( C:\DPSUpdate\logs\2014-03-06-TFolderList.log ) 
+07.03.2014 09:46:27.854 GetSum start: C:\DPSUpdate\logs\2014-03-06-TFolderList.log
+07.03.2014 09:46:27.855 Start reading C:\DPSUpdate\logs\2014-03-06-TFolderList.log
+07.03.2014 09:46:27.855 MD5 ( C:\DPSUpdate\logs\2014-03-06-TimerThread.log ) 
+07.03.2014 09:46:27.855 GetSum start: C:\DPSUpdate\logs\2014-03-06-TimerThread.log
+07.03.2014 09:46:27.856 Start reading C:\DPSUpdate\logs\2014-03-06-TimerThread.log
+07.03.2014 09:46:27.856 MD5 ( C:\DPSUpdate\logs\2014-03-06-TMain.log ) 
+07.03.2014 09:46:27.856 GetSum start: C:\DPSUpdate\logs\2014-03-06-TMain.log
+07.03.2014 09:46:27.882 Start reading C:\DPSUpdate\logs\2014-03-06-TMain.log
+07.03.2014 09:46:27.893 MD5 ( C:\DPSUpdate\logs\2014-03-06-TMD5Class.log ) 
+07.03.2014 09:46:27.893 GetSum start: C:\DPSUpdate\logs\2014-03-06-TMD5Class.log
+07.03.2014 09:46:27.925 Start reading C:\DPSUpdate\logs\2014-03-06-TMD5Class.log
+07.03.2014 09:46:27.958 MD5 ( C:\DPSUpdate\main_mob.png ) 
+07.03.2014 09:46:27.958 GetSum start: C:\DPSUpdate\main_mob.png
+07.03.2014 09:46:27.987 Start reading C:\DPSUpdate\main_mob.png
+07.03.2014 09:46:27.988 MD5 ( C:\DPSUpdate\md5.txt ) 
+07.03.2014 09:46:27.988 GetSum start: C:\DPSUpdate\md5.txt
+07.03.2014 09:46:27.997 Start reading C:\DPSUpdate\md5.txt
+07.03.2014 09:46:27.997 MD5 ( C:\DPSUpdate\megafon.bat ) 
+07.03.2014 09:46:27.997 GetSum start: C:\DPSUpdate\megafon.bat
+07.03.2014 09:46:28.011 Start reading C:\DPSUpdate\megafon.bat
+07.03.2014 09:46:28.011 MD5 ( C:\DPSUpdate\mts.bat ) 
+07.03.2014 09:46:28.011 GetSum start: C:\DPSUpdate\mts.bat
+07.03.2014 09:46:28.024 Start reading C:\DPSUpdate\mts.bat
+07.03.2014 09:46:28.025 Start getting md5 of: C:\DPSUpdate\outbound
+07.03.2014 09:46:28.025 Start getting md5 of: C:\DPSUpdate\outbound\checks
+07.03.2014 09:46:28.025 Start getting md5 of: C:\DPSUpdate\outbound\email
+07.03.2014 09:46:28.025 Start getting md5 of: C:\DPSUpdate\outbound\email\ext
+07.03.2014 09:46:28.025 Start getting md5 of: C:\DPSUpdate\outbound\email\ext\temp
+07.03.2014 09:46:28.026 Start getting md5 of: C:\DPSUpdate\outbound\email\temp
+07.03.2014 09:46:28.026 Start getting md5 of: C:\DPSUpdate\outbound\payments
+07.03.2014 09:46:28.026 Start getting md5 of: C:\DPSUpdate\outbound\payments\temp
+07.03.2014 09:46:28.026 Start getting md5 of: C:\DPSUpdate\outbound\payments\unprocessed
+07.03.2014 09:46:28.027 Start getting md5 of: C:\DPSUpdate\outbound\sms
+07.03.2014 09:46:28.027 Start getting md5 of: C:\DPSUpdate\outbound\sms\temp
+07.03.2014 09:46:28.027 Start getting md5 of: C:\DPSUpdate\outbound\stat
+07.03.2014 09:46:28.043 MD5 ( C:\DPSUpdate\outbound\stat\out-printer-1ststate.pkt ) 
+07.03.2014 09:46:28.043 GetSum start: C:\DPSUpdate\outbound\stat\out-printer-1ststate.pkt
+07.03.2014 09:46:28.043 Start reading C:\DPSUpdate\outbound\stat\out-printer-1ststate.pkt
+07.03.2014 09:46:28.044 MD5 ( C:\DPSUpdate\outbound\stat\out-version.pkt ) 
+07.03.2014 09:46:28.044 GetSum start: C:\DPSUpdate\outbound\stat\out-version.pkt
+07.03.2014 09:46:28.044 Start reading C:\DPSUpdate\outbound\stat\out-version.pkt
+07.03.2014 09:46:28.044 MD5 ( C:\DPSUpdate\outbound\stat\out130604023425952730045777.pkt ) 
+07.03.2014 09:46:28.044 GetSum start: C:\DPSUpdate\outbound\stat\out130604023425952730045777.pkt
+07.03.2014 09:46:28.044 Start reading C:\DPSUpdate\outbound\stat\out130604023425952730045777.pkt
+07.03.2014 09:46:28.045 MD5 ( C:\DPSUpdate\outbound\stat\out130605093031533037607204.pkt ) 
+07.03.2014 09:46:28.045 GetSum start: C:\DPSUpdate\outbound\stat\out130605093031533037607204.pkt
+07.03.2014 09:46:28.045 Start reading C:\DPSUpdate\outbound\stat\out130605093031533037607204.pkt
+07.03.2014 09:46:28.045 MD5 ( C:\DPSUpdate\outbound\stat\out130606092735859428208983.pkt ) 
+07.03.2014 09:46:28.045 GetSum start: C:\DPSUpdate\outbound\stat\out130606092735859428208983.pkt
+07.03.2014 09:46:28.046 Start reading C:\DPSUpdate\outbound\stat\out130606092735859428208983.pkt
+07.03.2014 09:46:28.046 MD5 ( C:\DPSUpdate\outbound\stat\out130606092949466512898723.pkt ) 
+07.03.2014 09:46:28.046 GetSum start: C:\DPSUpdate\outbound\stat\out130606092949466512898723.pkt
+07.03.2014 09:46:28.046 MD5 ( C:\DPSUpdate\outbound\stat\out130606093055934097344847.pkt ) 
+07.03.2014 09:46:28.046 GetSum start: C:\DPSUpdate\outbound\stat\out130606093055934097344847.pkt
+07.03.2014 09:46:28.046 MD5 ( C:\DPSUpdate\outbound\stat\out130606093507561172846810.pkt ) 
+07.03.2014 09:46:28.046 GetSum start: C:\DPSUpdate\outbound\stat\out130606093507561172846810.pkt
+07.03.2014 09:46:28.047 MD5 ( C:\DPSUpdate\outbound\stat\out130606093507568172846810.pkt ) 
+07.03.2014 09:46:28.047 GetSum start: C:\DPSUpdate\outbound\stat\out130606093507568172846810.pkt
+07.03.2014 09:46:28.047 MD5 ( C:\DPSUpdate\outbound\stat\out130606093610834373386997.pkt ) 
+07.03.2014 09:46:28.047 GetSum start: C:\DPSUpdate\outbound\stat\out130606093610834373386997.pkt
+07.03.2014 09:46:28.048 MD5 ( C:\DPSUpdate\outbound\stat\out130606094044450826237138.pkt ) 
+07.03.2014 09:46:28.048 GetSum start: C:\DPSUpdate\outbound\stat\out130606094044450826237138.pkt
+07.03.2014 09:46:28.048 Start reading C:\DPSUpdate\outbound\stat\out130606094044450826237138.pkt
+07.03.2014 09:46:28.048 MD5 ( C:\DPSUpdate\outbound\stat\out130606094550113274480176.pkt ) 
+07.03.2014 09:46:28.048 GetSum start: C:\DPSUpdate\outbound\stat\out130606094550113274480176.pkt
+07.03.2014 09:46:28.048 MD5 ( C:\DPSUpdate\outbound\stat\out130606094651247619904588.pkt ) 
+07.03.2014 09:46:28.049 GetSum start: C:\DPSUpdate\outbound\stat\out130606094651247619904588.pkt
+07.03.2014 09:46:28.049 MD5 ( C:\DPSUpdate\outbound\stat\out130606094843380074145331.pkt ) 
+07.03.2014 09:46:28.049 GetSum start: C:\DPSUpdate\outbound\stat\out130606094843380074145331.pkt
+07.03.2014 09:46:28.049 Start reading C:\DPSUpdate\outbound\stat\out130606094843380074145331.pkt
+07.03.2014 09:46:28.049 MD5 ( C:\DPSUpdate\outbound\stat\out130606095203564643210185.pkt ) 
+07.03.2014 09:46:28.049 GetSum start: C:\DPSUpdate\outbound\stat\out130606095203564643210185.pkt
+07.03.2014 09:46:28.050 MD5 ( C:\DPSUpdate\outbound\stat\out130606095530050185505265.pkt ) 
+07.03.2014 09:46:28.050 GetSum start: C:\DPSUpdate\outbound\stat\out130606095530050185505265.pkt
+07.03.2014 09:46:28.050 Start reading C:\DPSUpdate\outbound\stat\out130606095530050185505265.pkt
+07.03.2014 09:46:28.050 MD5 ( C:\DPSUpdate\outbound\stat\out130606095645886687199569.pkt ) 
+07.03.2014 09:46:28.050 GetSum start: C:\DPSUpdate\outbound\stat\out130606095645886687199569.pkt
+07.03.2014 09:46:28.051 MD5 ( C:\DPSUpdate\outbound\stat\out130606095746897122311972.pkt ) 
+07.03.2014 09:46:28.051 GetSum start: C:\DPSUpdate\outbound\stat\out130606095746897122311972.pkt
+07.03.2014 09:46:28.051 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539827445609349.pkt ) 
+07.03.2014 09:46:28.051 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539827445609349.pkt
+07.03.2014 09:46:28.051 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539834445609349.pkt ) 
+07.03.2014 09:46:28.051 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539834445609349.pkt
+07.03.2014 09:46:28.052 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539848445609349.pkt ) 
+07.03.2014 09:46:28.052 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539848445609349.pkt
+07.03.2014 09:46:28.052 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539857445609349.pkt ) 
+07.03.2014 09:46:28.052 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539857445609349.pkt
+07.03.2014 09:46:28.052 MD5 ( C:\DPSUpdate\outbound\stat\out130606113551092240337535.pkt ) 
+07.03.2014 09:46:28.052 GetSum start: C:\DPSUpdate\outbound\stat\out130606113551092240337535.pkt
+07.03.2014 09:46:28.053 MD5 ( C:\DPSUpdate\outbound\stat\out130606114056789280094725.pkt ) 
+07.03.2014 09:46:28.053 GetSum start: C:\DPSUpdate\outbound\stat\out130606114056789280094725.pkt
+07.03.2014 09:46:28.053 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554886627296510.pkt ) 
+07.03.2014 09:46:28.053 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554886627296510.pkt
+07.03.2014 09:46:28.054 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554893627296510.pkt ) 
+07.03.2014 09:46:28.054 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554893627296510.pkt
+07.03.2014 09:46:28.054 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554901627296510.pkt ) 
+07.03.2014 09:46:28.054 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554901627296510.pkt
+07.03.2014 09:46:28.054 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554908627296510.pkt ) 
+07.03.2014 09:46:28.054 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554908627296510.pkt
+07.03.2014 09:46:28.055 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559250244696433.pkt ) 
+07.03.2014 09:46:28.055 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559250244696433.pkt
+07.03.2014 09:46:28.055 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559258244696433.pkt ) 
+07.03.2014 09:46:28.055 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559258244696433.pkt
+07.03.2014 09:46:28.055 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559275244696433.pkt ) 
+07.03.2014 09:46:28.055 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559275244696433.pkt
+07.03.2014 09:46:28.056 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559285244696433.pkt ) 
+07.03.2014 09:46:28.056 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559285244696433.pkt
+07.03.2014 09:46:28.056 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154553497825087.pkt ) 
+07.03.2014 09:46:28.056 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154553497825087.pkt
+07.03.2014 09:46:28.057 Start reading C:\DPSUpdate\outbound\stat\out130607162154553497825087.pkt
+07.03.2014 09:46:28.057 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154560497825087.pkt ) 
+07.03.2014 09:46:28.057 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154560497825087.pkt
+07.03.2014 09:46:28.057 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154568497825087.pkt ) 
+07.03.2014 09:46:28.057 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154568497825087.pkt
+07.03.2014 09:46:28.057 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154577497825087.pkt ) 
+07.03.2014 09:46:28.057 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154577497825087.pkt
+07.03.2014 09:46:28.059 MD5 ( C:\DPSUpdate\outbound\stat\out130607173031810777406878.pkt ) 
+07.03.2014 09:46:28.059 GetSum start: C:\DPSUpdate\outbound\stat\out130607173031810777406878.pkt
+07.03.2014 09:46:28.060 MD5 ( C:\DPSUpdate\outbound\stat\out130607173031817777406878.pkt ) 
+07.03.2014 09:46:28.060 GetSum start: C:\DPSUpdate\outbound\stat\out130607173031817777406878.pkt
+07.03.2014 09:46:28.060 MD5 ( C:\DPSUpdate\outbound\stat\out130607173031824777406878.pkt ) 
+07.03.2014 09:46:28.060 GetSum start: C:\DPSUpdate\outbound\stat\out130607173031824777406878.pkt
+07.03.2014 09:46:28.060 MD5 ( C:\DPSUpdate\outbound\stat\out130610125401712771126905.pkt ) 
+07.03.2014 09:46:28.060 GetSum start: C:\DPSUpdate\outbound\stat\out130610125401712771126905.pkt
+07.03.2014 09:46:28.061 Start reading C:\DPSUpdate\outbound\stat\out130610125401712771126905.pkt
+07.03.2014 09:46:28.061 MD5 ( C:\DPSUpdate\outbound\stat\out130610125401724771126905.pkt ) 
+07.03.2014 09:46:28.061 GetSum start: C:\DPSUpdate\outbound\stat\out130610125401724771126905.pkt
+07.03.2014 09:46:28.061 Start reading C:\DPSUpdate\outbound\stat\out130610125401724771126905.pkt
+07.03.2014 09:46:28.061 MD5 ( C:\DPSUpdate\outbound\stat\out130610125401733771126905.pkt ) 
+07.03.2014 09:46:28.061 GetSum start: C:\DPSUpdate\outbound\stat\out130610125401733771126905.pkt
+07.03.2014 09:46:28.062 Start reading C:\DPSUpdate\outbound\stat\out130610125401733771126905.pkt
+07.03.2014 09:46:28.062 Start getting md5 of: C:\DPSUpdate\outbound\stat\temp
+07.03.2014 09:46:28.062 MD5 ( C:\DPSUpdate\printers.dll ) 
+07.03.2014 09:46:28.062 GetSum start: C:\DPSUpdate\printers.dll
+07.03.2014 09:46:28.081 Start reading C:\DPSUpdate\printers.dll
+07.03.2014 09:46:28.086 MD5 ( C:\DPSUpdate\printers_2.dll ) 
+07.03.2014 09:46:28.086 GetSum start: C:\DPSUpdate\printers_2.dll
+07.03.2014 09:46:28.090 Start reading C:\DPSUpdate\printers_2.dll
+07.03.2014 09:46:28.095 MD5 ( C:\DPSUpdate\rtl60.bpl ) 
+07.03.2014 09:46:28.096 GetSum start: C:\DPSUpdate\rtl60.bpl
+07.03.2014 09:46:28.113 Start reading C:\DPSUpdate\rtl60.bpl
+07.03.2014 09:46:28.121 MD5 ( C:\DPSUpdate\setup_webclient.exe ) 
+07.03.2014 09:46:28.121 GetSum start: C:\DPSUpdate\setup_webclient.exe
+07.03.2014 09:46:28.314 Start reading C:\DPSUpdate\setup_webclient.exe
+07.03.2014 09:46:28.584 MD5 ( C:\DPSUpdate\ShtrihPrinter.pcr ) 
+07.03.2014 09:46:28.584 GetSum start: C:\DPSUpdate\ShtrihPrinter.pcr
+07.03.2014 09:46:28.585 MD5 ( C:\DPSUpdate\ssleay32.dll ) 
+07.03.2014 09:46:28.585 GetSum start: C:\DPSUpdate\ssleay32.dll
+07.03.2014 09:46:28.605 Start reading C:\DPSUpdate\ssleay32.dll
+07.03.2014 09:46:28.607 MD5 ( C:\DPSUpdate\stlpmt45.dll ) 
+07.03.2014 09:46:28.607 GetSum start: C:\DPSUpdate\stlpmt45.dll
+07.03.2014 09:46:28.621 Start reading C:\DPSUpdate\stlpmt45.dll
+07.03.2014 09:46:28.628 Start getting md5 of: C:\DPSUpdate\taxi
+07.03.2014 09:46:28.638 MD5 ( C:\DPSUpdate\taxi\taxi.exe ) 
+07.03.2014 09:46:28.638 GetSum start: C:\DPSUpdate\taxi\taxi.exe
+07.03.2014 09:46:28.655 Start reading C:\DPSUpdate\taxi\taxi.exe
+07.03.2014 09:46:28.655 MD5 ( C:\DPSUpdate\taxi\taxi.exe.lnk ) 
+07.03.2014 09:46:28.655 GetSum start: C:\DPSUpdate\taxi\taxi.exe.lnk
+07.03.2014 09:46:28.663 Start reading C:\DPSUpdate\taxi\taxi.exe.lnk
+07.03.2014 09:46:28.663 MD5 ( C:\DPSUpdate\tele2.bat ) 
+07.03.2014 09:46:28.663 GetSum start: C:\DPSUpdate\tele2.bat
+07.03.2014 09:46:28.674 Start reading C:\DPSUpdate\tele2.bat
+07.03.2014 09:46:28.674 MD5 ( C:\DPSUpdate\TextFile.md5 ) 
+07.03.2014 09:46:28.674 GetSum start: C:\DPSUpdate\TextFile.md5
+07.03.2014 09:46:28.681 Start reading C:\DPSUpdate\TextFile.md5
+07.03.2014 09:46:28.681 MD5 ( C:\DPSUpdate\TextFile.txt ) 
+07.03.2014 09:46:28.681 GetSum start: C:\DPSUpdate\TextFile.txt
+07.03.2014 09:46:28.692 Start reading C:\DPSUpdate\TextFile.txt
+07.03.2014 09:46:28.692 MD5 ( C:\DPSUpdate\TVicPort.dll ) 
+07.03.2014 09:46:28.692 GetSum start: C:\DPSUpdate\TVicPort.dll
+07.03.2014 09:46:28.700 Start reading C:\DPSUpdate\TVicPort.dll
+07.03.2014 09:46:28.701 MD5 ( C:\DPSUpdate\TVicPort.sys ) 
+07.03.2014 09:46:28.701 GetSum start: C:\DPSUpdate\TVicPort.sys
+07.03.2014 09:46:28.715 Start reading C:\DPSUpdate\TVicPort.sys
+07.03.2014 09:46:28.716 MD5 ( C:\DPSUpdate\unlocker.exe ) 
+07.03.2014 09:46:28.716 GetSum start: C:\DPSUpdate\unlocker.exe
+07.03.2014 09:46:28.726 Start reading C:\DPSUpdate\unlocker.exe
+07.03.2014 09:46:28.728 MD5 ( C:\DPSUpdate\updater.7z ) 
+07.03.2014 09:46:28.728 GetSum start: C:\DPSUpdate\updater.7z
+07.03.2014 09:46:28.757 Start reading C:\DPSUpdate\updater.7z
+07.03.2014 09:46:28.767 MD5 ( C:\DPSUpdate\updater.exe ) 
+07.03.2014 09:46:28.767 GetSum start: C:\DPSUpdate\updater.exe
+07.03.2014 09:46:28.784 Start reading C:\DPSUpdate\updater.exe
+07.03.2014 09:46:28.803 MD5 ( C:\DPSUpdate\updater.txt ) 
+07.03.2014 09:46:28.803 GetSum start: C:\DPSUpdate\updater.txt
+07.03.2014 09:46:28.803 Start reading C:\DPSUpdate\updater.txt
+07.03.2014 09:46:28.804 MD5 ( C:\DPSUpdate\vcl60.bpl ) 
+07.03.2014 09:46:28.804 GetSum start: C:\DPSUpdate\vcl60.bpl
+07.03.2014 09:46:28.823 Start reading C:\DPSUpdate\vcl60.bpl
+07.03.2014 09:46:28.838 MD5 ( C:\DPSUpdate\vclx60.bpl ) 
+07.03.2014 09:46:28.838 GetSum start: C:\DPSUpdate\vclx60.bpl
+07.03.2014 09:46:28.845 Start reading C:\DPSUpdate\vclx60.bpl
+07.03.2014 09:46:28.847 MD5 ( C:\DPSUpdate\WDTS.dll ) 
+07.03.2014 09:46:28.848 GetSum start: C:\DPSUpdate\WDTS.dll
+07.03.2014 09:46:28.862 Start reading C:\DPSUpdate\WDTS.dll
+07.03.2014 09:46:28.862 MD5 ( C:\DPSUpdate\webclient.txt ) 
+07.03.2014 09:46:28.862 GetSum start: C:\DPSUpdate\webclient.txt
+07.03.2014 09:46:28.863 Start reading C:\DPSUpdate\webclient.txt
+07.03.2014 09:46:28.863 MD5 ( C:\DPSUpdate\WinPrinter.pcr ) 
+07.03.2014 09:46:28.863 GetSum start: C:\DPSUpdate\WinPrinter.pcr
+07.03.2014 09:46:28.863 MD5 ( C:\DPSUpdate\wrq.reg ) 
+07.03.2014 09:46:28.863 GetSum start: C:\DPSUpdate\wrq.reg
+07.03.2014 09:46:28.864 Start reading C:\DPSUpdate\wrq.reg
+07.03.2014 09:46:28.864 MD5 ( C:\DPSUpdate\xmlrtl60.bpl ) 
+07.03.2014 09:46:28.864 GetSum start: C:\DPSUpdate\xmlrtl60.bpl
+07.03.2014 09:46:28.882 Start reading C:\DPSUpdate\xmlrtl60.bpl
+07.03.2014 09:46:28.892 MD5 ( C:\DPSUpdate\zip.bat ) 
+07.03.2014 09:46:28.892 GetSum start: C:\DPSUpdate\zip.bat
+07.03.2014 09:46:28.913 Start reading C:\DPSUpdate\zip.bat
+07.03.2014 09:46:28.913 MD5 ( C:\DPSUpdate\zlibwapi.dll ) 
+07.03.2014 09:46:28.913 GetSum start: C:\DPSUpdate\zlibwapi.dll
+07.03.2014 09:46:28.922 Start reading C:\DPSUpdate\zlibwapi.dll
+07.03.2014 09:46:28.923 MD5 ( C:\DPSUpdate\_DPSCom.exe ) 
+07.03.2014 09:46:28.923 GetSum start: C:\DPSUpdate\_DPSCom.exe
+07.03.2014 09:46:28.944 Start reading C:\DPSUpdate\_DPSCom.exe
+07.03.2014 09:46:28.960 MD5 ( C:\DPSUpdate\_DPSKiosk.exe ) 
+07.03.2014 09:46:28.960 GetSum start: C:\DPSUpdate\_DPSKiosk.exe
+07.03.2014 09:46:29.021 Start reading C:\DPSUpdate\_DPSKiosk.exe
+07.03.2014 10:44:52.429 MD5 class started ...
+07.03.2014 10:44:52.510 Start getting md5 of: C:\DPSUpdate
+07.03.2014 10:44:52.510 MD5 ( C:\DPSUpdate\20120530-ct.cer ) 
+07.03.2014 10:44:52.510 GetSum start: C:\DPSUpdate\20120530-ct.cer
+07.03.2014 10:44:52.510 Start reading C:\DPSUpdate\20120530-ct.cer
+07.03.2014 10:44:52.591 MD5 ( C:\DPSUpdate\7z.exe ) 
+07.03.2014 10:44:52.591 GetSum start: C:\DPSUpdate\7z.exe
+07.03.2014 10:44:52.591 Start reading C:\DPSUpdate\7z.exe
+07.03.2014 10:44:52.598 MD5 ( C:\DPSUpdate\7za.dll ) 
+07.03.2014 10:44:52.598 GetSum start: C:\DPSUpdate\7za.dll
+07.03.2014 10:44:52.598 Start reading C:\DPSUpdate\7za.dll
+07.03.2014 10:44:52.604 MD5 ( C:\DPSUpdate\ASKOPM_KIOSK.dll ) 
+07.03.2014 10:44:52.604 GetSum start: C:\DPSUpdate\ASKOPM_KIOSK.dll
+07.03.2014 10:44:52.605 Start reading C:\DPSUpdate\ASKOPM_KIOSK.dll
+07.03.2014 10:44:52.611 MD5 ( C:\DPSUpdate\AtolPrinter.pcr ) 
+07.03.2014 10:44:52.611 GetSum start: C:\DPSUpdate\AtolPrinter.pcr
+07.03.2014 10:44:52.612 MD5 ( C:\DPSUpdate\Azimuth.dll ) 
+07.03.2014 10:44:52.612 GetSum start: C:\DPSUpdate\Azimuth.dll
+07.03.2014 10:44:52.612 Start reading C:\DPSUpdate\Azimuth.dll
+07.03.2014 10:44:52.614 Start getting md5 of: C:\DPSUpdate\Backup
+07.03.2014 10:44:52.614 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20
+07.03.2014 10:44:52.614 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface
+07.03.2014 10:44:52.614 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface\skins
+07.03.2014 10:44:52.615 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface\skins\metro2
+07.03.2014 10:44:52.615 Start getting md5 of: C:\DPSUpdate\Backup\2782013 9-56-20\interface\skins\metro2\i
+07.03.2014 10:44:52.615 Start getting md5 of: C:\DPSUpdate\Backup\632014 11-18-19
+07.03.2014 10:44:52.615 Start getting md5 of: C:\DPSUpdate\Backup\632014 11-21-36
+07.03.2014 10:44:52.615 MD5 ( C:\DPSUpdate\Backup\632014 11-21-36\document.txt ) 
+07.03.2014 10:44:52.615 GetSum start: C:\DPSUpdate\Backup\632014 11-21-36\document.txt
+07.03.2014 10:44:52.616 Start reading C:\DPSUpdate\Backup\632014 11-21-36\document.txt
+07.03.2014 10:44:52.616 MD5 ( C:\DPSUpdate\bcbie60.bpl ) 
+07.03.2014 10:44:52.616 GetSum start: C:\DPSUpdate\bcbie60.bpl
+07.03.2014 10:44:52.616 Start reading C:\DPSUpdate\bcbie60.bpl
+07.03.2014 10:44:52.618 MD5 ( C:\DPSUpdate\beeline.bat ) 
+07.03.2014 10:44:52.618 GetSum start: C:\DPSUpdate\beeline.bat
+07.03.2014 10:44:52.618 Start reading C:\DPSUpdate\beeline.bat
+07.03.2014 10:44:52.618 MD5 ( C:\DPSUpdate\Beta.7z ) 
+07.03.2014 10:44:52.618 GetSum start: C:\DPSUpdate\Beta.7z
+07.03.2014 10:44:52.619 Start reading C:\DPSUpdate\Beta.7z
+07.03.2014 10:44:52.630 MD5 ( C:\DPSUpdate\borlndmm.dll ) 
+07.03.2014 10:44:52.630 GetSum start: C:\DPSUpdate\borlndmm.dll
+07.03.2014 10:44:52.630 Start reading C:\DPSUpdate\borlndmm.dll
+07.03.2014 10:44:52.631 MD5 ( C:\DPSUpdate\cc3260mt.dll ) 
+07.03.2014 10:44:52.631 GetSum start: C:\DPSUpdate\cc3260mt.dll
+07.03.2014 10:44:52.632 Start reading C:\DPSUpdate\cc3260mt.dll
+07.03.2014 10:44:52.650 MD5 ( C:\DPSUpdate\cg32.dll ) 
+07.03.2014 10:44:52.650 GetSum start: C:\DPSUpdate\cg32.dll
+07.03.2014 10:44:52.651 Start reading C:\DPSUpdate\cg32.dll
+07.03.2014 10:44:52.654 Start getting md5 of: C:\DPSUpdate\config
+07.03.2014 10:44:52.654 MD5 ( C:\DPSUpdate\config\config.lastgood ) 
+07.03.2014 10:44:52.654 GetSum start: C:\DPSUpdate\config\config.lastgood
+07.03.2014 10:44:52.654 Start reading C:\DPSUpdate\config\config.lastgood
+07.03.2014 10:44:52.654 MD5 ( C:\DPSUpdate\config\config.xml ) 
+07.03.2014 10:44:52.654 GetSum start: C:\DPSUpdate\config\config.xml
+07.03.2014 10:44:52.655 Start reading C:\DPSUpdate\config\config.xml
+07.03.2014 10:44:52.655 MD5 ( C:\DPSUpdate\config\Details.xml ) 
+07.03.2014 10:44:52.655 GetSum start: C:\DPSUpdate\config\Details.xml
+07.03.2014 10:44:52.655 Start reading C:\DPSUpdate\config\Details.xml
+07.03.2014 10:44:52.655 Start getting md5 of: C:\DPSUpdate\config\templates
+07.03.2014 10:44:52.655 MD5 ( C:\DPSUpdate\config\templates\balance.chq ) 
+07.03.2014 10:44:52.656 GetSum start: C:\DPSUpdate\config\templates\balance.chq
+07.03.2014 10:44:52.656 Start reading C:\DPSUpdate\config\templates\balance.chq
+07.03.2014 10:44:52.656 MD5 ( C:\DPSUpdate\config\templates\default.chq ) 
+07.03.2014 10:44:52.656 GetSum start: C:\DPSUpdate\config\templates\default.chq
+07.03.2014 10:44:52.657 Start reading C:\DPSUpdate\config\templates\default.chq
+07.03.2014 10:44:52.657 MD5 ( C:\DPSUpdate\config\templates\incassation.chq ) 
+07.03.2014 10:44:52.657 GetSum start: C:\DPSUpdate\config\templates\incassation.chq
+07.03.2014 10:44:52.657 Start reading C:\DPSUpdate\config\templates\incassation.chq
+07.03.2014 10:44:52.657 MD5 ( C:\DPSUpdate\config\templates\payment-error.chq ) 
+07.03.2014 10:44:52.657 GetSum start: C:\DPSUpdate\config\templates\payment-error.chq
+07.03.2014 10:44:52.658 Start reading C:\DPSUpdate\config\templates\payment-error.chq
+07.03.2014 10:44:52.660 MD5 ( C:\DPSUpdate\confTool.exe ) 
+07.03.2014 10:44:52.660 GetSum start: C:\DPSUpdate\confTool.exe
+07.03.2014 10:44:52.661 Start reading C:\DPSUpdate\confTool.exe
+07.03.2014 10:44:52.684 MD5 ( C:\DPSUpdate\CryptLib.dll ) 
+07.03.2014 10:44:52.684 GetSum start: C:\DPSUpdate\CryptLib.dll
+07.03.2014 10:44:52.685 Start reading C:\DPSUpdate\CryptLib.dll
+07.03.2014 10:44:52.687 MD5 ( C:\DPSUpdate\dclusr60.bpl ) 
+07.03.2014 10:44:52.687 GetSum start: C:\DPSUpdate\dclusr60.bpl
+07.03.2014 10:44:52.687 Start reading C:\DPSUpdate\dclusr60.bpl
+07.03.2014 10:44:52.688 MD5 ( C:\DPSUpdate\DllEmul.dll ) 
+07.03.2014 10:44:52.688 GetSum start: C:\DPSUpdate\DllEmul.dll
+07.03.2014 10:44:52.689 Start reading C:\DPSUpdate\DllEmul.dll
+07.03.2014 10:44:52.696 MD5 ( C:\DPSUpdate\DPSCom.exe ) 
+07.03.2014 10:44:52.696 GetSum start: C:\DPSUpdate\DPSCom.exe
+07.03.2014 10:44:52.697 Start reading C:\DPSUpdate\DPSCom.exe
+07.03.2014 10:44:52.713 MD5 ( C:\DPSUpdate\DPSCom.tds ) 
+07.03.2014 10:44:52.713 GetSum start: C:\DPSUpdate\DPSCom.tds
+07.03.2014 10:44:52.718 Start reading C:\DPSUpdate\DPSCom.tds
+07.03.2014 10:44:52.772 MD5 ( C:\DPSUpdate\Dpsdruppal.txt ) 
+07.03.2014 10:44:52.772 GetSum start: C:\DPSUpdate\Dpsdruppal.txt
+07.03.2014 10:44:52.772 MD5 ( C:\DPSUpdate\DPSKiosk.exe ) 
+07.03.2014 10:44:52.773 GetSum start: C:\DPSUpdate\DPSKiosk.exe
+07.03.2014 10:44:52.777 Start reading C:\DPSUpdate\DPSKiosk.exe
+07.03.2014 10:44:52.852 MD5 ( C:\DPSUpdate\DPSKiosk.tds ) 
+07.03.2014 10:44:52.852 GetSum start: C:\DPSUpdate\DPSKiosk.tds
+07.03.2014 10:44:52.861 Start reading C:\DPSUpdate\DPSKiosk.tds
+07.03.2014 10:44:53.018 MD5 ( C:\DPSUpdate\DPSKioskSetup.exe ) 
+07.03.2014 10:44:53.018 GetSum start: C:\DPSUpdate\DPSKioskSetup.exe
+07.03.2014 10:44:53.021 Start reading C:\DPSUpdate\DPSKioskSetup.exe
+07.03.2014 10:44:53.061 MD5 ( C:\DPSUpdate\DPSUpdate.7z ) 
+07.03.2014 10:44:53.061 GetSum start: C:\DPSUpdate\DPSUpdate.7z
+07.03.2014 10:44:53.062 Start reading C:\DPSUpdate\DPSUpdate.7z
+07.03.2014 10:44:53.075 MD5 ( C:\DPSUpdate\hidwdt32.dll ) 
+07.03.2014 10:44:53.075 GetSum start: C:\DPSUpdate\hidwdt32.dll
+07.03.2014 10:44:53.075 Start reading C:\DPSUpdate\hidwdt32.dll
+07.03.2014 10:44:53.076 Start getting md5 of: C:\DPSUpdate\inbound
+07.03.2014 10:44:53.076 MD5 ( C:\DPSUpdate\indy60.bpl ) 
+07.03.2014 10:44:53.076 GetSum start: C:\DPSUpdate\indy60.bpl
+07.03.2014 10:44:53.077 Start reading C:\DPSUpdate\indy60.bpl
+07.03.2014 10:44:53.090 MD5 ( C:\DPSUpdate\libeay32.dll ) 
+07.03.2014 10:44:53.090 GetSum start: C:\DPSUpdate\libeay32.dll
+07.03.2014 10:44:53.091 Start reading C:\DPSUpdate\libeay32.dll
+07.03.2014 10:44:53.099 MD5 ( C:\DPSUpdate\libipriv.dll ) 
+07.03.2014 10:44:53.099 GetSum start: C:\DPSUpdate\libipriv.dll
+07.03.2014 10:44:53.099 Start reading C:\DPSUpdate\libipriv.dll
+07.03.2014 10:44:53.100 Start getting md5 of: C:\DPSUpdate\logs
+07.03.2014 10:44:53.102 MD5 ( C:\DPSUpdate\logs\2013-06-06-.log ) 
+07.03.2014 10:44:53.102 GetSum start: C:\DPSUpdate\logs\2013-06-06-.log
+07.03.2014 10:44:53.102 Start reading C:\DPSUpdate\logs\2013-06-06-.log
+07.03.2014 10:44:53.102 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-CommandsThread.log ) 
+07.03.2014 10:44:53.102 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-CommandsThread.log
+07.03.2014 10:44:53.102 Start reading C:\DPSUpdate\logs\2013-06-06-Com-CommandsThread.log
+07.03.2014 10:44:53.103 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-EMailThread.log ) 
+07.03.2014 10:44:53.103 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-EMailThread.log
+07.03.2014 10:44:53.103 Start reading C:\DPSUpdate\logs\2013-06-06-Com-EMailThread.log
+07.03.2014 10:44:53.103 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-PaymentsThread.log ) 
+07.03.2014 10:44:53.103 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-PaymentsThread.log
+07.03.2014 10:44:53.103 Start reading C:\DPSUpdate\logs\2013-06-06-Com-PaymentsThread.log
+07.03.2014 10:44:53.103 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com-StatThread.log ) 
+07.03.2014 10:44:53.104 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com-StatThread.log
+07.03.2014 10:44:53.104 Start reading C:\DPSUpdate\logs\2013-06-06-Com-StatThread.log
+07.03.2014 10:44:53.104 MD5 ( C:\DPSUpdate\logs\2013-06-06-Com.log ) 
+07.03.2014 10:44:53.104 GetSum start: C:\DPSUpdate\logs\2013-06-06-Com.log
+07.03.2014 10:44:53.104 Start reading C:\DPSUpdate\logs\2013-06-06-Com.log
+07.03.2014 10:44:53.105 MD5 ( C:\DPSUpdate\logs\2013-06-06-DPSKiosk.log ) 
+07.03.2014 10:44:53.105 GetSum start: C:\DPSUpdate\logs\2013-06-06-DPSKiosk.log
+07.03.2014 10:44:53.105 Start reading C:\DPSUpdate\logs\2013-06-06-DPSKiosk.log
+07.03.2014 10:44:53.105 MD5 ( C:\DPSUpdate\logs\2013-06-06-iface.log ) 
+07.03.2014 10:44:53.105 GetSum start: C:\DPSUpdate\logs\2013-06-06-iface.log
+07.03.2014 10:44:53.105 Start reading C:\DPSUpdate\logs\2013-06-06-iface.log
+07.03.2014 10:44:53.105 MD5 ( C:\DPSUpdate\logs\2013-06-06-list.log ) 
+07.03.2014 10:44:53.106 GetSum start: C:\DPSUpdate\logs\2013-06-06-list.log
+07.03.2014 10:44:53.106 Start reading C:\DPSUpdate\logs\2013-06-06-list.log
+07.03.2014 10:44:53.106 MD5 ( C:\DPSUpdate\logs\2013-06-06-Modem.log ) 
+07.03.2014 10:44:53.106 GetSum start: C:\DPSUpdate\logs\2013-06-06-Modem.log
+07.03.2014 10:44:53.106 Start reading C:\DPSUpdate\logs\2013-06-06-Modem.log
+07.03.2014 10:44:53.106 MD5 ( C:\DPSUpdate\logs\2013-06-06-PagesHistory.log ) 
+07.03.2014 10:44:53.106 GetSum start: C:\DPSUpdate\logs\2013-06-06-PagesHistory.log
+07.03.2014 10:44:53.107 Start reading C:\DPSUpdate\logs\2013-06-06-PagesHistory.log
+07.03.2014 10:44:53.107 MD5 ( C:\DPSUpdate\logs\2013-06-06-Payments.log ) 
+07.03.2014 10:44:53.107 GetSum start: C:\DPSUpdate\logs\2013-06-06-Payments.log
+07.03.2014 10:44:53.107 MD5 ( C:\DPSUpdate\logs\2013-06-06-SiemensMC35i.log ) 
+07.03.2014 10:44:53.107 GetSum start: C:\DPSUpdate\logs\2013-06-06-SiemensMC35i.log
+07.03.2014 10:44:53.107 Start reading C:\DPSUpdate\logs\2013-06-06-SiemensMC35i.log
+07.03.2014 10:44:53.108 MD5 ( C:\DPSUpdate\logs\2013-06-06-Sound.log ) 
+07.03.2014 10:44:53.108 GetSum start: C:\DPSUpdate\logs\2013-06-06-Sound.log
+07.03.2014 10:44:53.108 Start reading C:\DPSUpdate\logs\2013-06-06-Sound.log
+07.03.2014 10:44:53.108 MD5 ( C:\DPSUpdate\logs\2013-06-06-TCModule.log ) 
+07.03.2014 10:44:53.108 GetSum start: C:\DPSUpdate\logs\2013-06-06-TCModule.log
+07.03.2014 10:44:53.108 Start reading C:\DPSUpdate\logs\2013-06-06-TCModule.log
+07.03.2014 10:44:53.108 MD5 ( C:\DPSUpdate\logs\2013-06-06-TransportCardTimer.log ) 
+07.03.2014 10:44:53.108 GetSum start: C:\DPSUpdate\logs\2013-06-06-TransportCardTimer.log
+07.03.2014 10:44:53.109 Start reading C:\DPSUpdate\logs\2013-06-06-TransportCardTimer.log
+07.03.2014 10:44:53.109 MD5 ( C:\DPSUpdate\logs\2013-06-06-TTimeSynch.log ) 
+07.03.2014 10:44:53.109 GetSum start: C:\DPSUpdate\logs\2013-06-06-TTimeSynch.log
+07.03.2014 10:44:53.109 Start reading C:\DPSUpdate\logs\2013-06-06-TTimeSynch.log
+07.03.2014 10:44:53.109 MD5 ( C:\DPSUpdate\logs\2013-06-06-WinPrinter.log ) 
+07.03.2014 10:44:53.109 GetSum start: C:\DPSUpdate\logs\2013-06-06-WinPrinter.log
+07.03.2014 10:44:53.110 Start reading C:\DPSUpdate\logs\2013-06-06-WinPrinter.log
+07.03.2014 10:44:53.110 MD5 ( C:\DPSUpdate\logs\2013-06-07-.log ) 
+07.03.2014 10:44:53.110 GetSum start: C:\DPSUpdate\logs\2013-06-07-.log
+07.03.2014 10:44:53.110 Start reading C:\DPSUpdate\logs\2013-06-07-.log
+07.03.2014 10:44:53.110 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-CommandsThread.log ) 
+07.03.2014 10:44:53.110 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-CommandsThread.log
+07.03.2014 10:44:53.110 Start reading C:\DPSUpdate\logs\2013-06-07-Com-CommandsThread.log
+07.03.2014 10:44:53.110 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-EMailThread.log ) 
+07.03.2014 10:44:53.110 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-EMailThread.log
+07.03.2014 10:44:53.111 Start reading C:\DPSUpdate\logs\2013-06-07-Com-EMailThread.log
+07.03.2014 10:44:53.111 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-PaymentsThread.log ) 
+07.03.2014 10:44:53.111 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-PaymentsThread.log
+07.03.2014 10:44:53.111 Start reading C:\DPSUpdate\logs\2013-06-07-Com-PaymentsThread.log
+07.03.2014 10:44:53.111 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com-StatThread.log ) 
+07.03.2014 10:44:53.111 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com-StatThread.log
+07.03.2014 10:44:53.112 Start reading C:\DPSUpdate\logs\2013-06-07-Com-StatThread.log
+07.03.2014 10:44:53.112 MD5 ( C:\DPSUpdate\logs\2013-06-07-Com.log ) 
+07.03.2014 10:44:53.112 GetSum start: C:\DPSUpdate\logs\2013-06-07-Com.log
+07.03.2014 10:44:53.112 Start reading C:\DPSUpdate\logs\2013-06-07-Com.log
+07.03.2014 10:44:53.112 MD5 ( C:\DPSUpdate\logs\2013-06-07-DPSKiosk.log ) 
+07.03.2014 10:44:53.112 GetSum start: C:\DPSUpdate\logs\2013-06-07-DPSKiosk.log
+07.03.2014 10:44:53.113 Start reading C:\DPSUpdate\logs\2013-06-07-DPSKiosk.log
+07.03.2014 10:44:53.113 MD5 ( C:\DPSUpdate\logs\2013-06-07-iface.log ) 
+07.03.2014 10:44:53.113 GetSum start: C:\DPSUpdate\logs\2013-06-07-iface.log
+07.03.2014 10:44:53.113 Start reading C:\DPSUpdate\logs\2013-06-07-iface.log
+07.03.2014 10:44:53.113 MD5 ( C:\DPSUpdate\logs\2013-06-07-list.log ) 
+07.03.2014 10:44:53.113 GetSum start: C:\DPSUpdate\logs\2013-06-07-list.log
+07.03.2014 10:44:53.114 Start reading C:\DPSUpdate\logs\2013-06-07-list.log
+07.03.2014 10:44:53.115 MD5 ( C:\DPSUpdate\logs\2013-06-07-Modem.log ) 
+07.03.2014 10:44:53.115 GetSum start: C:\DPSUpdate\logs\2013-06-07-Modem.log
+07.03.2014 10:44:53.115 Start reading C:\DPSUpdate\logs\2013-06-07-Modem.log
+07.03.2014 10:44:53.115 MD5 ( C:\DPSUpdate\logs\2013-06-07-PagesHistory.log ) 
+07.03.2014 10:44:53.115 GetSum start: C:\DPSUpdate\logs\2013-06-07-PagesHistory.log
+07.03.2014 10:44:53.116 Start reading C:\DPSUpdate\logs\2013-06-07-PagesHistory.log
+07.03.2014 10:44:53.116 MD5 ( C:\DPSUpdate\logs\2013-06-07-Payments.log ) 
+07.03.2014 10:44:53.116 GetSum start: C:\DPSUpdate\logs\2013-06-07-Payments.log
+07.03.2014 10:44:53.116 Start reading C:\DPSUpdate\logs\2013-06-07-Payments.log
+07.03.2014 10:44:53.116 MD5 ( C:\DPSUpdate\logs\2013-06-07-SiemensMC35i.log ) 
+07.03.2014 10:44:53.116 GetSum start: C:\DPSUpdate\logs\2013-06-07-SiemensMC35i.log
+07.03.2014 10:44:53.116 Start reading C:\DPSUpdate\logs\2013-06-07-SiemensMC35i.log
+07.03.2014 10:44:53.117 MD5 ( C:\DPSUpdate\logs\2013-06-07-Sound.log ) 
+07.03.2014 10:44:53.117 GetSum start: C:\DPSUpdate\logs\2013-06-07-Sound.log
+07.03.2014 10:44:53.117 Start reading C:\DPSUpdate\logs\2013-06-07-Sound.log
+07.03.2014 10:44:53.117 MD5 ( C:\DPSUpdate\logs\2013-06-07-TCModule.log ) 
+07.03.2014 10:44:53.117 GetSum start: C:\DPSUpdate\logs\2013-06-07-TCModule.log
+07.03.2014 10:44:53.117 Start reading C:\DPSUpdate\logs\2013-06-07-TCModule.log
+07.03.2014 10:44:53.117 MD5 ( C:\DPSUpdate\logs\2013-06-07-TransportCardTimer.log ) 
+07.03.2014 10:44:53.117 GetSum start: C:\DPSUpdate\logs\2013-06-07-TransportCardTimer.log
+07.03.2014 10:44:53.118 Start reading C:\DPSUpdate\logs\2013-06-07-TransportCardTimer.log
+07.03.2014 10:44:53.118 MD5 ( C:\DPSUpdate\logs\2013-06-07-TTimeSynch.log ) 
+07.03.2014 10:44:53.118 GetSum start: C:\DPSUpdate\logs\2013-06-07-TTimeSynch.log
+07.03.2014 10:44:53.118 Start reading C:\DPSUpdate\logs\2013-06-07-TTimeSynch.log
+07.03.2014 10:44:53.118 MD5 ( C:\DPSUpdate\logs\2013-06-07-unlock.log ) 
+07.03.2014 10:44:53.118 GetSum start: C:\DPSUpdate\logs\2013-06-07-unlock.log
+07.03.2014 10:44:53.118 Start reading C:\DPSUpdate\logs\2013-06-07-unlock.log
+07.03.2014 10:44:53.119 MD5 ( C:\DPSUpdate\logs\2013-06-07-WinPrinter.log ) 
+07.03.2014 10:44:53.119 GetSum start: C:\DPSUpdate\logs\2013-06-07-WinPrinter.log
+07.03.2014 10:44:53.119 Start reading C:\DPSUpdate\logs\2013-06-07-WinPrinter.log
+07.03.2014 10:44:53.119 MD5 ( C:\DPSUpdate\logs\2013-06-10-.log ) 
+07.03.2014 10:44:53.119 GetSum start: C:\DPSUpdate\logs\2013-06-10-.log
+07.03.2014 10:44:53.119 Start reading C:\DPSUpdate\logs\2013-06-10-.log
+07.03.2014 10:44:53.119 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com-EMailThread.log ) 
+07.03.2014 10:44:53.120 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com-EMailThread.log
+07.03.2014 10:44:53.120 Start reading C:\DPSUpdate\logs\2013-06-10-Com-EMailThread.log
+07.03.2014 10:44:53.120 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com-PaymentsThread.log ) 
+07.03.2014 10:44:53.120 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com-PaymentsThread.log
+07.03.2014 10:44:53.120 Start reading C:\DPSUpdate\logs\2013-06-10-Com-PaymentsThread.log
+07.03.2014 10:44:53.120 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com-StatThread.log ) 
+07.03.2014 10:44:53.120 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com-StatThread.log
+07.03.2014 10:44:53.121 Start reading C:\DPSUpdate\logs\2013-06-10-Com-StatThread.log
+07.03.2014 10:44:53.121 MD5 ( C:\DPSUpdate\logs\2013-06-10-Com.log ) 
+07.03.2014 10:44:53.121 GetSum start: C:\DPSUpdate\logs\2013-06-10-Com.log
+07.03.2014 10:44:53.121 Start reading C:\DPSUpdate\logs\2013-06-10-Com.log
+07.03.2014 10:44:53.121 MD5 ( C:\DPSUpdate\logs\2013-06-10-DPSKiosk.log ) 
+07.03.2014 10:44:53.121 GetSum start: C:\DPSUpdate\logs\2013-06-10-DPSKiosk.log
+07.03.2014 10:44:53.121 Start reading C:\DPSUpdate\logs\2013-06-10-DPSKiosk.log
+07.03.2014 10:44:53.122 MD5 ( C:\DPSUpdate\logs\2013-06-10-iface.log ) 
+07.03.2014 10:44:53.122 GetSum start: C:\DPSUpdate\logs\2013-06-10-iface.log
+07.03.2014 10:44:53.122 Start reading C:\DPSUpdate\logs\2013-06-10-iface.log
+07.03.2014 10:44:53.122 MD5 ( C:\DPSUpdate\logs\2013-06-10-list.log ) 
+07.03.2014 10:44:53.122 GetSum start: C:\DPSUpdate\logs\2013-06-10-list.log
+07.03.2014 10:44:53.122 Start reading C:\DPSUpdate\logs\2013-06-10-list.log
+07.03.2014 10:44:53.123 MD5 ( C:\DPSUpdate\logs\2013-06-10-Modem.log ) 
+07.03.2014 10:44:53.123 GetSum start: C:\DPSUpdate\logs\2013-06-10-Modem.log
+07.03.2014 10:44:53.123 Start reading C:\DPSUpdate\logs\2013-06-10-Modem.log
+07.03.2014 10:44:53.123 MD5 ( C:\DPSUpdate\logs\2013-06-10-PagesHistory.log ) 
+07.03.2014 10:44:53.123 GetSum start: C:\DPSUpdate\logs\2013-06-10-PagesHistory.log
+07.03.2014 10:44:53.123 Start reading C:\DPSUpdate\logs\2013-06-10-PagesHistory.log
+07.03.2014 10:44:53.124 MD5 ( C:\DPSUpdate\logs\2013-06-10-Payments.log ) 
+07.03.2014 10:44:53.124 GetSum start: C:\DPSUpdate\logs\2013-06-10-Payments.log
+07.03.2014 10:44:53.124 Start reading C:\DPSUpdate\logs\2013-06-10-Payments.log
+07.03.2014 10:44:53.124 MD5 ( C:\DPSUpdate\logs\2013-06-10-SiemensMC35i.log ) 
+07.03.2014 10:44:53.124 GetSum start: C:\DPSUpdate\logs\2013-06-10-SiemensMC35i.log
+07.03.2014 10:44:53.124 Start reading C:\DPSUpdate\logs\2013-06-10-SiemensMC35i.log
+07.03.2014 10:44:53.124 MD5 ( C:\DPSUpdate\logs\2013-06-10-Sound.log ) 
+07.03.2014 10:44:53.124 GetSum start: C:\DPSUpdate\logs\2013-06-10-Sound.log
+07.03.2014 10:44:53.125 Start reading C:\DPSUpdate\logs\2013-06-10-Sound.log
+07.03.2014 10:44:53.125 MD5 ( C:\DPSUpdate\logs\2013-06-10-TCModule.log ) 
+07.03.2014 10:44:53.125 GetSum start: C:\DPSUpdate\logs\2013-06-10-TCModule.log
+07.03.2014 10:44:53.125 Start reading C:\DPSUpdate\logs\2013-06-10-TCModule.log
+07.03.2014 10:44:53.125 MD5 ( C:\DPSUpdate\logs\2013-06-10-TransportCardTimer.log ) 
+07.03.2014 10:44:53.125 GetSum start: C:\DPSUpdate\logs\2013-06-10-TransportCardTimer.log
+07.03.2014 10:44:53.125 Start reading C:\DPSUpdate\logs\2013-06-10-TransportCardTimer.log
+07.03.2014 10:44:53.125 MD5 ( C:\DPSUpdate\logs\2013-06-10-TTimeSynch.log ) 
+07.03.2014 10:44:53.126 GetSum start: C:\DPSUpdate\logs\2013-06-10-TTimeSynch.log
+07.03.2014 10:44:53.126 Start reading C:\DPSUpdate\logs\2013-06-10-TTimeSynch.log
+07.03.2014 10:44:53.126 MD5 ( C:\DPSUpdate\logs\2013-06-10-unlock.log ) 
+07.03.2014 10:44:53.126 GetSum start: C:\DPSUpdate\logs\2013-06-10-unlock.log
+07.03.2014 10:44:53.126 Start reading C:\DPSUpdate\logs\2013-06-10-unlock.log
+07.03.2014 10:44:53.126 MD5 ( C:\DPSUpdate\logs\2013-06-10-WinPrinter.log ) 
+07.03.2014 10:44:53.126 GetSum start: C:\DPSUpdate\logs\2013-06-10-WinPrinter.log
+07.03.2014 10:44:53.127 Start reading C:\DPSUpdate\logs\2013-06-10-WinPrinter.log
+07.03.2014 10:44:53.127 MD5 ( C:\DPSUpdate\logs\2014-01-23-.log ) 
+07.03.2014 10:44:53.128 GetSum start: C:\DPSUpdate\logs\2014-01-23-.log
+07.03.2014 10:44:53.128 Start reading C:\DPSUpdate\logs\2014-01-23-.log
+07.03.2014 10:44:53.128 MD5 ( C:\DPSUpdate\logs\2014-01-23-Com-CommandsThread.log ) 
+07.03.2014 10:44:53.128 GetSum start: C:\DPSUpdate\logs\2014-01-23-Com-CommandsThread.log
+07.03.2014 10:44:53.128 Start reading C:\DPSUpdate\logs\2014-01-23-Com-CommandsThread.log
+07.03.2014 10:44:53.128 MD5 ( C:\DPSUpdate\logs\2014-01-23-Com-PaymentsThread.log ) 
+07.03.2014 10:44:53.128 GetSum start: C:\DPSUpdate\logs\2014-01-23-Com-PaymentsThread.log
+07.03.2014 10:44:53.129 Start reading C:\DPSUpdate\logs\2014-01-23-Com-PaymentsThread.log
+07.03.2014 10:44:53.129 MD5 ( C:\DPSUpdate\logs\2014-01-23-Com.log ) 
+07.03.2014 10:44:53.129 GetSum start: C:\DPSUpdate\logs\2014-01-23-Com.log
+07.03.2014 10:44:53.129 Start reading C:\DPSUpdate\logs\2014-01-23-Com.log
+07.03.2014 10:44:53.129 MD5 ( C:\DPSUpdate\logs\2014-01-23-DPSKiosk.log ) 
+07.03.2014 10:44:53.129 GetSum start: C:\DPSUpdate\logs\2014-01-23-DPSKiosk.log
+07.03.2014 10:44:53.129 Start reading C:\DPSUpdate\logs\2014-01-23-DPSKiosk.log
+07.03.2014 10:44:53.130 MD5 ( C:\DPSUpdate\logs\2014-01-23-iface.log ) 
+07.03.2014 10:44:53.130 GetSum start: C:\DPSUpdate\logs\2014-01-23-iface.log
+07.03.2014 10:44:53.130 Start reading C:\DPSUpdate\logs\2014-01-23-iface.log
+07.03.2014 10:44:53.130 MD5 ( C:\DPSUpdate\logs\2014-01-23-list.log ) 
+07.03.2014 10:44:53.130 GetSum start: C:\DPSUpdate\logs\2014-01-23-list.log
+07.03.2014 10:44:53.131 Start reading C:\DPSUpdate\logs\2014-01-23-list.log
+07.03.2014 10:44:53.131 MD5 ( C:\DPSUpdate\logs\2014-01-23-PagesHistory.log ) 
+07.03.2014 10:44:53.131 GetSum start: C:\DPSUpdate\logs\2014-01-23-PagesHistory.log
+07.03.2014 10:44:53.131 Start reading C:\DPSUpdate\logs\2014-01-23-PagesHistory.log
+07.03.2014 10:44:53.131 MD5 ( C:\DPSUpdate\logs\2014-01-23-Payments.log ) 
+07.03.2014 10:44:53.131 GetSum start: C:\DPSUpdate\logs\2014-01-23-Payments.log
+07.03.2014 10:44:53.132 MD5 ( C:\DPSUpdate\logs\2014-01-23-Sound.log ) 
+07.03.2014 10:44:53.132 GetSum start: C:\DPSUpdate\logs\2014-01-23-Sound.log
+07.03.2014 10:44:53.132 Start reading C:\DPSUpdate\logs\2014-01-23-Sound.log
+07.03.2014 10:44:53.132 MD5 ( C:\DPSUpdate\logs\2014-01-23-TBlackList.log ) 
+07.03.2014 10:44:53.132 GetSum start: C:\DPSUpdate\logs\2014-01-23-TBlackList.log
+07.03.2014 10:44:53.132 Start reading C:\DPSUpdate\logs\2014-01-23-TBlackList.log
+07.03.2014 10:44:53.132 MD5 ( C:\DPSUpdate\logs\2014-01-23-TCModule.log ) 
+07.03.2014 10:44:53.132 GetSum start: C:\DPSUpdate\logs\2014-01-23-TCModule.log
+07.03.2014 10:44:53.133 Start reading C:\DPSUpdate\logs\2014-01-23-TCModule.log
+07.03.2014 10:44:53.133 MD5 ( C:\DPSUpdate\logs\2014-01-23-TransportCardTimer.log ) 
+07.03.2014 10:44:53.133 GetSum start: C:\DPSUpdate\logs\2014-01-23-TransportCardTimer.log
+07.03.2014 10:44:53.133 Start reading C:\DPSUpdate\logs\2014-01-23-TransportCardTimer.log
+07.03.2014 10:44:53.133 MD5 ( C:\DPSUpdate\logs\2014-01-23-TTimeSynch.log ) 
+07.03.2014 10:44:53.133 GetSum start: C:\DPSUpdate\logs\2014-01-23-TTimeSynch.log
+07.03.2014 10:44:53.133 Start reading C:\DPSUpdate\logs\2014-01-23-TTimeSynch.log
+07.03.2014 10:44:53.134 MD5 ( C:\DPSUpdate\logs\2014-01-23-WinPrinter.log ) 
+07.03.2014 10:44:53.134 GetSum start: C:\DPSUpdate\logs\2014-01-23-WinPrinter.log
+07.03.2014 10:44:53.134 Start reading C:\DPSUpdate\logs\2014-01-23-WinPrinter.log
+07.03.2014 10:44:53.134 MD5 ( C:\DPSUpdate\logs\2014-03-06-TBackup.log ) 
+07.03.2014 10:44:53.134 GetSum start: C:\DPSUpdate\logs\2014-03-06-TBackup.log
+07.03.2014 10:44:53.134 Start reading C:\DPSUpdate\logs\2014-03-06-TBackup.log
+07.03.2014 10:44:53.134 MD5 ( C:\DPSUpdate\logs\2014-03-06-TCancelUpdate.log ) 
+07.03.2014 10:44:53.134 GetSum start: C:\DPSUpdate\logs\2014-03-06-TCancelUpdate.log
+07.03.2014 10:44:53.135 Start reading C:\DPSUpdate\logs\2014-03-06-TCancelUpdate.log
+07.03.2014 10:44:53.135 MD5 ( C:\DPSUpdate\logs\2014-03-06-TFolderList.log ) 
+07.03.2014 10:44:53.135 GetSum start: C:\DPSUpdate\logs\2014-03-06-TFolderList.log
+07.03.2014 10:44:53.135 Start reading C:\DPSUpdate\logs\2014-03-06-TFolderList.log
+07.03.2014 10:44:53.135 MD5 ( C:\DPSUpdate\logs\2014-03-06-TimerThread.log ) 
+07.03.2014 10:44:53.135 GetSum start: C:\DPSUpdate\logs\2014-03-06-TimerThread.log
+07.03.2014 10:44:53.135 Start reading C:\DPSUpdate\logs\2014-03-06-TimerThread.log
+07.03.2014 10:44:53.136 MD5 ( C:\DPSUpdate\logs\2014-03-06-TMain.log ) 
+07.03.2014 10:44:53.136 GetSum start: C:\DPSUpdate\logs\2014-03-06-TMain.log
+07.03.2014 10:44:53.136 Start reading C:\DPSUpdate\logs\2014-03-06-TMain.log
+07.03.2014 10:44:53.147 MD5 ( C:\DPSUpdate\logs\2014-03-06-TMD5Class.log ) 
+07.03.2014 10:44:53.147 GetSum start: C:\DPSUpdate\logs\2014-03-06-TMD5Class.log
+07.03.2014 10:44:53.149 Start reading C:\DPSUpdate\logs\2014-03-06-TMD5Class.log
+07.03.2014 10:44:53.181 MD5 ( C:\DPSUpdate\main_mob.png ) 
+07.03.2014 10:44:53.181 GetSum start: C:\DPSUpdate\main_mob.png
+07.03.2014 10:44:53.182 Start reading C:\DPSUpdate\main_mob.png
+07.03.2014 10:44:53.183 MD5 ( C:\DPSUpdate\md5.txt ) 
+07.03.2014 10:44:53.183 GetSum start: C:\DPSUpdate\md5.txt
+07.03.2014 10:44:53.183 Start reading C:\DPSUpdate\md5.txt
+07.03.2014 10:44:53.184 MD5 ( C:\DPSUpdate\megafon.bat ) 
+07.03.2014 10:44:53.184 GetSum start: C:\DPSUpdate\megafon.bat
+07.03.2014 10:44:53.184 Start reading C:\DPSUpdate\megafon.bat
+07.03.2014 10:44:53.184 MD5 ( C:\DPSUpdate\mts.bat ) 
+07.03.2014 10:44:53.184 GetSum start: C:\DPSUpdate\mts.bat
+07.03.2014 10:44:53.184 Start reading C:\DPSUpdate\mts.bat
+07.03.2014 10:44:53.185 Start getting md5 of: C:\DPSUpdate\outbound
+07.03.2014 10:44:53.185 Start getting md5 of: C:\DPSUpdate\outbound\checks
+07.03.2014 10:44:53.185 Start getting md5 of: C:\DPSUpdate\outbound\email
+07.03.2014 10:44:53.185 Start getting md5 of: C:\DPSUpdate\outbound\email\ext
+07.03.2014 10:44:53.185 Start getting md5 of: C:\DPSUpdate\outbound\email\ext\temp
+07.03.2014 10:44:53.185 Start getting md5 of: C:\DPSUpdate\outbound\email\temp
+07.03.2014 10:44:53.185 Start getting md5 of: C:\DPSUpdate\outbound\payments
+07.03.2014 10:44:53.186 Start getting md5 of: C:\DPSUpdate\outbound\payments\temp
+07.03.2014 10:44:53.186 Start getting md5 of: C:\DPSUpdate\outbound\payments\unprocessed
+07.03.2014 10:44:53.186 Start getting md5 of: C:\DPSUpdate\outbound\sms
+07.03.2014 10:44:53.186 Start getting md5 of: C:\DPSUpdate\outbound\sms\temp
+07.03.2014 10:44:53.186 Start getting md5 of: C:\DPSUpdate\outbound\stat
+07.03.2014 10:44:53.187 MD5 ( C:\DPSUpdate\outbound\stat\out-printer-1ststate.pkt ) 
+07.03.2014 10:44:53.187 GetSum start: C:\DPSUpdate\outbound\stat\out-printer-1ststate.pkt
+07.03.2014 10:44:53.187 Start reading C:\DPSUpdate\outbound\stat\out-printer-1ststate.pkt
+07.03.2014 10:44:53.187 MD5 ( C:\DPSUpdate\outbound\stat\out-version.pkt ) 
+07.03.2014 10:44:53.187 GetSum start: C:\DPSUpdate\outbound\stat\out-version.pkt
+07.03.2014 10:44:53.187 Start reading C:\DPSUpdate\outbound\stat\out-version.pkt
+07.03.2014 10:44:53.188 MD5 ( C:\DPSUpdate\outbound\stat\out130604023425952730045777.pkt ) 
+07.03.2014 10:44:53.188 GetSum start: C:\DPSUpdate\outbound\stat\out130604023425952730045777.pkt
+07.03.2014 10:44:53.188 Start reading C:\DPSUpdate\outbound\stat\out130604023425952730045777.pkt
+07.03.2014 10:44:53.188 MD5 ( C:\DPSUpdate\outbound\stat\out130605093031533037607204.pkt ) 
+07.03.2014 10:44:53.188 GetSum start: C:\DPSUpdate\outbound\stat\out130605093031533037607204.pkt
+07.03.2014 10:44:53.188 Start reading C:\DPSUpdate\outbound\stat\out130605093031533037607204.pkt
+07.03.2014 10:44:53.188 MD5 ( C:\DPSUpdate\outbound\stat\out130606092735859428208983.pkt ) 
+07.03.2014 10:44:53.188 GetSum start: C:\DPSUpdate\outbound\stat\out130606092735859428208983.pkt
+07.03.2014 10:44:53.189 Start reading C:\DPSUpdate\outbound\stat\out130606092735859428208983.pkt
+07.03.2014 10:44:53.189 MD5 ( C:\DPSUpdate\outbound\stat\out130606092949466512898723.pkt ) 
+07.03.2014 10:44:53.189 GetSum start: C:\DPSUpdate\outbound\stat\out130606092949466512898723.pkt
+07.03.2014 10:44:53.189 MD5 ( C:\DPSUpdate\outbound\stat\out130606093055934097344847.pkt ) 
+07.03.2014 10:44:53.189 GetSum start: C:\DPSUpdate\outbound\stat\out130606093055934097344847.pkt
+07.03.2014 10:44:53.190 MD5 ( C:\DPSUpdate\outbound\stat\out130606093507561172846810.pkt ) 
+07.03.2014 10:44:53.190 GetSum start: C:\DPSUpdate\outbound\stat\out130606093507561172846810.pkt
+07.03.2014 10:44:53.190 MD5 ( C:\DPSUpdate\outbound\stat\out130606093507568172846810.pkt ) 
+07.03.2014 10:44:53.190 GetSum start: C:\DPSUpdate\outbound\stat\out130606093507568172846810.pkt
+07.03.2014 10:44:53.190 MD5 ( C:\DPSUpdate\outbound\stat\out130606093610834373386997.pkt ) 
+07.03.2014 10:44:53.190 GetSum start: C:\DPSUpdate\outbound\stat\out130606093610834373386997.pkt
+07.03.2014 10:44:53.191 MD5 ( C:\DPSUpdate\outbound\stat\out130606094044450826237138.pkt ) 
+07.03.2014 10:44:53.191 GetSum start: C:\DPSUpdate\outbound\stat\out130606094044450826237138.pkt
+07.03.2014 10:44:53.191 Start reading C:\DPSUpdate\outbound\stat\out130606094044450826237138.pkt
+07.03.2014 10:44:53.191 MD5 ( C:\DPSUpdate\outbound\stat\out130606094550113274480176.pkt ) 
+07.03.2014 10:44:53.191 GetSum start: C:\DPSUpdate\outbound\stat\out130606094550113274480176.pkt
+07.03.2014 10:44:53.192 MD5 ( C:\DPSUpdate\outbound\stat\out130606094651247619904588.pkt ) 
+07.03.2014 10:44:53.192 GetSum start: C:\DPSUpdate\outbound\stat\out130606094651247619904588.pkt
+07.03.2014 10:44:53.192 MD5 ( C:\DPSUpdate\outbound\stat\out130606094843380074145331.pkt ) 
+07.03.2014 10:44:53.192 GetSum start: C:\DPSUpdate\outbound\stat\out130606094843380074145331.pkt
+07.03.2014 10:44:53.192 Start reading C:\DPSUpdate\outbound\stat\out130606094843380074145331.pkt
+07.03.2014 10:44:53.192 MD5 ( C:\DPSUpdate\outbound\stat\out130606095203564643210185.pkt ) 
+07.03.2014 10:44:53.192 GetSum start: C:\DPSUpdate\outbound\stat\out130606095203564643210185.pkt
+07.03.2014 10:44:53.193 MD5 ( C:\DPSUpdate\outbound\stat\out130606095530050185505265.pkt ) 
+07.03.2014 10:44:53.193 GetSum start: C:\DPSUpdate\outbound\stat\out130606095530050185505265.pkt
+07.03.2014 10:44:53.193 Start reading C:\DPSUpdate\outbound\stat\out130606095530050185505265.pkt
+07.03.2014 10:44:53.193 MD5 ( C:\DPSUpdate\outbound\stat\out130606095645886687199569.pkt ) 
+07.03.2014 10:44:53.193 GetSum start: C:\DPSUpdate\outbound\stat\out130606095645886687199569.pkt
+07.03.2014 10:44:53.193 MD5 ( C:\DPSUpdate\outbound\stat\out130606095746897122311972.pkt ) 
+07.03.2014 10:44:53.193 GetSum start: C:\DPSUpdate\outbound\stat\out130606095746897122311972.pkt
+07.03.2014 10:44:53.194 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539827445609349.pkt ) 
+07.03.2014 10:44:53.194 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539827445609349.pkt
+07.03.2014 10:44:53.194 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539834445609349.pkt ) 
+07.03.2014 10:44:53.194 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539834445609349.pkt
+07.03.2014 10:44:53.194 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539848445609349.pkt ) 
+07.03.2014 10:44:53.194 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539848445609349.pkt
+07.03.2014 10:44:53.195 MD5 ( C:\DPSUpdate\outbound\stat\out130606112539857445609349.pkt ) 
+07.03.2014 10:44:53.195 GetSum start: C:\DPSUpdate\outbound\stat\out130606112539857445609349.pkt
+07.03.2014 10:44:53.195 MD5 ( C:\DPSUpdate\outbound\stat\out130606113551092240337535.pkt ) 
+07.03.2014 10:44:53.195 GetSum start: C:\DPSUpdate\outbound\stat\out130606113551092240337535.pkt
+07.03.2014 10:44:53.196 MD5 ( C:\DPSUpdate\outbound\stat\out130606114056789280094725.pkt ) 
+07.03.2014 10:44:53.196 GetSum start: C:\DPSUpdate\outbound\stat\out130606114056789280094725.pkt
+07.03.2014 10:44:53.196 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554886627296510.pkt ) 
+07.03.2014 10:44:53.196 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554886627296510.pkt
+07.03.2014 10:44:53.196 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554893627296510.pkt ) 
+07.03.2014 10:44:53.196 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554893627296510.pkt
+07.03.2014 10:44:53.197 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554901627296510.pkt ) 
+07.03.2014 10:44:53.197 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554901627296510.pkt
+07.03.2014 10:44:53.197 MD5 ( C:\DPSUpdate\outbound\stat\out130606124554908627296510.pkt ) 
+07.03.2014 10:44:53.197 GetSum start: C:\DPSUpdate\outbound\stat\out130606124554908627296510.pkt
+07.03.2014 10:44:53.197 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559250244696433.pkt ) 
+07.03.2014 10:44:53.197 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559250244696433.pkt
+07.03.2014 10:44:53.198 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559258244696433.pkt ) 
+07.03.2014 10:44:53.198 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559258244696433.pkt
+07.03.2014 10:44:53.198 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559275244696433.pkt ) 
+07.03.2014 10:44:53.198 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559275244696433.pkt
+07.03.2014 10:44:53.198 MD5 ( C:\DPSUpdate\outbound\stat\out130606150559285244696433.pkt ) 
+07.03.2014 10:44:53.198 GetSum start: C:\DPSUpdate\outbound\stat\out130606150559285244696433.pkt
+07.03.2014 10:44:53.199 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154553497825087.pkt ) 
+07.03.2014 10:44:53.199 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154553497825087.pkt
+07.03.2014 10:44:53.199 Start reading C:\DPSUpdate\outbound\stat\out130607162154553497825087.pkt
+07.03.2014 10:44:53.199 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154560497825087.pkt ) 
+07.03.2014 10:44:53.199 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154560497825087.pkt
+07.03.2014 10:44:53.200 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154568497825087.pkt ) 
+07.03.2014 10:44:53.200 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154568497825087.pkt
+07.03.2014 10:44:53.200 MD5 ( C:\DPSUpdate\outbound\stat\out130607162154577497825087.pkt ) 
+07.03.2014 10:44:53.200 GetSum start: C:\DPSUpdate\outbound\stat\out130607162154577497825087.pkt
+07.03.2014 10:44:53.200 MD5 ( C:\DPSUpdate\outbound\stat\out130607173031810777406878.pkt ) 
+07.03.2014 10:44:53.200 GetSum start: C:\DPSUpdate\outbound\stat\out130607173031810777406878.pkt
+07.03.2014 10:44:53.201 MD5 ( C:\DPSUpdate\outbound\stat\out130607173031817777406878.pkt ) 
+07.03.2014 10:44:53.201 GetSum start: C:\DPSUpdate\outbound\stat\out130607173031817777406878.pkt
+07.03.2014 10:44:53.201 MD5 ( C:\DPSUpdate\outbound\stat\out130607173031824777406878.pkt ) 
+07.03.2014 10:44:53.201 GetSum start: C:\DPSUpdate\outbound\stat\out130607173031824777406878.pkt
+07.03.2014 10:44:53.201 MD5 ( C:\DPSUpdate\outbound\stat\out130610125401712771126905.pkt ) 
+07.03.2014 10:44:53.201 GetSum start: C:\DPSUpdate\outbound\stat\out130610125401712771126905.pkt
+07.03.2014 10:44:53.201 Start reading C:\DPSUpdate\outbound\stat\out130610125401712771126905.pkt
+07.03.2014 10:44:53.202 MD5 ( C:\DPSUpdate\outbound\stat\out130610125401724771126905.pkt ) 
+07.03.2014 10:44:53.202 GetSum start: C:\DPSUpdate\outbound\stat\out130610125401724771126905.pkt
+07.03.2014 10:44:53.202 Start reading C:\DPSUpdate\outbound\stat\out130610125401724771126905.pkt
+07.03.2014 10:44:53.202 MD5 ( C:\DPSUpdate\outbound\stat\out130610125401733771126905.pkt ) 
+07.03.2014 10:44:53.202 GetSum start: C:\DPSUpdate\outbound\stat\out130610125401733771126905.pkt
+07.03.2014 10:44:53.202 Start reading C:\DPSUpdate\outbound\stat\out130610125401733771126905.pkt
+07.03.2014 10:44:53.202 Start getting md5 of: C:\DPSUpdate\outbound\stat\temp
+07.03.2014 10:44:53.203 MD5 ( C:\DPSUpdate\printers.dll ) 
+07.03.2014 10:44:53.203 GetSum start: C:\DPSUpdate\printers.dll
+07.03.2014 10:44:53.203 Start reading C:\DPSUpdate\printers.dll
+07.03.2014 10:44:53.210 MD5 ( C:\DPSUpdate\printers_2.dll ) 
+07.03.2014 10:44:53.210 GetSum start: C:\DPSUpdate\printers_2.dll
+07.03.2014 10:44:53.211 Start reading C:\DPSUpdate\printers_2.dll
+07.03.2014 10:44:53.216 MD5 ( C:\DPSUpdate\rtl60.bpl ) 
+07.03.2014 10:44:53.216 GetSum start: C:\DPSUpdate\rtl60.bpl
+07.03.2014 10:44:53.217 Start reading C:\DPSUpdate\rtl60.bpl
+07.03.2014 10:44:53.225 MD5 ( C:\DPSUpdate\setup_webclient.exe ) 
+07.03.2014 10:44:53.225 GetSum start: C:\DPSUpdate\setup_webclient.exe
+07.03.2014 10:44:53.238 Start reading C:\DPSUpdate\setup_webclient.exe
+07.03.2014 10:44:53.518 MD5 ( C:\DPSUpdate\ShtrihPrinter.pcr ) 
+07.03.2014 10:44:53.518 GetSum start: C:\DPSUpdate\ShtrihPrinter.pcr
+07.03.2014 10:44:53.518 MD5 ( C:\DPSUpdate\ssleay32.dll ) 
+07.03.2014 10:44:53.519 GetSum start: C:\DPSUpdate\ssleay32.dll
+07.03.2014 10:44:53.519 Start reading C:\DPSUpdate\ssleay32.dll
+07.03.2014 10:44:53.521 MD5 ( C:\DPSUpdate\stlpmt45.dll ) 
+07.03.2014 10:44:53.521 GetSum start: C:\DPSUpdate\stlpmt45.dll
+07.03.2014 10:44:53.522 Start reading C:\DPSUpdate\stlpmt45.dll
+07.03.2014 10:44:53.529 Start getting md5 of: C:\DPSUpdate\taxi
+07.03.2014 10:44:53.529 MD5 ( C:\DPSUpdate\taxi\taxi.exe ) 
+07.03.2014 10:44:53.529 GetSum start: C:\DPSUpdate\taxi\taxi.exe
+07.03.2014 10:44:53.529 Start reading C:\DPSUpdate\taxi\taxi.exe
+07.03.2014 10:44:53.530 MD5 ( C:\DPSUpdate\taxi\taxi.exe.lnk ) 
+07.03.2014 10:44:53.530 GetSum start: C:\DPSUpdate\taxi\taxi.exe.lnk
+07.03.2014 10:44:53.530 Start reading C:\DPSUpdate\taxi\taxi.exe.lnk
+07.03.2014 10:44:53.530 MD5 ( C:\DPSUpdate\tele2.bat ) 
+07.03.2014 10:44:53.530 GetSum start: C:\DPSUpdate\tele2.bat
+07.03.2014 10:44:53.530 Start reading C:\DPSUpdate\tele2.bat
+07.03.2014 10:44:53.531 MD5 ( C:\DPSUpdate\TextFile.md5 ) 
+07.03.2014 10:44:53.531 GetSum start: C:\DPSUpdate\TextFile.md5
+07.03.2014 10:44:53.531 Start reading C:\DPSUpdate\TextFile.md5
+07.03.2014 10:44:53.531 MD5 ( C:\DPSUpdate\TextFile.txt ) 
+07.03.2014 10:44:53.531 GetSum start: C:\DPSUpdate\TextFile.txt
+07.03.2014 10:44:53.531 Start reading C:\DPSUpdate\TextFile.txt
+07.03.2014 10:44:53.531 MD5 ( C:\DPSUpdate\TVicPort.dll ) 
+07.03.2014 10:44:53.531 GetSum start: C:\DPSUpdate\TVicPort.dll
+07.03.2014 10:44:53.532 Start reading C:\DPSUpdate\TVicPort.dll
+07.03.2014 10:44:53.532 MD5 ( C:\DPSUpdate\TVicPort.sys ) 
+07.03.2014 10:44:53.532 GetSum start: C:\DPSUpdate\TVicPort.sys
+07.03.2014 10:44:53.533 Start reading C:\DPSUpdate\TVicPort.sys
+07.03.2014 10:44:53.533 MD5 ( C:\DPSUpdate\unlocker.exe ) 
+07.03.2014 10:44:53.533 GetSum start: C:\DPSUpdate\unlocker.exe
+07.03.2014 10:44:53.533 Start reading C:\DPSUpdate\unlocker.exe
+07.03.2014 10:44:53.535 MD5 ( C:\DPSUpdate\updater.7z ) 
+07.03.2014 10:44:53.535 GetSum start: C:\DPSUpdate\updater.7z
+07.03.2014 10:44:53.536 Start reading C:\DPSUpdate\updater.7z
+07.03.2014 10:44:53.546 MD5 ( C:\DPSUpdate\updater.exe ) 
+07.03.2014 10:44:53.546 GetSum start: C:\DPSUpdate\updater.exe
+07.03.2014 10:44:53.547 Start reading C:\DPSUpdate\updater.exe
+07.03.2014 10:44:53.566 MD5 ( C:\DPSUpdate\updater.txt ) 
+07.03.2014 10:44:53.566 GetSum start: C:\DPSUpdate\updater.txt
+07.03.2014 10:44:53.566 Start reading C:\DPSUpdate\updater.txt
+07.03.2014 10:44:53.566 MD5 ( C:\DPSUpdate\vcl60.bpl ) 
+07.03.2014 10:44:53.566 GetSum start: C:\DPSUpdate\vcl60.bpl
+07.03.2014 10:44:53.567 Start reading C:\DPSUpdate\vcl60.bpl
+07.03.2014 10:44:53.583 MD5 ( C:\DPSUpdate\vclx60.bpl ) 
+07.03.2014 10:44:53.583 GetSum start: C:\DPSUpdate\vclx60.bpl
+07.03.2014 10:44:53.583 Start reading C:\DPSUpdate\vclx60.bpl
+07.03.2014 10:44:53.586 MD5 ( C:\DPSUpdate\WDTS.dll ) 
+07.03.2014 10:44:53.586 GetSum start: C:\DPSUpdate\WDTS.dll
+07.03.2014 10:44:53.586 Start reading C:\DPSUpdate\WDTS.dll
+07.03.2014 10:44:53.587 MD5 ( C:\DPSUpdate\webclient.txt ) 
+07.03.2014 10:44:53.587 GetSum start: C:\DPSUpdate\webclient.txt
+07.03.2014 10:44:53.587 Start reading C:\DPSUpdate\webclient.txt
+07.03.2014 10:44:53.587 MD5 ( C:\DPSUpdate\WinPrinter.pcr ) 
+07.03.2014 10:44:53.587 GetSum start: C:\DPSUpdate\WinPrinter.pcr
+07.03.2014 10:44:53.587 MD5 ( C:\DPSUpdate\wrq.reg ) 
+07.03.2014 10:44:53.587 GetSum start: C:\DPSUpdate\wrq.reg
+07.03.2014 10:44:53.588 Start reading C:\DPSUpdate\wrq.reg
+07.03.2014 10:44:53.588 MD5 ( C:\DPSUpdate\xmlrtl60.bpl ) 
+07.03.2014 10:44:53.588 GetSum start: C:\DPSUpdate\xmlrtl60.bpl
+07.03.2014 10:44:53.589 Start reading C:\DPSUpdate\xmlrtl60.bpl
+07.03.2014 10:44:53.599 MD5 ( C:\DPSUpdate\zip.bat ) 
+07.03.2014 10:44:53.599 GetSum start: C:\DPSUpdate\zip.bat
+07.03.2014 10:44:53.599 Start reading C:\DPSUpdate\zip.bat
+07.03.2014 10:44:53.600 MD5 ( C:\DPSUpdate\zlibwapi.dll ) 
+07.03.2014 10:44:53.600 GetSum start: C:\DPSUpdate\zlibwapi.dll
+07.03.2014 10:44:53.600 Start reading C:\DPSUpdate\zlibwapi.dll
+07.03.2014 10:44:53.601 MD5 ( C:\DPSUpdate\_DPSCom.exe ) 
+07.03.2014 10:44:53.601 GetSum start: C:\DPSUpdate\_DPSCom.exe
+07.03.2014 10:44:53.602 Start reading C:\DPSUpdate\_DPSCom.exe
+07.03.2014 10:44:53.617 MD5 ( C:\DPSUpdate\_DPSKiosk.exe ) 
+07.03.2014 10:44:53.617 GetSum start: C:\DPSUpdate\_DPSKiosk.exe
+07.03.2014 10:44:53.621 Start reading C:\DPSUpdate\_DPSKiosk.exe
+07.03.2014 11:48:28.282 MD5 class started ...
+07.03.2014 11:56:06.660 MD5 class started ...

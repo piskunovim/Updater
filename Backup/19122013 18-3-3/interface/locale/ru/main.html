@@ -1,0 +1,150 @@
+<html>
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta name="Document-state" content="Dynamic">
+
+        <script language="javascript" type="text/javascript" src="../../mj/mj.js"></script>
+        <script language="javascript" type="text/javascript" src="../../mj/mj_cybobj.js"></script>
+        <script language="javascript" type="text/javascript" src="../../mj/mj_dyn.js"></script>
+        <script language="javascript" type="text/javascript" src="lcp.js"></script>
+
+        <script language="javascript" type="text/javascript" src="../../dpskiosk.js"></script>
+        <script language="javascript" type="text/javascript" src="../../iface_jcfg.js"></script>
+        <script language="javascript" type="text/javascript" src="../../iface_config.js"></script>
+
+
+        <script language="javascript" type="text/javascript" src="../../if3_sc.js"></script>
+        <script language="javascript" type="text/javascript" src="../../version.if"></script>
+      	<script type="text/javascript" src="no_search_op.js"></script>
+        <script language="javascript" type="text/javascript" src="../../narco.js"></script>
+
+<style>
+
+#mask {
+    position:absolute;
+    left:0;
+    top:0;
+    background-color:#000;
+    z-index:100;
+    display:none;
+    }
+  
+#boxes .window {
+    position:absolute;
+    left:0;
+    top:0;
+    width:1240px;
+    height:760px;
+    display:none;
+    z-index:9999;
+    padding:20px;
+    }  
+
+#boxes #dialog {
+    width:1240px; 
+    height:750px;
+    background-color:#ffffff;
+    z-index:9999;
+    }  
+#dialog .d-header {
+    width:1240px; 
+    height:150px;
+    font-size:20px;
+    text-align:center;
+    font-weight:bold;
+    font-color:black;
+    text-align:center;
+    }  
+#dialog .d-header input {
+    position:relative;
+    top:10px;
+    border:3px solid #cccccc;
+    height:40px;
+    width:200px;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+    padding:3px;
+    margin-top:4px;
+    }  
+#dialog .d-blank {
+    float:left;
+    width:267px; 
+    height:53px;
+    }  
+#dialog .d-login {
+    width:1240px; 
+    height:600px;
+    text-align:center;
+    }
+#confrim {
+    position:absolute;
+    left:0;
+    top:0;
+    background-image: url(../../skins/metro2/i/bg.bmp);
+    z-index:101;
+    display:none;
+    }
+  
+  </style>
+</head>
+
+
+<body>
+
+<script>
+mj_G.init();        //        MJ library must be inited!!!
+// -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+</script>
+
+
+<!-- run on da script intreface-pages-generator ;)  -->
+<script language="javascript" type="text/javascript" src="../../iface_init.js"></script>
+
+
+
+ 
+<div id="boxes">  
+
+<div id="dialog" class="window">
+  <div id="dheader" class="d-header">
+	  <input id="count" type="text" value="1"/><br/>
+	  <p><font size="20" color="red" face="Verdana">Введите количество процедур/осмотров и т.п.</font></p>
+	
+  </div>
+  <div class="d-login">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="1" onClick="count.value+=this.value">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="2" onClick="count.value+=this.value">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="3" onClick="count.value+=this.value">
+	<br/>
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="4" onClick="count.value+=this.value">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="5" onClick="count.value+=this.value">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="6" onClick="count.value+=this.value">
+	<br/>
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="7" onClick="count.value+=this.value">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="8" onClick="count.value+=this.value">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="9" onClick="count.value+=this.value">
+	<br/>
+
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="0" onClick="count.value+=this.value">
+	<input type="button" style="width:80px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="C" onClick="count.value=''">
+	<br/><br/>
+	<input type="button" style="width:300px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="Отмена" onClick="narcoServiceCancel()">
+	<input type="button" style="width:300px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="Добавить" onClick="narcoServiceAdd(count.value)">
+
+  </div>
+
+</div>   
+<!-- Маска, которая затемняет весь экран -->
+<div id="mask"></div>
+<div id="confrim" class="window">
+	<div id="confrimText" style="position:relative; top:260px; font-size:28px; font-weight:bold; text-align:center">
+	</div>
+	<input id="Yes" type="button" style="position:absolute; top:760px; left:200px; text-align:center; width:300px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="Да" onClick="narcoNextStep(1)">
+	<input type="button" style="position:absolute; top:760px; left:800px; text-align:center; width:300px; height:80px; font-size:48px; font-weight:bold; font-family:Verdana" value="Нет" onClick="narcoNextStep(2)">
+</div>
+</div>
+
+</body>
+</html>

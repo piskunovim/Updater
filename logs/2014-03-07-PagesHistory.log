@@ -1,0 +1,13 @@
+07.03.2014 09:36:49.218 Запуск приложения
+07.03.2014 09:36:54.387 C:\Webclient\interface\main.html
+07.03.2014 09:36:54.501 file:///C:/Webclient/interface/locale/ru/main.html?locale=ru
+07.03.2014 09:36:54.784 file:///C:/Webclient/interface/locale/ru/main.html?locale=ru
+07.03.2014 09:36:55.020 file:///C:/Webclient/interface/locale/ru/command.html?cmd=log&msg= &res=log
+07.03.2014 09:36:55.024 file:///C:/Webclient/interface/locale/ru/command.html?cmd=log&msg= &res=log
+07.03.2014 09:36:55.025 file:///C:/Webclient/interface/locale/ru/command.html?cmd=log&msg=-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]-[equ]&res=log
+07.03.2014 09:36:55.027 file:///C:/Webclient/interface/locale/ru/command.html?cmd=log&msg=if3[dot]init:%20iface%20version:%203[dot]0[dot]0258[dot]000%20"AmVor"%20(20080523%2013:10)&res=log
+07.03.2014 09:36:55.028 file:///C:/Webclient/interface/locale/ru/command.html?cmd=log&msg=if3[dot]pe:%20_cmd|set|res[equ]meg|name[equ]ret_info|value[equ]created%20in%20if3[dot]init;%20offset:%201394170615027&res=log
+07.03.2014 09:36:55.030 file:///C:/Webclient/interface/locale/ru/command.html?cmd=start_check_timer&com=start_check_timer%20by%20if3.pe(_cmd|set|res=meg|name=ret_info|value=created%20in%20if3.init;%20offset:%201394170615027)
+07.03.2014 09:36:55.031 file:///C:/Webclient/interface/locale/ru/command.html?cmd=log&msg=%20%20%20%20if3[dot]pa:%20(exec)%20_cmd|set|res[equ]meg|name[equ]ret_info|value[equ]created%20in%20if3[dot]init;%20offset:%201394170615027&res=log
+07.03.2014 09:36:55.033 file:///C:/Webclient/interface/locale/ru/command.html?cmd=set&res=meg&name=ret_info&value=created%20in%20if3.init;%20offset:%201394170615027
+07.03.2014 09:36:55.037 file:///C:/Webclient/interface/locale/ru/command.html?cmd=stop_check_timer&com=stop_check_timer%20by%20if3.pe(_cmd|set|res=meg|name=ret_info|value=created%20in%20if3.init;%20offset:%201394170615027)
