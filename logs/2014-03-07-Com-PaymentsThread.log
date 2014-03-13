@@ -1,5 +1,0 @@
-07.03.2014 09:36:58.880 CryptLib.dll version: 1.0.3.3
-07.03.2014 09:36:58.880 CryptLib.Init done successfully.
-07.03.2014 09:36:58.881 Adding keys {.\keys\secret.key, .\keys\pubkeys.key, 10000}...CryptLib.AddKeys(1): Open secret key error: -9: -1 ; CryptLib.AddKeys(2): Open secret key error: -9: -1 ; 
-07.03.2014 09:36:58.883 Thread initialized, interval: 60s.
-07.03.2014 09:37:28.949 ~TOutboundThread started...Crypt done...Outbound...

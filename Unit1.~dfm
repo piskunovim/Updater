@@ -1,11 +1,6 @@
 object Form1: TForm1
-<<<<<<< HEAD
   Left = 235
   Top = 140
-=======
-  Left = 11
-  Top = 229
->>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
   BorderStyle = bsNone
   Caption = 'Form1'
   ClientHeight = 770
@@ -18554,10 +18549,7 @@ object Form1: TForm1
   end
   object idFTP: TIdFTP
     MaxLineAction = maException
-<<<<<<< HEAD
     Passive = True
-=======
->>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
     ProxySettings.ProxyType = fpcmNone
     ProxySettings.Port = 0
     Left = 16

@@ -1,7 +1,0 @@
-%CFGHEADER%
-ВПС "Форвард Мобайл" 
-тел.: 8 909 457 95 50
-%OPNAME%, 
-тел. тп: %INT_RECIPIENT_NAME% 
-%%PARAM_NAME%: %PARAM_VALUE%%
-Комиссия - %COMISSION:7R% Сумма зачисленная на телефон: %CURR_C2%
