@@ -1,0 +1,244 @@
+07.03.2014 09:36:48.619 Version = 1.130307a
+07.03.2014 09:36:48.619 ----------------------------------------------------------------------------------------
+07.03.2014 09:36:51.043 Version = 1.130307a
+07.03.2014 09:36:51.043 ----------------------------------------------------------------------------------------
+07.03.2014 09:36:58.632 Count runing DPSCom.exe: 2
+07.03.2014 09:36:58.815 Cfg created.
+07.03.2014 09:36:58.817 File .\config\config.xml does not exists, trying to create...
+07.03.2014 09:36:58.819 Create file .\config\config.xml error: Cannot create file .\config\config.xml!OK.
+07.03.2014 09:36:58.820 Creating node: request_time = 10...OK.
+07.03.2014 09:36:58.820 Creating node: restart_tclib = 3...OK.
+07.03.2014 09:36:58.820 Setting attribute 'alt_addr1' to ''...OK.
+07.03.2014 09:36:58.820 Setting attribute 'alt_addr2' to ''...OK.
+07.03.2014 09:36:58.825 Setting attribute 'protection_level' to '0'...OK.
+07.03.2014 09:36:58.825 Setting attribute 'use_test_server' to '1'...OK.
+07.03.2014 09:36:58.825 Setting attribute 'test_server_addr' to 'mon.forwardmobile.ru:1890'...OK.
+07.03.2014 09:36:58.825 Creating node: offline_payment = 0...OK.
+07.03.2014 09:36:58.825 Setting attribute 'id' to '0'...OK.
+07.03.2014 09:36:58.825 Creating node: hasp = 0...OK.
+07.03.2014 09:36:58.825 Creating node: SD = ...OK.
+07.03.2014 09:36:58.825 Creating node: AP = ...OK.
+07.03.2014 09:36:58.825 Creating node: OP = ...OK.
+07.03.2014 09:36:58.825 Creating node: TermInfo = ...OK.
+07.03.2014 09:36:58.825 Creating node: serial_no = 10000...OK.
+07.03.2014 09:36:58.826 Creating node: pub_key = .\keys\pubkeys.key...OK.
+07.03.2014 09:36:58.826 Creating node: sec_password = 0...OK.
+07.03.2014 09:36:58.826 Creating node: sec_key = .\keys\secret.key...OK.
+07.03.2014 09:36:58.826 Setting attribute 'get_keys_url' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'error_payments_delete' to '72'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'offline_period' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'money_offline_period' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'delete_unprocessed_payments' to '30'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'ignored_check_errors_list' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'payments' to '0'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'main' to '0'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'other' to '0'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'other_folders' to 'c:\tclib\log\????-??-??-*.*'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'send_interval' to '5'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'smailhost' to 'none'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'from' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'userid' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'password' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'ext' to '0'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'to' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'ignored_errors' to '450'...OK.
+07.03.2014 09:36:58.826 Setting attribute 'hw_err_to' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'hw_ok_to' to ''...OK.
+07.03.2014 09:36:58.826 Setting attribute 'val_full_to' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'incass_to' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'prog_msg_to' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'mdm_msg_to' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'file_to' to ''...OK.
+07.03.2014 09:36:58.827 Deleting attribute: to...OK.
+07.03.2014 09:36:58.827 Setting attribute 'phone_number' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'comment' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'send_startup_sms' to '1'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'service_number' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'send_method' to '0'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'smsc_number' to ''...OK.
+07.03.2014 09:36:58.827 Setting attribute 'host' to 'www.forwardmobile.ru'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'port' to '1891'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'path' to 'c:\jpg'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'enable' to '0'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'interval' to '20'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'start' to '00:00'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'end' to '00:00'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'store_days' to '30'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'cnt_in_pack' to '1'...OK.
+07.03.2014 09:36:58.827 Setting attribute 'have_webcam' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'jpg_Quality' to '35'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'dev_index' to '-1'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'host' to 'www.forwardmobile.ru'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'port' to '1895'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'enable' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'timeout' to '20'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'resend' to '1'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'printer_type' to 'none'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'check_width' to '40'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'print_no_fr' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'insert' to 'Информация о принятых денежных средствах'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'before' to 'Номер чека'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'enable' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'off' to '00:00'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'on' to '00:00'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'height' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'width' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'type' to 'Windows'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'baudrate' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'auto_open_shift' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'save_unprinted_cheques' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'print_unprinted_cheques' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'terminal_freese_on_error' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'show_message_on_error' to '1'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'min_lines_count' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'font' to ''...OK.
+07.03.2014 09:36:58.828 Setting attribute 'presenter_command' to '0'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'zreport_with_incassation' to '1'...OK.
+07.03.2014 09:36:58.828 Setting attribute 'cheque_width' to '0'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'paper_near_end_enable' to '-1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'partial_cut' to '0'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'retract_report' to '1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'time_out' to '100'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'print_after_close' to '1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'inner_printer_font' to '0'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'close_current_shift' to '1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'to_866' to '1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'post_feed' to '0'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'paper_end_enable' to '1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'type' to 'none'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'ValidatorMaxAttempts' to '20'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'port' to '1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'currency' to 'RUR'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'exchange_rate' to '1'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'currency_name' to 'руб'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'stacker_open_command' to '0'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'bills_sensitivity' to '222222'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'report_bill_count' to ''...OK.
+07.03.2014 09:36:58.829 Setting attribute 'auto_dial' to '0'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'connection_name' to ''...OK.
+07.03.2014 09:36:58.829 Setting attribute 'interval' to '60'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'connection_check_time_out' to '15'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'host0' to ''...OK.
+07.03.2014 09:36:58.829 Setting attribute 'host1' to ''...OK.
+07.03.2014 09:36:58.829 Setting attribute 'disconnect_time' to '0'...OK.
+07.03.2014 09:36:58.829 Setting attribute 'init_cmd' to ''...OK.
+07.03.2014 09:36:58.829 Setting attribute 'login' to ''...OK.
+07.03.2014 09:36:58.829 Setting attribute 'password' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'init_string' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'alt_init_string' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'cnt_SIM' to '1'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'init0' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'balance0' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'type' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'host' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'username' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'password' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'failures_before_modem_reset' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'failures_before_reboot' to '10'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'service_info_port' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'baudrate' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'service_number' to '*102#'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'get_balance_cmd' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'decode_balance' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'get_service_info_interval' to '1440'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'pre-reboot_command' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'type' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'type' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'type' to ''...OK.
+07.03.2014 09:36:58.830 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'system_code' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'device_code' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'time_out' to '0'...OK.
+07.03.2014 09:36:58.830 Setting attribute 'server_host' to 'AppServer'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'server_port' to '11110'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'type' to ''...OK.
+07.03.2014 09:36:58.831 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'terminal_freese_on_error' to '0'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'type' to ''...OK.
+07.03.2014 09:36:58.831 Setting attribute 'port' to '0'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'terminal_freese_on_error' to '0'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'min_coin' to '1'...OK.
+07.03.2014 09:36:58.831 Creating node: out_of_order_password = ...OK.
+07.03.2014 09:36:58.831 Creating node: service_num = 9991234567...OK.
+07.03.2014 09:36:58.831 Creating node: service_op = 0...OK.
+07.03.2014 09:36:58.831 Creating node: tax_inspector_num = ...OK.
+07.03.2014 09:36:58.831 Creating node: tax_inspector_exe = ...OK.
+07.03.2014 09:36:58.831 Creating node: tax_inspector_op = -1...OK.
+07.03.2014 09:36:58.831 Creating node: service_menu_password_mask = ...OK.
+07.03.2014 09:36:58.831 Creating node: short_service_menu_password_mask = ...OK.
+07.03.2014 09:36:58.831 Creating node: incassation_number_mask = ...OK.
+07.03.2014 09:36:58.831 Setting attribute 'reports_count' to '1'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'print_barcode' to '0'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'get_amount_url' to ''...OK.
+07.03.2014 09:36:58.831 Open file .\interface\version.if error! File not found.
+07.03.2014 09:36:58.831 Setting attribute 'interface_ver' to ''...OK.
+07.03.2014 09:36:58.831 Setting attribute 'resolution' to '1280x1024'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'show_cursor' to '0'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'is_maximised' to '1'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'width' to '800'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'height' to '600'...OK.
+07.03.2014 09:36:58.831 Setting attribute 'sound_volume' to '-1'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'no_change_message' to '0'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'show_adv_on_secondary_monitor' to '0'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'show_title_screen' to '0'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'show_autodetect_warning' to '0'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'write_in_cheque' to '0'...OK.
+07.03.2014 09:36:58.832 Creating node: note_min_amount = 10...OK.
+07.03.2014 09:36:58.832 Creating node: support_string = Tелефон техподдержки: [b]***-****[/b][br]e-mail: [b]support@****.ru[/b]...OK.
+07.03.2014 09:36:58.832 Creating node: main_menu_marquee_string = За проведение платежа взимается комиссия....OK.
+07.03.2014 09:36:58.832 Creating node: main_menu_banner = 1...OK.
+07.03.2014 09:36:58.832 Creating node: midnight_reboot = 1...OK.
+07.03.2014 09:36:58.832 Creating node: reboot_allowed = 1...OK.
+07.03.2014 09:36:58.832 Creating node: detect_write_errors = 1...OK.
+07.03.2014 09:36:58.832 Creating node: set_high_priority = 1...OK.
+07.03.2014 09:36:58.832 Setting attribute 'skin_name' to 'default'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'our_TS' to '0'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'MaxChequesCount' to '1000'...OK.
+07.03.2014 09:36:58.832 Setting attribute 'use_list_ip' to '1'...OK.
+07.03.2014 09:36:58.832 Interface skin 'default' NOT found
+07.03.2014 09:36:58.832 Changing attribute 'skin_name' from 'default' to ''...OK.
+07.03.2014 09:36:58.832 Changed to '' skin...
+07.03.2014 09:36:58.832 Setting attribute 'db_numcapacity_update_address' to ''...OK.
+07.03.2014 09:36:58.832 Creating node: dealer_name = -...OK.
+07.03.2014 09:36:58.832 Creating node: dealer_address = -...OK.
+07.03.2014 09:36:58.832 Creating node: dealer_inn = -...OK.
+07.03.2014 09:36:58.833 Creating node: dealer_phone = -...OK.
+07.03.2014 09:36:58.833 Creating node: point_address = -...OK.
+07.03.2014 09:36:58.833 Creating node: contract_number = -...OK.
+07.03.2014 09:36:58.833 Creating node: bank_name = -...OK.
+07.03.2014 09:36:58.833 Creating node: bank_bik = -...OK.
+07.03.2014 09:36:58.833 Creating node: bank_phone = -...OK.
+07.03.2014 09:36:58.833 Trying to save config file...
+07.03.2014 09:36:58.833 File not opened!
+07.03.2014 09:36:58.833 Error writing config file to disk!
+07.03.2014 09:36:58.833 File .\config\operators.xml does not exists.
+07.03.2014 09:36:58.833 File mapping connected...
+07.03.2014 09:36:58.833 Deleting old logs and not processed payments...
+07.03.2014 09:36:58.833 Path: 0]=C:\WebClient\logs\????-??-??-*.log
+07.03.2014 09:36:58.876 Check folder complite.
+07.03.2014 09:36:58.876 Path: 1]=c:\tclib\log\????-??-??-*.*
+07.03.2014 09:36:58.876 No logs found.
+07.03.2014 09:36:58.876 No jpg found for deleting.
+07.03.2014 09:36:58.877 No payment packets found.
+07.03.2014 09:36:58.878 Starting PaymentsThread.
+07.03.2014 09:37:01.046 Count runing DPSCom.exe: 2
+07.03.2014 09:37:01.047 Another DPSCom instance is already running, exiting...
+07.03.2014 09:37:01.050 FormClose started.
+07.03.2014 09:37:01.050 Waiting for threads to finish...
+07.03.2014 09:37:01.150 Mutex...done.
+07.03.2014 09:37:23.921 Проверка активности процесса ''DPSKIOSK.EXE'' ... <НЕ активен>
+07.03.2014 09:37:23.921 DPSKiosk process is not running - rebooting...
+07.03.2014 09:37:23.921 07.03.2014 9:37:23
+07.03.2014 09:37:23.921 ==========================You have been rebooted======================================
+07.03.2014 09:37:28.549 FormClose started.
+07.03.2014 09:37:28.549 Waiting for threads to finish...
+07.03.2014 09:37:28.949 TimeSync thread...done.
+07.03.2014 09:37:28.949 Payments thread...done.
+07.03.2014 09:37:28.949 FileMap...done.
+07.03.2014 09:37:28.949 Cfg...done.
+07.03.2014 09:37:29.812 Mutex...done.

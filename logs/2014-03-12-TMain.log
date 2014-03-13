@@ -1,0 +1,531 @@
+12.03.2014 15:21:38.980 //-------------- 12.03.2014 15:21:38 -------------------------
+12.03.2014 15:21:38.985 Configuration XML has been opened ... 
+12.03.2014 15:21:39.030 Try to get Configuration info...
+12.03.2014 15:21:39.031 host: www.forwardmobile.ru.....OK
+12.03.2014 15:21:39.031 user: terminals......OK
+12.03.2014 15:21:39.031 password: terminals1357.....OK
+12.03.2014 15:21:39.031 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+12.03.2014 15:21:39.040 Terminate process DPSCom.exe success.
+12.03.2014 15:21:39.040 Terminal: 99999
+12.03.2014 15:21:39.040 SubDealer: 0
+12.03.2014 15:21:39.040 Serial: 105899
+12.03.2014 15:21:39.248 Соединение с сервером ...Успешно
+12.03.2014 15:21:39.249 Connected to: www.forwardmobile.ru
+12.03.2014 15:22:05.652 Проверка обновления...started
+12.03.2014 15:22:05.658 Совпали: f2f67ef641a35a6a67cbe794cb077768 *Webclient\20120530-ct.cer и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.658 Совпали: 885e9eb42889ca547f4e3515dcde5d3d *Webclient\7z.exe и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.658 Совпали: 17bddadca7044cc7b8406f1ca45210df *Webclient\7za.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.658 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 *Webclient\ASKOPM_KIOSK.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: d41d8cd98f00b204e9800998ecf8427e *Webclient\AtolPrinter.pcr и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 90a44e0e4b14a4a5d839f8fc48030af5 *Webclient\Azimuth.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 4793b32cf8ddf285a78f0ba78e122f90 *Webclient\bcbie60.bpl и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: bfc82d93a05444aa8c7697722d4e7c1f *Webclient\beeline.bat и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 8de680b3e881fc8ec8f8c8b10716fbbc *Webclient\Beta.7z и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 129608098b4bca257cfc3f524e5ce05a *Webclient\borlndmm.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 1d9ad5040c5a901108ca0328aff82fc3 *Webclient\cc3260mt.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 63c67ea91af5d2b46f676d1d002eabab *Webclient\cg32.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 8f3701c38513f88060e985db3083f883 *Webclient\config\Checkues.csv и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 24b89e0d902e16f963cc0083068d3df7 *Webclient\config\config.error и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 05d53f27e59806b94213fb37af0ff7f6 *Webclient\config\config.lastgood и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 05d53f27e59806b94213fb37af0ff7f6 *Webclient\config\config.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 0405170f66154f87013c1788bfd670ac *Webclient\config\config.xml.bak и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: b79780d3aa9d08c70c7ba6b897ddce16 *Webclient\config\config.~xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: f465c0d5140b94b9c2c79f29fe7c76c2 *Webclient\config\config1.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 412ad613103abf9279997f54fb8a9cef *Webclient\config\config44.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 4cf4f2ef2d9f2d0f3bf7526404f0b1df *Webclient\config\copychecks.csv и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: bbc1e6a12cd4772d593102b6d3c61ee5 *Webclient\config\Details.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 13950ecc957aebd8fdb7df3b16fd8453 *Webclient\config\KinoFolders.ini и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 9fbb9f8ee27e298c89f642b282def8dd *Webclient\config\md5.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 839bf24354edc91dd0c419917f0c004f *Webclient\config\operators.error и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 3d66f6ca6452cb73aa26e286cc6a532d *Webclient\config\operators.lastgood и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 3d66f6ca6452cb73aa26e286cc6a532d *Webclient\config\operators.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 1c43faa1b575caa826b8092489ae5ce3 *Webclient\config\operators.xml.bak и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 4cc45b871a877ee36425cc5249a0de1c *Webclient\config\operators123.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 8a170076d96b961daba9edce7b8c014c *Webclient\config\OSMIFolders.ini и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 2271f6980583c7a6b2534e873f6de928 *Webclient\config\templates\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: b600bce821b034c7f8b90fe0f4cbfcc8 *Webclient\config\templates\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 937aec8772ea0133d06dd5d855d9894d *Webclient\config\templates\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 6022a36e53f2e1af2e6a2d020667e84c *Webclient\config\templates\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 76bd391fb152b4723c8469b885caab78 *Webclient\config\templates\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: c5265967ce09239bc4c8d30e7b6838af *Webclient\config\templates\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: a5a44c70a26c4d7b44798141189117dc *Webclient\config\templates\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: f54fc4ab69a7457a2f4a0d3385dacdf5 *Webclient\config\templates\config.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 56f515719e29ebc0de151ae890b616f8 *Webclient\config\templates\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: dfaf8b0614e73ed979feb06b38d85c88 *Webclient\config\templates\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: ba25237cfb9f5b5c6f42ccaca21d762f *Webclient\config\templates\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: dfaf8b0614e73ed979feb06b38d85c88 *Webclient\config\templates\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 37daa5d9eb44b07dc721ed4866c9c2b7 *Webclient\config\templates\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: dab3dfcefbf8acdae92aafa57cc28639 *Webclient\config\templates\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 6957ac497f64a993726c8b6b7b7b7450 *Webclient\config\templates\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 174a2ddaf59ad4f3e85786f9b7dc4c20 *Webclient\config\templates\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: c1a0f589edf6cf70155e0f72a7b053d8 *Webclient\config\templates\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: 61698250b28b3c4c331d1b55cfd9067d *Webclient\config\templates\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: a14e71001e5ca8001e69ba43bdaac08c *Webclient\config\templates\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.659 Совпали: b8f20b9f930b3b6123441e3f31e7cde2 *Webclient\config\templates\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: b11af62a06825b704c3304910ca26b66 *Webclient\config\templates\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 0d904cc7dfa5319dcca01b4eac01d24e *Webclient\config\templates\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 5691ab14d9b28352c6ab7ec6f0f869b7 *Webclient\config\templates_frk\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 7b92f3577c5d9497c70d4f929656d39d *Webclient\config\templates_frk\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 0dc7374659624527c5087182056ebf29 *Webclient\config\templates_frk\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: d1dbd6688e68e7118511ccf362ae866e *Webclient\config\templates_frk\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: f52e9d24d761d94730540cef893f66e3 *Webclient\config\templates_frk\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 77076301dbb5647b01e518b17641e4c4 *Webclient\config\templates_frk\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_frk\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 056c720a0bb74f9147989e308725f53c *Webclient\config\templates_frk\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 1c52b11249ee1b2de0297f394c6d84d1 *Webclient\config\templates_frk\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: d5b1e52aea1fb05c4cf8efd5d72c397c *Webclient\config\templates_frk\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_frk\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 375db5d703e3052dc2db069d35d2da19 *Webclient\config\templates_frk\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 3420bda0b20b0db5d53a3042da0b42d7 *Webclient\config\templates_frk\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: edba97222dd3a42d37840098ac8023c0 *Webclient\config\templates_frk\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 9dd5c5dd2542becdd89be7d03f50c6bf *Webclient\config\templates_frk\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 482729ca8b8c1e92c520a740697ed183 *Webclient\config\templates_frk\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 17cf772cf8b3e54b28a58f6013066406 *Webclient\config\templates_frk\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: ddd273f7ee91aea106d9f4610af670c9 *Webclient\config\templates_frk\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 4e08fbc549af37a91df82758750a3779 *Webclient\config\templates_frk\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 7c93f447aec1425269dc01e551ca83c5 *Webclient\config\templates_frk\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 30489332cf529de83204a5ccb6c86b36 *Webclient\config\templates_frk_no_sup\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 3fd676912a85c5172907fbb52862f246 *Webclient\config\templates_frk_no_sup\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 1cfe233898025f61ec4e24a122436d9f *Webclient\config\templates_frk_no_sup\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 1fa7bf6d52a32a36b22eb4c36e8af6b0 *Webclient\config\templates_frk_no_sup\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: bc659fd9156f7af156f7bf69ae02ad62 *Webclient\config\templates_frk_no_sup\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: df7210ebed522a06fc2e950777c347e2 *Webclient\config\templates_frk_no_sup\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_frk_no_sup\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 560ab852ab34b052048ab682e3def9df *Webclient\config\templates_frk_no_sup\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 0931f74a0fc4fdcfb28d206f27ce3f24 *Webclient\config\templates_frk_no_sup\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 375970f8d7fbdeade38fba95e23be2a6 *Webclient\config\templates_frk_no_sup\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_frk_no_sup\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 8ba4c1614bb66cdf972c9638bf1e4bc2 *Webclient\config\templates_frk_no_sup\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: e08fb2b46169ac1f5f0e4bd43cfe907a *Webclient\config\templates_frk_no_sup\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 19d61261a0d1772b857d0d7a9de292a4 *Webclient\config\templates_frk_no_sup\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 38efd1433bc66e340a846bf293fe0c0e *Webclient\config\templates_frk_no_sup\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 1f78e3f6957bdc9dbf31bcd3ed6f3e9d *Webclient\config\templates_frk_no_sup\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 1d5b53843d9bfa318e17442b5a77b2ec *Webclient\config\templates_frk_no_sup\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.660 Совпали: 530eb8240bf74d1fde171901385a644b *Webclient\config\templates_frk_no_sup\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 805dfa3cbd3e18845708506815f25d65 *Webclient\config\templates_frk_no_sup\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 7c93f447aec1425269dc01e551ca83c5 *Webclient\config\templates_frk_no_sup\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 167dbb056218a14fd9840d9f739b6e05 *Webclient\config\templates_no_sup\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 7ddf98de98f4b419c02f22b31a1ffc08 *Webclient\config\templates_no_sup\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 2528b8aa4f84763302adfcace8495e58 *Webclient\config\templates_no_sup\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 627d486614c420eb20d932c444405ba0 *Webclient\config\templates_no_sup\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 6d98f04fca6565fef2c131bf4e055fd4 *Webclient\config\templates_no_sup\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 7379430d397b896be8ec703f61debc00 *Webclient\config\templates_no_sup\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_no_sup\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 353384820887bb84a4b1b142e3c4b282 *Webclient\config\templates_no_sup\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 0e38dba52b3d816443e00e83800608fe *Webclient\config\templates_no_sup\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: cfc89d9cef9d09185565114fca71102c *Webclient\config\templates_no_sup\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 6348006769f7bf1062dfc598eb868207 *Webclient\config\templates_no_sup\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_no_sup\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: cfc89d9cef9d09185565114fca71102c *Webclient\config\templates_no_sup\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 2d50d77f5c21c3c461d9b7a461c87236 *Webclient\config\templates_no_sup\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 4ddd796bb6cab826fd75fd4687cad10f *Webclient\config\templates_no_sup\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: bd30ba4f32f9f5ba2a9d2e554c586b9c *Webclient\config\templates_no_sup\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: e5ab4f6896d80692ec246fe74297beb4 *Webclient\config\templates_no_sup\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 983092b8b6f1b1c5a8abc9fe62c2c187 *Webclient\config\templates_no_sup\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 77997a81f70a4152121bc24fc8c76e02 *Webclient\config\templates_no_sup\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 05137e858500ab82fb6b3dcb9f3b6e2e *Webclient\config\templates_no_sup\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 06bbcc8e5355d135dc34cc2cb997247c *Webclient\config\templates_no_sup\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: b11af62a06825b704c3304910ca26b66 *Webclient\config\templates_no_sup\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: d8ca8b08c9be5e8d84a70ba3ad30da6c *Webclient\config\templates_no_sup\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: af48b054a80deb2cf7026f89d314f797 *Webclient\config\templates_prim\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 38249069c10e342200ec340c92e3eb91 *Webclient\config\templates_prim\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 980446ab0d0eac0f0039ca664b16637b *Webclient\config\templates_prim\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: c7f38e3d120b18019b7355011b83cb56 *Webclient\config\templates_prim\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: e4025da34fcebabaff74bb872b3cd499 *Webclient\config\templates_prim\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: a5a51725887d6d45a36f24cf0cd1eb6e *Webclient\config\templates_prim\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: f00e0b4a3eb7238618b3b4dbfb2886b5 *Webclient\config\templates_prim\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 4864cd1f803cb2c882ba1cf101e4d6a8 *Webclient\config\templates_prim\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: e26c0aa74c871a9c5bb49d45e28c2d85 *Webclient\config\templates_prim\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 370caa0069a5ffbc777955a64b6f0c78 *Webclient\config\templates_prim\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: f6b0ff1c570ed7bae7ef8d4caa49dd1e *Webclient\config\templates_prim\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 866b68ddfe50f1edc44364a77f99cf29 *Webclient\config\templates_prim\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: c6af00e6d8589011b7372449454fa026 *Webclient\config\templates_prim\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 64e3e07d94dcd3ad5861fc86138608ff *Webclient\config\templates_prim\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: a6304a16e131352580cd763ba3af648d *Webclient\config\templates_prim\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: a6304a16e131352580cd763ba3af648d *Webclient\config\templates_prim\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: d038fde0c4e9d4c87ed224dce5f89b19 *Webclient\config\templates_prim\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 2e909e45bd02982793c9d9499fac2f32 *Webclient\confTool.exe и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: ff39c404184d844a38ebf408ade2d8a4 *Webclient\CryptLib.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 25e923715c4586096824af6abdba472c *Webclient\dclusr60.bpl и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: ef898ab3158e85d61953e725f90deb4b *Webclient\dealers\0\1\list.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: f100530eefc651236dbe0142d1bee86a *Webclient\dealers\0\1\list2.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: abff7bfe13dbf50254ee9c4a057d4663 *Webclient\dealers\0\html_hotels.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 3fa721fc9d2b58ff0699253cb2e9f831 *Webclient\dealers\0\index.html и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 904e0b1e5497b93a81d127d66b6981a6 *Webclient\dealers\md5.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.661 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 *Webclient\DllEmul.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:22:05.671 Create Directory: C:\Webclient\
+12.03.2014 15:22:05.671 Directory created: C:\Webclient\
+12.03.2014 15:22:05.679 Have/Webclient
+12.03.2014 15:22:05.698 download: false
+12.03.2014 15:22:05.698 На терминале установлена актуальная версия
+12.03.2014 15:22:05.698 Disconnect...
+12.03.2014 15:22:05.699 Starting C:\WebClient\DPSKiosk.exe...OK.
+12.03.2014 15:22:05.709 Starting C:\WebClient\DPSCom.exe...OK.
+12.03.2014 15:37:08.100 //-------------- 12.03.2014 15:37:08 -------------------------
+12.03.2014 15:37:08.103 Configuration XML has been opened ... 
+12.03.2014 15:37:08.114 Try to get Configuration info...
+12.03.2014 15:37:08.114 host: www.forwardmobile.ru.....OK
+12.03.2014 15:37:08.114 user: terminals......OK
+12.03.2014 15:37:08.114 password: terminals1357.....OK
+12.03.2014 15:37:08.114 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+12.03.2014 15:37:08.121 Terminate process DPSKiosk.exe success.
+12.03.2014 15:37:08.130 Terminate process DPSCom.exe success.
+12.03.2014 15:37:08.130 Terminal: 99999
+12.03.2014 15:37:08.130 SubDealer: 0
+12.03.2014 15:37:08.130 Serial: 105899
+12.03.2014 15:37:08.233 Соединение с сервером ...Успешно
+12.03.2014 15:37:08.235 Connected to: www.forwardmobile.ru
+12.03.2014 15:37:34.475 Starting C:\WebClient\DPSKiosk.exe...OK.
+12.03.2014 15:37:34.503 Starting C:\WebClient\DPSCom.exe...OK.
+12.03.2014 15:37:44.515 Проверка обновления...started
+12.03.2014 15:37:44.529 Совпали: f2f67ef641a35a6a67cbe794cb077768 *Webclient\20120530-ct.cer и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 885e9eb42889ca547f4e3515dcde5d3d *Webclient\7z.exe и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 17bddadca7044cc7b8406f1ca45210df *Webclient\7za.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 *Webclient\ASKOPM_KIOSK.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: d41d8cd98f00b204e9800998ecf8427e *Webclient\AtolPrinter.pcr и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 90a44e0e4b14a4a5d839f8fc48030af5 *Webclient\Azimuth.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 4793b32cf8ddf285a78f0ba78e122f90 *Webclient\bcbie60.bpl и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: bfc82d93a05444aa8c7697722d4e7c1f *Webclient\beeline.bat и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 8de680b3e881fc8ec8f8c8b10716fbbc *Webclient\Beta.7z и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 129608098b4bca257cfc3f524e5ce05a *Webclient\borlndmm.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 1d9ad5040c5a901108ca0328aff82fc3 *Webclient\cc3260mt.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 63c67ea91af5d2b46f676d1d002eabab *Webclient\cg32.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 8f3701c38513f88060e985db3083f883 *Webclient\config\Checkues.csv и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 24b89e0d902e16f963cc0083068d3df7 *Webclient\config\config.error и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 05d53f27e59806b94213fb37af0ff7f6 *Webclient\config\config.lastgood и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 05d53f27e59806b94213fb37af0ff7f6 *Webclient\config\config.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 0405170f66154f87013c1788bfd670ac *Webclient\config\config.xml.bak и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: b79780d3aa9d08c70c7ba6b897ddce16 *Webclient\config\config.~xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: f465c0d5140b94b9c2c79f29fe7c76c2 *Webclient\config\config1.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 412ad613103abf9279997f54fb8a9cef *Webclient\config\config44.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 4cf4f2ef2d9f2d0f3bf7526404f0b1df *Webclient\config\copychecks.csv и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: bbc1e6a12cd4772d593102b6d3c61ee5 *Webclient\config\Details.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 13950ecc957aebd8fdb7df3b16fd8453 *Webclient\config\KinoFolders.ini и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 9fbb9f8ee27e298c89f642b282def8dd *Webclient\config\md5.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 839bf24354edc91dd0c419917f0c004f *Webclient\config\operators.error и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 3d66f6ca6452cb73aa26e286cc6a532d *Webclient\config\operators.lastgood и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 3d66f6ca6452cb73aa26e286cc6a532d *Webclient\config\operators.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 1c43faa1b575caa826b8092489ae5ce3 *Webclient\config\operators.xml.bak и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.529 Совпали: 4cc45b871a877ee36425cc5249a0de1c *Webclient\config\operators123.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 8a170076d96b961daba9edce7b8c014c *Webclient\config\OSMIFolders.ini и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 2271f6980583c7a6b2534e873f6de928 *Webclient\config\templates\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: b600bce821b034c7f8b90fe0f4cbfcc8 *Webclient\config\templates\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 937aec8772ea0133d06dd5d855d9894d *Webclient\config\templates\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 6022a36e53f2e1af2e6a2d020667e84c *Webclient\config\templates\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 76bd391fb152b4723c8469b885caab78 *Webclient\config\templates\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: c5265967ce09239bc4c8d30e7b6838af *Webclient\config\templates\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: a5a44c70a26c4d7b44798141189117dc *Webclient\config\templates\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: f54fc4ab69a7457a2f4a0d3385dacdf5 *Webclient\config\templates\config.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 56f515719e29ebc0de151ae890b616f8 *Webclient\config\templates\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: dfaf8b0614e73ed979feb06b38d85c88 *Webclient\config\templates\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: ba25237cfb9f5b5c6f42ccaca21d762f *Webclient\config\templates\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: dfaf8b0614e73ed979feb06b38d85c88 *Webclient\config\templates\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 37daa5d9eb44b07dc721ed4866c9c2b7 *Webclient\config\templates\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: dab3dfcefbf8acdae92aafa57cc28639 *Webclient\config\templates\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 6957ac497f64a993726c8b6b7b7b7450 *Webclient\config\templates\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 174a2ddaf59ad4f3e85786f9b7dc4c20 *Webclient\config\templates\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: c1a0f589edf6cf70155e0f72a7b053d8 *Webclient\config\templates\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 61698250b28b3c4c331d1b55cfd9067d *Webclient\config\templates\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: a14e71001e5ca8001e69ba43bdaac08c *Webclient\config\templates\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: b8f20b9f930b3b6123441e3f31e7cde2 *Webclient\config\templates\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: b11af62a06825b704c3304910ca26b66 *Webclient\config\templates\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 0d904cc7dfa5319dcca01b4eac01d24e *Webclient\config\templates\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 5691ab14d9b28352c6ab7ec6f0f869b7 *Webclient\config\templates_frk\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 7b92f3577c5d9497c70d4f929656d39d *Webclient\config\templates_frk\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 0dc7374659624527c5087182056ebf29 *Webclient\config\templates_frk\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: d1dbd6688e68e7118511ccf362ae866e *Webclient\config\templates_frk\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: f52e9d24d761d94730540cef893f66e3 *Webclient\config\templates_frk\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 77076301dbb5647b01e518b17641e4c4 *Webclient\config\templates_frk\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_frk\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 056c720a0bb74f9147989e308725f53c *Webclient\config\templates_frk\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 1c52b11249ee1b2de0297f394c6d84d1 *Webclient\config\templates_frk\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: d5b1e52aea1fb05c4cf8efd5d72c397c *Webclient\config\templates_frk\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_frk\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 375db5d703e3052dc2db069d35d2da19 *Webclient\config\templates_frk\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 3420bda0b20b0db5d53a3042da0b42d7 *Webclient\config\templates_frk\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: edba97222dd3a42d37840098ac8023c0 *Webclient\config\templates_frk\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 9dd5c5dd2542becdd89be7d03f50c6bf *Webclient\config\templates_frk\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 482729ca8b8c1e92c520a740697ed183 *Webclient\config\templates_frk\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 17cf772cf8b3e54b28a58f6013066406 *Webclient\config\templates_frk\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: ddd273f7ee91aea106d9f4610af670c9 *Webclient\config\templates_frk\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 4e08fbc549af37a91df82758750a3779 *Webclient\config\templates_frk\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 7c93f447aec1425269dc01e551ca83c5 *Webclient\config\templates_frk\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 30489332cf529de83204a5ccb6c86b36 *Webclient\config\templates_frk_no_sup\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 3fd676912a85c5172907fbb52862f246 *Webclient\config\templates_frk_no_sup\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 1cfe233898025f61ec4e24a122436d9f *Webclient\config\templates_frk_no_sup\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: 1fa7bf6d52a32a36b22eb4c36e8af6b0 *Webclient\config\templates_frk_no_sup\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: bc659fd9156f7af156f7bf69ae02ad62 *Webclient\config\templates_frk_no_sup\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.530 Совпали: df7210ebed522a06fc2e950777c347e2 *Webclient\config\templates_frk_no_sup\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_frk_no_sup\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 560ab852ab34b052048ab682e3def9df *Webclient\config\templates_frk_no_sup\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 0931f74a0fc4fdcfb28d206f27ce3f24 *Webclient\config\templates_frk_no_sup\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 375970f8d7fbdeade38fba95e23be2a6 *Webclient\config\templates_frk_no_sup\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_frk_no_sup\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 8ba4c1614bb66cdf972c9638bf1e4bc2 *Webclient\config\templates_frk_no_sup\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: e08fb2b46169ac1f5f0e4bd43cfe907a *Webclient\config\templates_frk_no_sup\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 19d61261a0d1772b857d0d7a9de292a4 *Webclient\config\templates_frk_no_sup\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 38efd1433bc66e340a846bf293fe0c0e *Webclient\config\templates_frk_no_sup\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 1f78e3f6957bdc9dbf31bcd3ed6f3e9d *Webclient\config\templates_frk_no_sup\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 1d5b53843d9bfa318e17442b5a77b2ec *Webclient\config\templates_frk_no_sup\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 530eb8240bf74d1fde171901385a644b *Webclient\config\templates_frk_no_sup\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 805dfa3cbd3e18845708506815f25d65 *Webclient\config\templates_frk_no_sup\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 7c93f447aec1425269dc01e551ca83c5 *Webclient\config\templates_frk_no_sup\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 167dbb056218a14fd9840d9f739b6e05 *Webclient\config\templates_no_sup\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 7ddf98de98f4b419c02f22b31a1ffc08 *Webclient\config\templates_no_sup\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 2528b8aa4f84763302adfcace8495e58 *Webclient\config\templates_no_sup\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 627d486614c420eb20d932c444405ba0 *Webclient\config\templates_no_sup\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 6d98f04fca6565fef2c131bf4e055fd4 *Webclient\config\templates_no_sup\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 7379430d397b896be8ec703f61debc00 *Webclient\config\templates_no_sup\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_no_sup\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 353384820887bb84a4b1b142e3c4b282 *Webclient\config\templates_no_sup\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 0e38dba52b3d816443e00e83800608fe *Webclient\config\templates_no_sup\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: cfc89d9cef9d09185565114fca71102c *Webclient\config\templates_no_sup\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 6348006769f7bf1062dfc598eb868207 *Webclient\config\templates_no_sup\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_no_sup\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: cfc89d9cef9d09185565114fca71102c *Webclient\config\templates_no_sup\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 2d50d77f5c21c3c461d9b7a461c87236 *Webclient\config\templates_no_sup\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 4ddd796bb6cab826fd75fd4687cad10f *Webclient\config\templates_no_sup\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: bd30ba4f32f9f5ba2a9d2e554c586b9c *Webclient\config\templates_no_sup\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: e5ab4f6896d80692ec246fe74297beb4 *Webclient\config\templates_no_sup\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 983092b8b6f1b1c5a8abc9fe62c2c187 *Webclient\config\templates_no_sup\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 77997a81f70a4152121bc24fc8c76e02 *Webclient\config\templates_no_sup\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 05137e858500ab82fb6b3dcb9f3b6e2e *Webclient\config\templates_no_sup\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 06bbcc8e5355d135dc34cc2cb997247c *Webclient\config\templates_no_sup\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: b11af62a06825b704c3304910ca26b66 *Webclient\config\templates_no_sup\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: d8ca8b08c9be5e8d84a70ba3ad30da6c *Webclient\config\templates_no_sup\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: af48b054a80deb2cf7026f89d314f797 *Webclient\config\templates_prim\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 38249069c10e342200ec340c92e3eb91 *Webclient\config\templates_prim\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 980446ab0d0eac0f0039ca664b16637b *Webclient\config\templates_prim\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: c7f38e3d120b18019b7355011b83cb56 *Webclient\config\templates_prim\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: e4025da34fcebabaff74bb872b3cd499 *Webclient\config\templates_prim\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: a5a51725887d6d45a36f24cf0cd1eb6e *Webclient\config\templates_prim\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: f00e0b4a3eb7238618b3b4dbfb2886b5 *Webclient\config\templates_prim\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 4864cd1f803cb2c882ba1cf101e4d6a8 *Webclient\config\templates_prim\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: e26c0aa74c871a9c5bb49d45e28c2d85 *Webclient\config\templates_prim\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 370caa0069a5ffbc777955a64b6f0c78 *Webclient\config\templates_prim\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: f6b0ff1c570ed7bae7ef8d4caa49dd1e *Webclient\config\templates_prim\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: 866b68ddfe50f1edc44364a77f99cf29 *Webclient\config\templates_prim\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.531 Совпали: c6af00e6d8589011b7372449454fa026 *Webclient\config\templates_prim\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: 64e3e07d94dcd3ad5861fc86138608ff *Webclient\config\templates_prim\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: a6304a16e131352580cd763ba3af648d *Webclient\config\templates_prim\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: a6304a16e131352580cd763ba3af648d *Webclient\config\templates_prim\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: d038fde0c4e9d4c87ed224dce5f89b19 *Webclient\config\templates_prim\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: 2e909e45bd02982793c9d9499fac2f32 *Webclient\confTool.exe и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: ff39c404184d844a38ebf408ade2d8a4 *Webclient\CryptLib.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: 25e923715c4586096824af6abdba472c *Webclient\dclusr60.bpl и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: ef898ab3158e85d61953e725f90deb4b *Webclient\dealers\0\1\list.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: f100530eefc651236dbe0142d1bee86a *Webclient\dealers\0\1\list2.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: abff7bfe13dbf50254ee9c4a057d4663 *Webclient\dealers\0\html_hotels.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: 3fa721fc9d2b58ff0699253cb2e9f831 *Webclient\dealers\0\index.html и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: 904e0b1e5497b93a81d127d66b6981a6 *Webclient\dealers\md5.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 15:37:44.532 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 *Webclient\DllEmul.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:07:22.963 //-------------- 12.03.2014 17:07:22 -------------------------
+12.03.2014 17:07:22.978 Configuration XML has been opened ... 
+12.03.2014 17:07:23.025 Try to get Configuration info...
+12.03.2014 17:07:23.025 host: www.forwardmobile.ru.....OK
+12.03.2014 17:07:23.025 user: terminals......OK
+12.03.2014 17:07:23.025 password: terminals1357.....OK
+12.03.2014 17:07:23.025 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+12.03.2014 17:07:23.034 Terminal: 99999
+12.03.2014 17:07:23.034 SubDealer: 0
+12.03.2014 17:07:23.034 Serial: 105899
+12.03.2014 17:07:23.217 Соединение с сервером ...Успешно
+12.03.2014 17:07:23.218 Connected to: www.forwardmobile.ru
+12.03.2014 17:09:21.159 Exception: Cannot open file C:\Webclient\md5.txt
+12.03.2014 17:09:21.160 Starting C:\WebClient\DPSKiosk.exe...OK.
+12.03.2014 17:09:21.172 Starting C:\WebClient\DPSCom.exe...OK.
+12.03.2014 17:09:31.181 Проверка обновления...started
+12.03.2014 17:09:42.301 //-------------- 12.03.2014 17:09:42 -------------------------
+12.03.2014 17:09:42.307 Configuration XML has been opened ... 
+12.03.2014 17:09:42.317 Try to get Configuration info...
+12.03.2014 17:09:42.318 host: www.forwardmobile.ru.....OK
+12.03.2014 17:09:42.318 user: terminals......OK
+12.03.2014 17:09:42.318 password: terminals1357.....OK
+12.03.2014 17:09:42.318 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+12.03.2014 17:09:42.324 Terminate process DPSKiosk.exe success.
+12.03.2014 17:09:42.333 Terminate process DPSCom.exe success.
+12.03.2014 17:09:42.334 Terminal: 99999
+12.03.2014 17:09:42.334 SubDealer: 0
+12.03.2014 17:09:42.334 Serial: 105899
+12.03.2014 17:09:42.414 Соединение с сервером ...Успешно
+12.03.2014 17:09:42.415 Connected to: www.forwardmobile.ru
+12.03.2014 17:11:11.962 //-------------- 12.03.2014 17:11:11 -------------------------
+12.03.2014 17:11:11.965 Configuration XML has been opened ... 
+12.03.2014 17:11:11.976 Try to get Configuration info...
+12.03.2014 17:11:11.976 host: www.forwardmobile.ru.....OK
+12.03.2014 17:11:11.976 user: terminals......OK
+12.03.2014 17:11:11.976 password: terminals1357.....OK
+12.03.2014 17:11:11.976 Connecting to: www.forwardmobile.ru | terminals | terminals1357 | ... OK 
+12.03.2014 17:11:11.986 Terminal: 99999
+12.03.2014 17:11:11.986 SubDealer: 0
+12.03.2014 17:11:11.986 Serial: 105899
+12.03.2014 17:11:12.049 Соединение с сервером ...Успешно
+12.03.2014 17:11:12.050 Connected to: www.forwardmobile.ru
+12.03.2014 17:11:23.860 Starting C:\WebClient\DPSKiosk.exe...OK.
+12.03.2014 17:11:23.876 Starting C:\WebClient\DPSCom.exe...OK.
+12.03.2014 17:11:33.885 Проверка обновления...started
+12.03.2014 17:11:33.886 Совпали: f2f67ef641a35a6a67cbe794cb077768 *Webclient\20120530-ct.cer и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 885e9eb42889ca547f4e3515dcde5d3d *Webclient\7z.exe и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 17bddadca7044cc7b8406f1ca45210df *Webclient\7za.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 *Webclient\ASKOPM_KIOSK.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: d41d8cd98f00b204e9800998ecf8427e *Webclient\AtolPrinter.pcr и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 90a44e0e4b14a4a5d839f8fc48030af5 *Webclient\Azimuth.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 4793b32cf8ddf285a78f0ba78e122f90 *Webclient\bcbie60.bpl и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: bfc82d93a05444aa8c7697722d4e7c1f *Webclient\beeline.bat и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 8de680b3e881fc8ec8f8c8b10716fbbc *Webclient\Beta.7z и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 129608098b4bca257cfc3f524e5ce05a *Webclient\borlndmm.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 1d9ad5040c5a901108ca0328aff82fc3 *Webclient\cc3260mt.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 63c67ea91af5d2b46f676d1d002eabab *Webclient\cg32.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 8f3701c38513f88060e985db3083f883 *Webclient\config\Checkues.csv и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 24b89e0d902e16f963cc0083068d3df7 *Webclient\config\config.error и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: c7e7f0fb37db68615c1da4cde160ab3e *Webclient\config\config.lastgood и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 05d53f27e59806b94213fb37af0ff7f6 *Webclient\config\config.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.886 Совпали: 0405170f66154f87013c1788bfd670ac *Webclient\config\config.xml.bak и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: b79780d3aa9d08c70c7ba6b897ddce16 *Webclient\config\config.~xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: f465c0d5140b94b9c2c79f29fe7c76c2 *Webclient\config\config1.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 412ad613103abf9279997f54fb8a9cef *Webclient\config\config44.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 4cf4f2ef2d9f2d0f3bf7526404f0b1df *Webclient\config\copychecks.csv и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: bbc1e6a12cd4772d593102b6d3c61ee5 *Webclient\config\Details.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 13950ecc957aebd8fdb7df3b16fd8453 *Webclient\config\KinoFolders.ini и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 9fbb9f8ee27e298c89f642b282def8dd *Webclient\config\md5.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 839bf24354edc91dd0c419917f0c004f *Webclient\config\operators.error и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 3d66f6ca6452cb73aa26e286cc6a532d *Webclient\config\operators.lastgood и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 3d66f6ca6452cb73aa26e286cc6a532d *Webclient\config\operators.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 1c43faa1b575caa826b8092489ae5ce3 *Webclient\config\operators.xml.bak и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 4cc45b871a877ee36425cc5249a0de1c *Webclient\config\operators123.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 8a170076d96b961daba9edce7b8c014c *Webclient\config\OSMIFolders.ini и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 2271f6980583c7a6b2534e873f6de928 *Webclient\config\templates\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: b600bce821b034c7f8b90fe0f4cbfcc8 *Webclient\config\templates\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 937aec8772ea0133d06dd5d855d9894d *Webclient\config\templates\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 6022a36e53f2e1af2e6a2d020667e84c *Webclient\config\templates\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 76bd391fb152b4723c8469b885caab78 *Webclient\config\templates\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: c5265967ce09239bc4c8d30e7b6838af *Webclient\config\templates\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: a5a44c70a26c4d7b44798141189117dc *Webclient\config\templates\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: f54fc4ab69a7457a2f4a0d3385dacdf5 *Webclient\config\templates\config.xml и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 56f515719e29ebc0de151ae890b616f8 *Webclient\config\templates\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: dfaf8b0614e73ed979feb06b38d85c88 *Webclient\config\templates\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: ba25237cfb9f5b5c6f42ccaca21d762f *Webclient\config\templates\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: dfaf8b0614e73ed979feb06b38d85c88 *Webclient\config\templates\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 37daa5d9eb44b07dc721ed4866c9c2b7 *Webclient\config\templates\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: dab3dfcefbf8acdae92aafa57cc28639 *Webclient\config\templates\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 6957ac497f64a993726c8b6b7b7b7450 *Webclient\config\templates\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 174a2ddaf59ad4f3e85786f9b7dc4c20 *Webclient\config\templates\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: c1a0f589edf6cf70155e0f72a7b053d8 *Webclient\config\templates\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 61698250b28b3c4c331d1b55cfd9067d *Webclient\config\templates\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: a14e71001e5ca8001e69ba43bdaac08c *Webclient\config\templates\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: b8f20b9f930b3b6123441e3f31e7cde2 *Webclient\config\templates\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: b11af62a06825b704c3304910ca26b66 *Webclient\config\templates\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 0d904cc7dfa5319dcca01b4eac01d24e *Webclient\config\templates\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 5691ab14d9b28352c6ab7ec6f0f869b7 *Webclient\config\templates_frk\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 7b92f3577c5d9497c70d4f929656d39d *Webclient\config\templates_frk\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 0dc7374659624527c5087182056ebf29 *Webclient\config\templates_frk\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: d1dbd6688e68e7118511ccf362ae866e *Webclient\config\templates_frk\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: f52e9d24d761d94730540cef893f66e3 *Webclient\config\templates_frk\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 77076301dbb5647b01e518b17641e4c4 *Webclient\config\templates_frk\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.887 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_frk\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 056c720a0bb74f9147989e308725f53c *Webclient\config\templates_frk\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 1c52b11249ee1b2de0297f394c6d84d1 *Webclient\config\templates_frk\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: d5b1e52aea1fb05c4cf8efd5d72c397c *Webclient\config\templates_frk\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_frk\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 375db5d703e3052dc2db069d35d2da19 *Webclient\config\templates_frk\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 3420bda0b20b0db5d53a3042da0b42d7 *Webclient\config\templates_frk\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: edba97222dd3a42d37840098ac8023c0 *Webclient\config\templates_frk\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 9dd5c5dd2542becdd89be7d03f50c6bf *Webclient\config\templates_frk\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 482729ca8b8c1e92c520a740697ed183 *Webclient\config\templates_frk\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 17cf772cf8b3e54b28a58f6013066406 *Webclient\config\templates_frk\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: ddd273f7ee91aea106d9f4610af670c9 *Webclient\config\templates_frk\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 4e08fbc549af37a91df82758750a3779 *Webclient\config\templates_frk\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 7c93f447aec1425269dc01e551ca83c5 *Webclient\config\templates_frk\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: f05a2ce777079d863bc8f532d60e52e6 *Webclient\config\templates_frk\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 30489332cf529de83204a5ccb6c86b36 *Webclient\config\templates_frk_no_sup\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 3fd676912a85c5172907fbb52862f246 *Webclient\config\templates_frk_no_sup\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 1cfe233898025f61ec4e24a122436d9f *Webclient\config\templates_frk_no_sup\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 1fa7bf6d52a32a36b22eb4c36e8af6b0 *Webclient\config\templates_frk_no_sup\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: bc659fd9156f7af156f7bf69ae02ad62 *Webclient\config\templates_frk_no_sup\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: df7210ebed522a06fc2e950777c347e2 *Webclient\config\templates_frk_no_sup\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_frk_no_sup\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 560ab852ab34b052048ab682e3def9df *Webclient\config\templates_frk_no_sup\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 0931f74a0fc4fdcfb28d206f27ce3f24 *Webclient\config\templates_frk_no_sup\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 375970f8d7fbdeade38fba95e23be2a6 *Webclient\config\templates_frk_no_sup\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_frk_no_sup\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 8ba4c1614bb66cdf972c9638bf1e4bc2 *Webclient\config\templates_frk_no_sup\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: e08fb2b46169ac1f5f0e4bd43cfe907a *Webclient\config\templates_frk_no_sup\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 19d61261a0d1772b857d0d7a9de292a4 *Webclient\config\templates_frk_no_sup\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 38efd1433bc66e340a846bf293fe0c0e *Webclient\config\templates_frk_no_sup\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 1f78e3f6957bdc9dbf31bcd3ed6f3e9d *Webclient\config\templates_frk_no_sup\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 1d5b53843d9bfa318e17442b5a77b2ec *Webclient\config\templates_frk_no_sup\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 530eb8240bf74d1fde171901385a644b *Webclient\config\templates_frk_no_sup\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 805dfa3cbd3e18845708506815f25d65 *Webclient\config\templates_frk_no_sup\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 7c93f447aec1425269dc01e551ca83c5 *Webclient\config\templates_frk_no_sup\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: acdad7b7aa19c1bf3f66accd83b07652 *Webclient\config\templates_frk_no_sup\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 167dbb056218a14fd9840d9f739b6e05 *Webclient\config\templates_no_sup\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 7ddf98de98f4b419c02f22b31a1ffc08 *Webclient\config\templates_no_sup\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 2528b8aa4f84763302adfcace8495e58 *Webclient\config\templates_no_sup\alfa_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 627d486614c420eb20d932c444405ba0 *Webclient\config\templates_no_sup\arg.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 6d98f04fca6565fef2c131bf4e055fd4 *Webclient\config\templates_no_sup\arg_686.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 7379430d397b896be8ec703f61debc00 *Webclient\config\templates_no_sup\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 7952edb6006e0ca3a2acd92847abd68f *Webclient\config\templates_no_sup\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 353384820887bb84a4b1b142e3c4b282 *Webclient\config\templates_no_sup\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: 0e38dba52b3d816443e00e83800608fe *Webclient\config\templates_no_sup\credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.888 Совпали: cfc89d9cef9d09185565114fca71102c *Webclient\config\templates_no_sup\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 6348006769f7bf1062dfc598eb868207 *Webclient\config\templates_no_sup\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 04b78169be7e346baf0f56cccfc4b5bb *Webclient\config\templates_no_sup\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: cfc89d9cef9d09185565114fca71102c *Webclient\config\templates_no_sup\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 2d50d77f5c21c3c461d9b7a461c87236 *Webclient\config\templates_no_sup\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 4ddd796bb6cab826fd75fd4687cad10f *Webclient\config\templates_no_sup\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: bd30ba4f32f9f5ba2a9d2e554c586b9c *Webclient\config\templates_no_sup\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: e5ab4f6896d80692ec246fe74297beb4 *Webclient\config\templates_no_sup\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 983092b8b6f1b1c5a8abc9fe62c2c187 *Webclient\config\templates_no_sup\ros_credit.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 77997a81f70a4152121bc24fc8c76e02 *Webclient\config\templates_no_sup\tc.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 05137e858500ab82fb6b3dcb9f3b6e2e *Webclient\config\templates_no_sup\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 06bbcc8e5355d135dc34cc2cb997247c *Webclient\config\templates_no_sup\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: b11af62a06825b704c3304910ca26b66 *Webclient\config\templates_no_sup\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: d8ca8b08c9be5e8d84a70ba3ad30da6c *Webclient\config\templates_no_sup\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: af48b054a80deb2cf7026f89d314f797 *Webclient\config\templates_prim\2pay.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 38249069c10e342200ec340c92e3eb91 *Webclient\config\templates_prim\2pay_.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 980446ab0d0eac0f0039ca664b16637b *Webclient\config\templates_prim\avt.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: c7f38e3d120b18019b7355011b83cb56 *Webclient\config\templates_prim\balance.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: e4025da34fcebabaff74bb872b3cd499 *Webclient\config\templates_prim\bee.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: a5a51725887d6d45a36f24cf0cd1eb6e *Webclient\config\templates_prim\default.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: f00e0b4a3eb7238618b3b4dbfb2886b5 *Webclient\config\templates_prim\exist.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 4864cd1f803cb2c882ba1cf101e4d6a8 *Webclient\config\templates_prim\incassation.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: e26c0aa74c871a9c5bb49d45e28c2d85 *Webclient\config\templates_prim\kes.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 370caa0069a5ffbc777955a64b6f0c78 *Webclient\config\templates_prim\money.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: f6b0ff1c570ed7bae7ef8d4caa49dd1e *Webclient\config\templates_prim\mts.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 866b68ddfe50f1edc44364a77f99cf29 *Webclient\config\templates_prim\nesk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: c6af00e6d8589011b7372449454fa026 *Webclient\config\templates_prim\payment-error.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 64e3e07d94dcd3ad5861fc86138608ff *Webclient\config\templates_prim\to.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: a6304a16e131352580cd763ba3af648d *Webclient\config\templates_prim\utk.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: a6304a16e131352580cd763ba3af648d *Webclient\config\templates_prim\vod.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: d038fde0c4e9d4c87ed224dce5f89b19 *Webclient\config\templates_prim\yandex.chq и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 2e909e45bd02982793c9d9499fac2f32 *Webclient\confTool.exe и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: ff39c404184d844a38ebf408ade2d8a4 *Webclient\CryptLib.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 25e923715c4586096824af6abdba472c *Webclient\dclusr60.bpl и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: ef898ab3158e85d61953e725f90deb4b *Webclient\dealers\0\1\list.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: f100530eefc651236dbe0142d1bee86a *Webclient\dealers\0\1\list2.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: abff7bfe13dbf50254ee9c4a057d4663 *Webclient\dealers\0\html_hotels.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.889 Совпали: 3fa721fc9d2b58ff0699253cb2e9f831 *Webclient\dealers\0\index.html и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.890 Совпали: 904e0b1e5497b93a81d127d66b6981a6 *Webclient\dealers\md5.txt и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt
+12.03.2014 17:11:33.890 Совпали: 1a8ff3e97493b9f57748f3c31e6e14c8 *Webclient\DllEmul.dll и 0d65cf7f36c1c360823bb67e8f1a3267 *Webclient\document.txt

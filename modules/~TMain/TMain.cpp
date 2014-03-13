@@ -66,7 +66,11 @@ try{
                          xmlstring=xmlstring+s.c_str();
                         }                                     
 xmlCfg = LoadXMLData(xmlstring);
+<<<<<<< HEAD
 Log->Write("Try to get Configuretion info...");
+=======
+Log->Write("Try to get Configuration info...");
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
 IXMLNode *nodRoot = xmlCfg->DocumentElement;
 
 IXMLNode *nodElement = nodRoot->ChildNodes->FindNode(L"ftpconnect");
@@ -89,10 +93,32 @@ else if( nodSubElement != NULL ){
                 StopProc("DPSKiosk.exe");
                 StopProc("DPSCom.exe");
         }
+<<<<<<< HEAD
 }
 catch(...){
 Log->Write("Something wrong with initialization...Check \"config.xml\" file");
 Application->Terminate();
+=======
+		
+//Достаем информацию о терминале
+IXMLNode *nodKeysInfo = nodRoot->ChildNodes->FindNode(L"keys_info");
+IXMLNode *nodKeys = nodKeysInfo->ChildNodes->FindNode(L"keys");
+IXMLNode *nodSubKeys1 = nodKeys->ChildNodes->FindNode(L"AP");
+IXMLNode *nodSubKeys2 = nodKeys->ChildNodes->FindNode(L"SD");
+IXMLNode *nodSubKeys3 = nodKeys->ChildNodes->FindNode(L"serial_no");
+String AP = nodSubKeys1->NodeValue; //идентификатор терминала
+String SD = nodSubKeys2->NodeValue; //идентификатор субдилера
+String Serial = nodSubKeys3->NodeValue; //серийник ???
+
+Log->Write("Terminal: "+AP);
+Log->Write("SubDealer: "+SD);
+Log->Write("Serial: "+Serial);
+		
+}
+catch(...){
+	Log->Write("Something wrong with initialization...Check \"config.xml\" file");
+	Application->Terminate();
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
 }
 }
 
@@ -127,7 +153,11 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
 					  NewFile = true;
 					  Txt = ExTxt;
 					  TTxt=UpTxt;
+<<<<<<< HEAD
                                           //break;
+=======
+                      //break;
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
                      }
                 }
                 if (NewFile)
@@ -147,6 +177,10 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
         GetFolder("/Webclient","C:\\Webclient\\"); //восстановим "дерево директорий"
 	if (download)    {
                 Log->Write("download: true");
+<<<<<<< HEAD
+=======
+		//CheckDir(SD); //проверяем существование директории локально
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
                 Log->Write("Check directory exists ...");
                 if (DirectoryExists("C:\\Webclient"))
                 {
@@ -217,7 +251,22 @@ void __fastcall TMain::TStartDownload()
         Form1->idFTP->Host=thost;
         Form1->idFTP->Username=username;
         Form1->idFTP->Password=password;
+<<<<<<< HEAD
         Form1->idFTP->Connect();
+=======
+        try{
+         Form1->idFTP->Connect();
+        }
+        catch(...){
+         Log->Write("Connection to server error...check your connection settings");
+         ChDir("C:\\WebClient\\");
+         StartProgram("C:\\WebClient\\DPSKiosk.exe");
+         StartProgram("C:\\WebClient\\DPSCom.exe");
+         Sleep(10000);
+         Form1->idFTP->Disconnect();
+         Synchronize(&TExit);
+        }
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
         if (Form1->idFTP->Connected())
         {
         Log->Write("Соединение с сервером ...Успешно");
@@ -231,7 +280,13 @@ void __fastcall TMain::TStartDownload()
      /**************************************************************************
      ВНИМАНИЕ!: Качаем из папки /Webclient/md5.txt в  C:\Webclient\webclient.txt
      **************************************************************************/
+<<<<<<< HEAD
      Form1->idFTP->Get("/Webclient/md5.txt","C:\\Webclient\\webclient.txt",TRUE);
+=======
+     try{
+     Form1->idFTP->ChangeDir("/Webclient");
+     Form1->idFTP->Get("md5.txt","C:\\Webclient\\webclient.txt",TRUE);
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
      Form1->Memo1->Lines->LoadFromFile("C:\\Webclient\\webclient.txt");
      for (int q=0; q<=Form1->Memo1->Lines->Count-1; q++)
      {
@@ -247,7 +302,28 @@ void __fastcall TMain::TStartDownload()
      }
      // delete MDCL;
      // MDCL = new TMD5Class();
+<<<<<<< HEAD
 }
+=======
+    }
+    catch (Exception &ex)
+     {
+    Log->Write("Exception: "+AnsiString(ex.Message));
+     }
+     }
+	else
+	{
+	 Log->Write("Connection to server error...check your connection settings");
+     Form1->idFTP->Noop();
+     }
+     ChDir("C:\\WebClient\\");
+     StartProgram("C:\\WebClient\\DPSKiosk.exe");
+     StartProgram("C:\\WebClient\\DPSCom.exe");
+     Sleep(10000);
+     Form1->idFTP->Disconnect();
+     Synchronize(&TExit);
+
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
 
 }
 
@@ -417,6 +493,37 @@ void __fastcall TMain::TExit()
 Form1->Close();
 }
 
+<<<<<<< HEAD
+=======
+//---------------------------------------------------------------------------
+
+/*void CheckDir(AnsiString SubDealer){
+SubDealer = "/Webclient/dealers/" + SubDealer;
+printf("Starting check directory: %s\n",SubDealer);
+
+try {
+     idFTP->ChangeDir(SubDealer);
+     printf("Directory Exist\n");
+     printf("File List:\n");
+     idFTP->List(NULL,"",true);
+     for (int i = 0; i < idFTP->DirectoryListing->Count; i++)
+        {
+         AnsiString FN = "*Webclient/"+idFTP->DirectoryListing->Items[i]->FileName;
+         printf("%s\n",FN);
+        }            
+     printf("========================\n");
+     printf("Operation complete\n");
+     printf("========================\n");
+     }
+catch(...){
+     printf("Directory Not Exist\n");
+}
+
+idFTP->Disconnect();
+idFTP->Free();
+}                */
+//---------------------------------------------------------------------------
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
 
 
 

@@ -62,7 +62,10 @@ __fastcall TForm1::TForm1(TComponent* Owner)
          Label5->Visible=true;
          Shape1->Visible=true;
          Shape2->Visible=true;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2a5e6832a063b8338efc5a637b074618420e3aa7
    }
 
 

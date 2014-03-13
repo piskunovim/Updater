@@ -1,0 +1,13 @@
+07.03.2014 09:36:49.610 -----------------------------------------------
+07.03.2014 09:36:55.020  
+07.03.2014 09:36:55.024  
+07.03.2014 09:36:55.025 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+07.03.2014 09:36:55.027 if3.init: iface version: 3.0.0258.000 "AmVor" (20080523 13:10)
+07.03.2014 09:36:55.028 if3.pe: _cmd|set|res=meg|name=ret_info|value=created in if3.init; offset: 1394170615027
+07.03.2014 09:36:55.030 				Cmd: 'cmd=start_check_timer'.
+07.03.2014 09:36:55.031     if3.pa: (exec) _cmd|set|res=meg|name=ret_info|value=created in if3.init; offset: 1394170615027
+07.03.2014 09:36:55.033 				Cmd: 'cmd=set&res=meg&name=ret_info&value=created in if3.init; offset: 1394170615027'.
+07.03.2014 09:36:55.033 				res: {'meg' : {
+ 'ret_info' : 'created in if3.init; offset: 1394170615027'
+}}.
+07.03.2014 09:36:55.037 				Cmd: 'cmd=stop_check_timer'.
