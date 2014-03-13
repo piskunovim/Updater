@@ -1,0 +1,86 @@
+//---------------------------------------------------------------------------
+
+#ifndef TMainH
+#define TMainH
+//---------------------------------------------------------------------------
+#include <Classes.hpp>
+#include "LogClass.h"
+#include "TMD5Class.h"
+#include "XMLDoc.hpp"
+//#include "XMLIntf.hpp"
+#include "TBackup.h"  
+#include "TFolderList.h"
+#include "TProgressBar.h"
+//---------------------------------------------------------------------------
+class TMain : public TThread
+{
+private:
+	   int i; //сохраним для циклов и т.п.
+protected:
+        void __fastcall Execute();
+public:
+        __fastcall TMain(bool CreateSuspended);
+        void __fastcall Progress(int Point, int Count);
+        void __fastcall TStartDownload(); //получаем md5 для текущей версии и качаем md5 обновления
+		void GetFolder(AnsiString CurFolder, char* SaveFolder); // метод скачает рекурсивно все папки из одной указанной директории в другую
+		bool __fastcall ExceptionList(LPTSTR checkPath); //проверяем принадлежит ли найденая папка той из списка, которая нас интересовать не должна
+		void __fastcall TGet();//загружаем файл
+		void __fastcall TDisconnect(); //отключаемся от сервера
+        void __fastcall TExit();
+	    //bool __fastcall StartProgram(AnsiString ApplicationName); //запускаем DPSKiosk
+	    void __fastcall StopProc(char *exeName); // останавливаем процесс
+        TProgressBar *TPrBr;
+        TLogClass *Log;
+        //--------------
+        int percentage; //процент обработанных файлов
+
+        //------------------- Подключаемся по FTP -----------------//
+        String thost;
+        String username;
+        String password;
+        _di_IXMLDocument  xmlCfg;
+		
+	//------------------- Счетчики кол-ва файлов и все что связано с файлами --------------//
+	int GM1C; //счетчики кол-ва файлов
+	int GM2C;
+
+    String Memo1[10000]; //список файлов на сервере(скачанный актуальный список md5)
+	String Memo2[10000]; //список файлов, в локальной папки (рекурсивно полученный актуальный список md5 в локальной папке)
+	
+	bool NewFile; //говорит новый файл или нет
+	bool download; //говорит будет загрузка или нет
+	
+	String toreload[5000]; //файлы, которые будем обновлять
+	
+	/*на этапе загрузки*/
+	AnsiString FF; //откуда:
+    AnsiString FP; //куда:
+	
+	//------------------- Для работы с директориями --------------//
+	TStringList *slDirs; //"дерево директорий" на сервере
+
+	AnsiString sa; //папка, которую рассматриваем в данный момент (на создание)	
+	
+	String ftpfold[5000];    //массив пути на ftp
+	String drivefold[5000]; //массив пути на локальном диске
+		
+	//------------------- Для нахождения MD5 --------------//
+	TMD5Class *MDCL;	
+	
+	//------------------- Список папок, которые обновлять не будем --------------//
+	TFolderList *TFoLi;
+	
+	//------------------- Резервное копирование(Backup) --------------//
+	TBackup *TBaUp;
+	char *CurBackUp;
+
+    //------------------- Для операций над процессами --------------//
+    HANDLE UpdateHandle;
+    DWORD UpdateProcessId;
+	
+	HANDLE StartProgram(AnsiString ApplicationName); //запускаем DPSKiosk
+
+
+};
+//---------------------------------------------------------------------------
+#endif

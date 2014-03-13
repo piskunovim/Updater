@@ -1,0 +1,16 @@
+Кассовый чек
+%CFGHEADER%
+%INT_DEALER_NAME%, ИНН %INT_DEALER_INN%
+Место приема платежа:
+%INT_POINT_ADDRESS%
+ВПС "Форвард Мобайл" тел.:8(909)457-95-50
+Терминал:%TERMNUMBER% Номер чека ВПС:%CHQCOUNT%
+Номер сессии : %SESSNUM:20%
+Лицевой счет:%FIELD100%,Месяц и год:%FIELD101%
+Предыд.знач.сч:%CURR_C2%,Тек.знач.сч:%CURR_C1%
+Объем к оплате:%FIELD102%,Судебные издержки:%CURR_C4%
+Пени за газ:%CURR_C3%,Сумма за газ:%CURR_C5%
+Комиссия:%COMISSION:7R% 
+К зачислению:%AMOUNT:7R%
+%OPNAME%,тел.тп:%INT_RECIPIENT_NAME% 
+%%PARAM_NAME%: %PARAM_VALUE%%

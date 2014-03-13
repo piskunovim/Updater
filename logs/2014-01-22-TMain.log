@@ -1,0 +1,908 @@
+22.01.2014 10:05:18.211 //-------------- 22.01.2014 10:05:18 -------------------------
+22.01.2014 10:05:18.215 Configuration XML has been opened ... 
+22.01.2014 10:05:18.251 Try to get Configuretion info...
+22.01.2014 10:05:18.251 host: 192.168.1.253.....OK
+22.01.2014 10:05:18.251 user: terminals......OK
+22.01.2014 10:05:18.251 password: terminals1357.....OK
+22.01.2014 10:05:18.251 Connecting to: 192.168.1.253 | terminals | terminals1357 | ... OK 
+22.01.2014 10:05:18.284 Соединение с сервером ...Успешно
+22.01.2014 10:05:18.286 Connected to: 192.168.1.253
+22.01.2014 10:05:50.570 Проверка обновления...started
+22.01.2014 10:05:50.584 Added toreload[m]: e3b7beff6fb1c6c2121b39d7623acd57 *Webclient\DPSKiosk.exe
+22.01.2014 10:05:50.593 Added toreload[m]: 6ec58a4e8ff641c98bcf0f7d5061dbfa *Webclient\interface\iface_runtime.js
+22.01.2014 10:05:50.605 Added toreload[m]: b29c22eae459aa715cdd8fa340bb6e29 *Webclient\interface\jquery\jquery-2.0.3.js
+22.01.2014 10:05:50.611 Added toreload[m]: b2485e599cd3b903bf5fa4b02c030ee7 *Webclient\interface\skins\metro2\i\op\int_1gb.gif
+22.01.2014 10:05:50.611 Create Directory: C:\Webclient\
+22.01.2014 10:05:50.612 Directory created: C:\Webclient\
+22.01.2014 10:05:50.617 Have/Webclient
+22.01.2014 10:05:50.645 12
+22.01.2014 10:05:50.645 Create Directory: C:\Webclient\dealers\
+22.01.2014 10:05:50.645 Directory created: C:\Webclient\dealers\
+22.01.2014 10:05:50.647 Have/Webclient/dealers
+22.01.2014 10:05:50.678 12
+22.01.2014 10:05:50.678 Create Directory: C:\Webclient\dealers\0\
+22.01.2014 10:05:50.678 Directory created: C:\Webclient\dealers\0\
+22.01.2014 10:05:50.681 Have/Webclient/dealers/0
+22.01.2014 10:05:50.715 12
+22.01.2014 10:05:50.715 Create Directory: C:\Webclient\dealers\0\1\
+22.01.2014 10:05:50.715 Directory created: C:\Webclient\dealers\0\1\
+22.01.2014 10:05:50.717 Have/Webclient/dealers/0/1
+22.01.2014 10:05:50.749 11
+22.01.2014 10:05:50.749 Create Directory: C:\Webclient\taxi\
+22.01.2014 10:05:50.749 Directory created: C:\Webclient\taxi\
+22.01.2014 10:05:50.767 Have/Webclient/taxi
+22.01.2014 10:05:50.785 10
+22.01.2014 10:05:50.785 Create Directory: C:\Webclient\outbound\
+22.01.2014 10:05:50.785 Directory created: C:\Webclient\outbound\
+22.01.2014 10:05:50.795 Have/Webclient/outbound
+22.01.2014 10:05:50.813 10
+22.01.2014 10:05:50.813 Create Directory: C:\Webclient\outbound\stat\
+22.01.2014 10:05:50.813 Directory created: C:\Webclient\outbound\stat\
+22.01.2014 10:05:50.816 Have/Webclient/outbound/stat
+22.01.2014 10:05:50.839 9
+22.01.2014 10:05:50.839 Create Directory: C:\Webclient\logs\
+22.01.2014 10:05:50.839 Directory created: C:\Webclient\logs\
+22.01.2014 10:05:50.841 Have/Webclient/logs
+22.01.2014 10:05:50.861 8
+22.01.2014 10:05:50.861 Create Directory: C:\Webclient\interface\
+22.01.2014 10:05:50.861 Directory created: C:\Webclient\interface\
+22.01.2014 10:05:50.863 Have/Webclient/interface
+22.01.2014 10:05:51.109 26
+22.01.2014 10:05:51.109 Create Directory: C:\Webclient\interface\jquery\
+22.01.2014 10:05:51.109 Directory created: C:\Webclient\interface\jquery\
+22.01.2014 10:05:51.112 Have/Webclient/interface/jquery
+22.01.2014 10:05:51.122 25
+22.01.2014 10:05:51.122 Create Directory: C:\Webclient\interface\taxi\
+22.01.2014 10:05:51.122 Directory created: C:\Webclient\interface\taxi\
+22.01.2014 10:05:51.125 Have/Webclient/interface/taxi
+22.01.2014 10:05:51.153 24
+22.01.2014 10:05:51.153 Create Directory: C:\Webclient\interface\outbound\
+22.01.2014 10:05:51.153 Directory created: C:\Webclient\interface\outbound\
+22.01.2014 10:05:51.174 Have/Webclient/interface/outbound
+22.01.2014 10:05:51.197 24
+22.01.2014 10:05:51.197 Create Directory: C:\Webclient\interface\outbound\stat\
+22.01.2014 10:05:51.197 Directory created: C:\Webclient\interface\outbound\stat\
+22.01.2014 10:05:51.207 Have/Webclient/interface/outbound/stat
+22.01.2014 10:05:51.230 23
+22.01.2014 10:05:51.230 Create Directory: C:\Webclient\interface\logs\
+22.01.2014 10:05:51.230 Directory created: C:\Webclient\interface\logs\
+22.01.2014 10:05:51.233 Have/Webclient/interface/logs
+22.01.2014 10:05:51.258 22
+22.01.2014 10:05:51.258 Create Directory: C:\Webclient\interface\interface\
+22.01.2014 10:05:51.258 Directory created: C:\Webclient\interface\interface\
+22.01.2014 10:05:51.261 Have/Webclient/interface/interface
+22.01.2014 10:05:51.293 32
+22.01.2014 10:05:51.293 Create Directory: C:\Webclient\interface\interface\theme\
+22.01.2014 10:05:51.293 Directory created: C:\Webclient\interface\interface\theme\
+22.01.2014 10:05:51.306 Have/Webclient/interface/interface/theme
+22.01.2014 10:05:51.328 32
+22.01.2014 10:05:51.328 Create Directory: C:\Webclient\interface\interface\theme\17\
+22.01.2014 10:05:51.328 Directory created: C:\Webclient\interface\interface\theme\17\
+22.01.2014 10:05:51.331 Have/Webclient/interface/interface/theme/17
+22.01.2014 10:05:51.343 32
+22.01.2014 10:05:51.343 Create Directory: C:\Webclient\interface\interface\theme\17\images\
+22.01.2014 10:05:51.343 Directory created: C:\Webclient\interface\interface\theme\17\images\
+22.01.2014 10:05:51.345 Have/Webclient/interface/interface/theme/17/images
+22.01.2014 10:05:51.360 31
+22.01.2014 10:05:51.360 Create Directory: C:\Webclient\interface\interface\skins\
+22.01.2014 10:05:51.360 Directory created: C:\Webclient\interface\interface\skins\
+22.01.2014 10:05:51.362 Have/Webclient/interface/interface/skins
+22.01.2014 10:05:51.383 31
+22.01.2014 10:05:51.383 Create Directory: C:\Webclient\interface\interface\skins\metro2\
+22.01.2014 10:05:51.383 Directory created: C:\Webclient\interface\interface\skins\metro2\
+22.01.2014 10:05:51.389 Have/Webclient/interface/interface/skins/metro2
+22.01.2014 10:05:51.401 32
+22.01.2014 10:05:51.401 Create Directory: C:\Webclient\interface\interface\skins\metro2\swf\
+22.01.2014 10:05:51.401 Directory created: C:\Webclient\interface\interface\skins\metro2\swf\
+22.01.2014 10:05:51.403 Have/Webclient/interface/interface/skins/metro2/swf
+22.01.2014 10:05:51.427 31
+22.01.2014 10:05:51.427 Create Directory: C:\Webclient\interface\interface\skins\metro2\i\
+22.01.2014 10:05:51.427 Directory created: C:\Webclient\interface\interface\skins\metro2\i\
+22.01.2014 10:05:51.430 Have/Webclient/interface/interface/skins/metro2/i
+22.01.2014 10:05:51.828 31
+22.01.2014 10:05:51.828 Create Directory: C:\Webclient\interface\interface\skins\metro2\i\op\
+22.01.2014 10:05:51.828 Directory created: C:\Webclient\interface\interface\skins\metro2\i\op\
+22.01.2014 10:05:51.830 Have/Webclient/interface/interface/skins/metro2/i/op
+22.01.2014 10:05:52.311 31
+22.01.2014 10:05:52.311 Create Directory: C:\Webclient\interface\interface\skins\metro2\i\op\banks\
+22.01.2014 10:05:52.311 Directory created: C:\Webclient\interface\interface\skins\metro2\i\op\banks\
+22.01.2014 10:05:52.323 Have/Webclient/interface/interface/skins/metro2/i/op/banks
+22.01.2014 10:05:52.337 30
+22.01.2014 10:05:52.337 Create Directory: C:\Webclient\interface\interface\mj\
+22.01.2014 10:05:52.337 Directory created: C:\Webclient\interface\interface\mj\
+22.01.2014 10:05:52.340 Have/Webclient/interface/interface/mj
+22.01.2014 10:05:52.363 29
+22.01.2014 10:05:52.363 Create Directory: C:\Webclient\interface\interface\marketing\
+22.01.2014 10:05:52.363 Directory created: C:\Webclient\interface\interface\marketing\
+22.01.2014 10:05:52.366 Have/Webclient/interface/interface/marketing
+22.01.2014 10:05:52.380 28
+22.01.2014 10:05:52.380 Create Directory: C:\Webclient\interface\interface\locale\
+22.01.2014 10:05:52.380 Directory created: C:\Webclient\interface\interface\locale\
+22.01.2014 10:05:52.383 Have/Webclient/interface/interface/locale
+22.01.2014 10:05:52.400 28
+22.01.2014 10:05:52.400 Create Directory: C:\Webclient\interface\interface\locale\ru\
+22.01.2014 10:05:52.400 Directory created: C:\Webclient\interface\interface\locale\ru\
+22.01.2014 10:05:52.403 Have/Webclient/interface/interface/locale/ru
+22.01.2014 10:05:52.424 32
+22.01.2014 10:05:52.425 Create Directory: C:\Webclient\interface\interface\locale\ru\sound\
+22.01.2014 10:05:52.425 Directory created: C:\Webclient\interface\interface\locale\ru\sound\
+22.01.2014 10:05:52.427 Have/Webclient/interface/interface/locale/ru/sound
+22.01.2014 10:05:52.440 31
+22.01.2014 10:05:52.440 Create Directory: C:\Webclient\interface\interface\locale\ru\osmi\
+22.01.2014 10:05:52.440 Directory created: C:\Webclient\interface\interface\locale\ru\osmi\
+22.01.2014 10:05:52.443 Have/Webclient/interface/interface/locale/ru/osmi
+22.01.2014 10:05:52.457 31
+22.01.2014 10:05:52.457 Create Directory: C:\Webclient\interface\interface\locale\ru\osmi\Resources\
+22.01.2014 10:05:52.458 Directory created: C:\Webclient\interface\interface\locale\ru\osmi\Resources\
+22.01.2014 10:05:52.460 Have/Webclient/interface/interface/locale/ru/osmi/Resources
+22.01.2014 10:05:52.477 31
+22.01.2014 10:05:52.477 Create Directory: C:\Webclient\interface\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:05:52.477 Directory created: C:\Webclient\interface\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:05:52.479 Have/Webclient/interface/interface/locale/ru/osmi/Resources/Images
+22.01.2014 10:05:52.490 30
+22.01.2014 10:05:52.491 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\
+22.01.2014 10:05:52.491 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\
+22.01.2014 10:05:52.493 Have/Webclient/interface/interface/locale/ru/Mts_Helper
+22.01.2014 10:05:52.511 30
+22.01.2014 10:05:52.511 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:05:52.512 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:05:52.514 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface
+22.01.2014 10:05:52.534 32
+22.01.2014 10:05:52.534 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:05:52.534 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:05:52.537 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/snd
+22.01.2014 10:05:52.549 31
+22.01.2014 10:05:52.550 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:05:52.550 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:05:52.552 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/lib
+22.01.2014 10:05:52.599 31
+22.01.2014 10:05:52.599 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:05:52.600 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:05:52.602 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/lib/layouts
+22.01.2014 10:05:52.627 30
+22.01.2014 10:05:52.627 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:05:52.627 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:05:52.630 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/img
+22.01.2014 10:05:52.673 29
+22.01.2014 10:05:52.673 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\
+22.01.2014 10:05:52.673 Directory created: C:\Webclient\interface\interface\locale\ru\jq\
+22.01.2014 10:05:52.675 Have/Webclient/interface/interface/locale/ru/jq
+22.01.2014 10:05:52.699 30
+22.01.2014 10:05:52.699 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\js\
+22.01.2014 10:05:52.699 Directory created: C:\Webclient\interface\interface\locale\ru\jq\js\
+22.01.2014 10:05:52.702 Have/Webclient/interface/interface/locale/ru/jq/js
+22.01.2014 10:05:52.732 29
+22.01.2014 10:05:52.732 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\css\
+22.01.2014 10:05:52.732 Directory created: C:\Webclient\interface\interface\locale\ru\jq\css\
+22.01.2014 10:05:52.735 Have/Webclient/interface/interface/locale/ru/jq/css
+22.01.2014 10:05:52.766 29
+22.01.2014 10:05:52.766 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:05:52.766 Directory created: C:\Webclient\interface\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:05:52.769 Have/Webclient/interface/interface/locale/ru/jq/css/ui-lightness
+22.01.2014 10:05:52.800 28
+22.01.2014 10:05:52.800 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\
+22.01.2014 10:05:52.800 Directory created: C:\Webclient\interface\interface\locale\ru\bank\
+22.01.2014 10:05:52.802 Have/Webclient/interface/interface/locale/ru/bank
+22.01.2014 10:05:52.835 30
+22.01.2014 10:05:52.835 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\lib\
+22.01.2014 10:05:52.835 Directory created: C:\Webclient\interface\interface\locale\ru\bank\lib\
+22.01.2014 10:05:52.838 Have/Webclient/interface/interface/locale/ru/bank/lib
+22.01.2014 10:05:52.868 29
+22.01.2014 10:05:52.868 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\images\
+22.01.2014 10:05:52.868 Directory created: C:\Webclient\interface\interface\locale\ru\bank\images\
+22.01.2014 10:05:52.870 Have/Webclient/interface/interface/locale/ru/bank/images
+22.01.2014 10:05:52.900 28
+22.01.2014 10:05:52.900 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\css\
+22.01.2014 10:05:52.900 Directory created: C:\Webclient\interface\interface\locale\ru\bank\css\
+22.01.2014 10:05:52.903 Have/Webclient/interface/interface/locale/ru/bank/css
+22.01.2014 10:05:52.929 27
+22.01.2014 10:05:52.929 Create Directory: C:\Webclient\interface\interface\lib\
+22.01.2014 10:05:52.929 Directory created: C:\Webclient\interface\interface\lib\
+22.01.2014 10:05:52.931 Have/Webclient/interface/interface/lib
+22.01.2014 10:05:52.965 26
+22.01.2014 10:05:52.965 Create Directory: C:\Webclient\interface\interface\images\
+22.01.2014 10:05:52.965 Directory created: C:\Webclient\interface\interface\images\
+22.01.2014 10:05:52.968 Have/Webclient/interface/interface/images
+22.01.2014 10:05:52.982 27
+22.01.2014 10:05:52.982 Create Directory: C:\Webclient\interface\interface\images\operators\
+22.01.2014 10:05:52.982 Directory created: C:\Webclient\interface\interface\images\operators\
+22.01.2014 10:05:52.984 Have/Webclient/interface/interface/images/operators
+22.01.2014 10:05:53.451 26
+22.01.2014 10:05:53.451 Create Directory: C:\Webclient\interface\interface\images\17\
+22.01.2014 10:05:53.451 Directory created: C:\Webclient\interface\interface\images\17\
+22.01.2014 10:05:53.454 Have/Webclient/interface/interface/images/17
+22.01.2014 10:05:53.468 25
+22.01.2014 10:05:53.468 Create Directory: C:\Webclient\interface\interface\if3scen\
+22.01.2014 10:05:53.468 Directory created: C:\Webclient\interface\interface\if3scen\
+22.01.2014 10:05:53.470 Have/Webclient/interface/interface/if3scen
+22.01.2014 10:05:53.505 24
+22.01.2014 10:05:53.505 Create Directory: C:\Webclient\interface\interface\if3mods\
+22.01.2014 10:05:53.505 Directory created: C:\Webclient\interface\interface\if3mods\
+22.01.2014 10:05:53.508 Have/Webclient/interface/interface/if3mods
+22.01.2014 10:05:53.522 23
+22.01.2014 10:05:53.522 Create Directory: C:\Webclient\interface\interface\if3docs\
+22.01.2014 10:05:53.522 Directory created: C:\Webclient\interface\interface\if3docs\
+22.01.2014 10:05:53.524 Have/Webclient/interface/interface/if3docs
+22.01.2014 10:05:53.540 22
+22.01.2014 10:05:53.540 Create Directory: C:\Webclient\interface\interface\adv\
+22.01.2014 10:05:53.540 Directory created: C:\Webclient\interface\interface\adv\
+22.01.2014 10:05:53.543 Have/Webclient/interface/interface/adv
+22.01.2014 10:05:53.581 21
+22.01.2014 10:05:53.581 Create Directory: C:\Webclient\interface\inbound\
+22.01.2014 10:05:53.581 Directory created: C:\Webclient\interface\inbound\
+22.01.2014 10:05:53.583 Have/Webclient/interface/inbound
+22.01.2014 10:05:53.609 20
+22.01.2014 10:05:53.609 Create Directory: C:\Webclient\interface\DPSCom\
+22.01.2014 10:05:53.609 Directory created: C:\Webclient\interface\DPSCom\
+22.01.2014 10:05:53.618 Have/Webclient/interface/DPSCom
+22.01.2014 10:05:53.631 19
+22.01.2014 10:05:53.631 Create Directory: C:\Webclient\interface\config\
+22.01.2014 10:05:53.631 Directory created: C:\Webclient\interface\config\
+22.01.2014 10:05:53.634 Have/Webclient/interface/config
+22.01.2014 10:05:53.653 23
+22.01.2014 10:05:53.653 Create Directory: C:\Webclient\interface\config\templates_prim\
+22.01.2014 10:05:53.653 Directory created: C:\Webclient\interface\config\templates_prim\
+22.01.2014 10:05:53.666 Have/Webclient/interface/config/templates_prim
+22.01.2014 10:05:53.685 22
+22.01.2014 10:05:53.685 Create Directory: C:\Webclient\interface\config\templates_no_sup\
+22.01.2014 10:05:53.685 Directory created: C:\Webclient\interface\config\templates_no_sup\
+22.01.2014 10:05:53.687 Have/Webclient/interface/config/templates_no_sup
+22.01.2014 10:05:53.709 21
+22.01.2014 10:05:53.709 Create Directory: C:\Webclient\interface\config\templates_frk_no_sup\
+22.01.2014 10:05:53.709 Directory created: C:\Webclient\interface\config\templates_frk_no_sup\
+22.01.2014 10:05:53.718 Have/Webclient/interface/config/templates_frk_no_sup
+22.01.2014 10:05:53.737 20
+22.01.2014 10:05:53.737 Create Directory: C:\Webclient\interface\config\templates_frk\
+22.01.2014 10:05:53.737 Directory created: C:\Webclient\interface\config\templates_frk\
+22.01.2014 10:05:53.739 Have/Webclient/interface/config/templates_frk
+22.01.2014 10:05:53.762 19
+22.01.2014 10:05:53.762 Create Directory: C:\Webclient\interface\config\templates\
+22.01.2014 10:05:53.762 Directory created: C:\Webclient\interface\config\templates\
+22.01.2014 10:05:53.764 Have/Webclient/interface/config/templates
+22.01.2014 10:05:53.792 18
+22.01.2014 10:05:53.792 Create Directory: C:\Webclient\interface\theme\
+22.01.2014 10:05:53.792 Directory created: C:\Webclient\interface\theme\
+22.01.2014 10:05:53.794 Have/Webclient/interface/theme
+22.01.2014 10:05:53.806 18
+22.01.2014 10:05:53.806 Create Directory: C:\Webclient\interface\theme\17\
+22.01.2014 10:05:53.806 Directory created: C:\Webclient\interface\theme\17\
+22.01.2014 10:05:53.812 Have/Webclient/interface/theme/17
+22.01.2014 10:05:53.828 18
+22.01.2014 10:05:53.828 Create Directory: C:\Webclient\interface\theme\17\images\
+22.01.2014 10:05:53.828 Directory created: C:\Webclient\interface\theme\17\images\
+22.01.2014 10:05:53.831 Have/Webclient/interface/theme/17/images
+22.01.2014 10:05:53.852 17
+22.01.2014 10:05:53.852 Create Directory: C:\Webclient\interface\skins\
+22.01.2014 10:05:53.852 Directory created: C:\Webclient\interface\skins\
+22.01.2014 10:05:53.854 Have/Webclient/interface/skins
+22.01.2014 10:05:53.871 17
+22.01.2014 10:05:53.871 Create Directory: C:\Webclient\interface\skins\metro2\
+22.01.2014 10:05:53.871 Directory created: C:\Webclient\interface\skins\metro2\
+22.01.2014 10:05:53.881 Have/Webclient/interface/skins/metro2
+22.01.2014 10:05:53.892 18
+22.01.2014 10:05:53.892 Create Directory: C:\Webclient\interface\skins\metro2\swf\
+22.01.2014 10:05:53.892 Directory created: C:\Webclient\interface\skins\metro2\swf\
+22.01.2014 10:05:53.895 Have/Webclient/interface/skins/metro2/swf
+22.01.2014 10:05:53.917 17
+22.01.2014 10:05:53.917 Create Directory: C:\Webclient\interface\skins\metro2\i\
+22.01.2014 10:05:53.917 Directory created: C:\Webclient\interface\skins\metro2\i\
+22.01.2014 10:05:53.919 Have/Webclient/interface/skins/metro2/i
+22.01.2014 10:05:54.185 17
+22.01.2014 10:05:54.185 Create Directory: C:\Webclient\interface\skins\metro2\i\op\
+22.01.2014 10:05:54.185 Directory created: C:\Webclient\interface\skins\metro2\i\op\
+22.01.2014 10:05:54.188 Have/Webclient/interface/skins/metro2/i/op
+22.01.2014 10:05:54.668 17
+22.01.2014 10:05:54.668 Create Directory: C:\Webclient\interface\skins\metro2\i\op\banks\
+22.01.2014 10:05:54.668 Directory created: C:\Webclient\interface\skins\metro2\i\op\banks\
+22.01.2014 10:05:54.671 Have/Webclient/interface/skins/metro2/i/op/banks
+22.01.2014 10:05:54.685 16
+22.01.2014 10:05:54.685 Create Directory: C:\Webclient\interface\mj\
+22.01.2014 10:05:54.685 Directory created: C:\Webclient\interface\mj\
+22.01.2014 10:05:54.688 Have/Webclient/interface/mj
+22.01.2014 10:05:54.719 15
+22.01.2014 10:05:54.719 Create Directory: C:\Webclient\interface\marketing\
+22.01.2014 10:05:54.719 Directory created: C:\Webclient\interface\marketing\
+22.01.2014 10:05:54.721 Have/Webclient/interface/marketing
+22.01.2014 10:05:54.736 14
+22.01.2014 10:05:54.736 Create Directory: C:\Webclient\interface\locale\
+22.01.2014 10:05:54.736 Directory created: C:\Webclient\interface\locale\
+22.01.2014 10:05:54.738 Have/Webclient/interface/locale
+22.01.2014 10:05:54.753 14
+22.01.2014 10:05:54.753 Create Directory: C:\Webclient\interface\locale\ru\
+22.01.2014 10:05:54.754 Directory created: C:\Webclient\interface\locale\ru\
+22.01.2014 10:05:54.763 Have/Webclient/interface/locale/ru
+22.01.2014 10:05:54.790 18
+22.01.2014 10:05:54.790 Create Directory: C:\Webclient\interface\locale\ru\osmi\
+22.01.2014 10:05:54.790 Directory created: C:\Webclient\interface\locale\ru\osmi\
+22.01.2014 10:05:54.792 Have/Webclient/interface/locale/ru/osmi
+22.01.2014 10:05:54.804 18
+22.01.2014 10:05:54.804 Create Directory: C:\Webclient\interface\locale\ru\osmi\Resources\
+22.01.2014 10:05:54.804 Directory created: C:\Webclient\interface\locale\ru\osmi\Resources\
+22.01.2014 10:05:54.806 Have/Webclient/interface/locale/ru/osmi/Resources
+22.01.2014 10:05:54.822 18
+22.01.2014 10:05:54.822 Create Directory: C:\Webclient\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:05:54.822 Directory created: C:\Webclient\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:05:54.825 Have/Webclient/interface/locale/ru/osmi/Resources/Images
+22.01.2014 10:05:54.845 17
+22.01.2014 10:05:54.845 Create Directory: C:\Webclient\interface\locale\ru\sound\
+22.01.2014 10:05:54.845 Directory created: C:\Webclient\interface\locale\ru\sound\
+22.01.2014 10:05:54.848 Have/Webclient/interface/locale/ru/sound
+22.01.2014 10:05:54.866 16
+22.01.2014 10:05:54.867 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\
+22.01.2014 10:05:54.867 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\
+22.01.2014 10:05:54.869 Have/Webclient/interface/locale/ru/Mts_Helper
+22.01.2014 10:05:54.884 16
+22.01.2014 10:05:54.884 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:05:54.884 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:05:54.892 Have/Webclient/interface/locale/ru/Mts_Helper/interface
+22.01.2014 10:05:54.906 18
+22.01.2014 10:05:54.906 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:05:54.906 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:05:54.909 Have/Webclient/interface/locale/ru/Mts_Helper/interface/snd
+22.01.2014 10:05:54.930 17
+22.01.2014 10:05:54.930 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:05:54.930 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:05:54.932 Have/Webclient/interface/locale/ru/Mts_Helper/interface/lib
+22.01.2014 10:05:54.945 17
+22.01.2014 10:05:54.945 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:05:54.946 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:05:54.948 Have/Webclient/interface/locale/ru/Mts_Helper/interface/lib/layouts
+22.01.2014 10:05:54.989 16
+22.01.2014 10:05:54.989 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:05:54.989 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:05:54.992 Have/Webclient/interface/locale/ru/Mts_Helper/interface/img
+22.01.2014 10:05:55.007 15
+22.01.2014 10:05:55.007 Create Directory: C:\Webclient\interface\locale\ru\jq\
+22.01.2014 10:05:55.007 Directory created: C:\Webclient\interface\locale\ru\jq\
+22.01.2014 10:05:55.010 Have/Webclient/interface/locale/ru/jq
+22.01.2014 10:05:55.021 16
+22.01.2014 10:05:55.021 Create Directory: C:\Webclient\interface\locale\ru\jq\js\
+22.01.2014 10:05:55.021 Directory created: C:\Webclient\interface\locale\ru\jq\js\
+22.01.2014 10:05:55.023 Have/Webclient/interface/locale/ru/jq/js
+22.01.2014 10:05:55.052 15
+22.01.2014 10:05:55.052 Create Directory: C:\Webclient\interface\locale\ru\jq\css\
+22.01.2014 10:05:55.052 Directory created: C:\Webclient\interface\locale\ru\jq\css\
+22.01.2014 10:05:55.055 Have/Webclient/interface/locale/ru/jq/css
+22.01.2014 10:05:55.066 15
+22.01.2014 10:05:55.066 Create Directory: C:\Webclient\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:05:55.066 Directory created: C:\Webclient\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:05:55.068 Have/Webclient/interface/locale/ru/jq/css/ui-lightness
+22.01.2014 10:05:55.093 14
+22.01.2014 10:05:55.093 Create Directory: C:\Webclient\interface\locale\ru\bank\
+22.01.2014 10:05:55.093 Directory created: C:\Webclient\interface\locale\ru\bank\
+22.01.2014 10:05:55.096 Have/Webclient/interface/locale/ru/bank
+22.01.2014 10:05:55.131 16
+22.01.2014 10:05:55.131 Create Directory: C:\Webclient\interface\locale\ru\bank\lib\
+22.01.2014 10:05:55.131 Directory created: C:\Webclient\interface\locale\ru\bank\lib\
+22.01.2014 10:05:55.133 Have/Webclient/interface/locale/ru/bank/lib
+22.01.2014 10:05:55.147 15
+22.01.2014 10:05:55.147 Create Directory: C:\Webclient\interface\locale\ru\bank\images\
+22.01.2014 10:05:55.147 Directory created: C:\Webclient\interface\locale\ru\bank\images\
+22.01.2014 10:05:55.150 Have/Webclient/interface/locale/ru/bank/images
+22.01.2014 10:05:55.187 14
+22.01.2014 10:05:55.187 Create Directory: C:\Webclient\interface\locale\ru\bank\css\
+22.01.2014 10:05:55.187 Directory created: C:\Webclient\interface\locale\ru\bank\css\
+22.01.2014 10:05:55.189 Have/Webclient/interface/locale/ru/bank/css
+22.01.2014 10:05:55.219 13
+22.01.2014 10:05:55.220 Create Directory: C:\Webclient\interface\lib\
+22.01.2014 10:05:55.220 Directory created: C:\Webclient\interface\lib\
+22.01.2014 10:05:55.222 Have/Webclient/interface/lib
+22.01.2014 10:05:55.246 12
+22.01.2014 10:05:55.246 Create Directory: C:\Webclient\interface\images\
+22.01.2014 10:05:55.246 Directory created: C:\Webclient\interface\images\
+22.01.2014 10:05:55.248 Have/Webclient/interface/images
+22.01.2014 10:05:55.267 13
+22.01.2014 10:05:55.267 Create Directory: C:\Webclient\interface\images\operators\
+22.01.2014 10:05:55.267 Directory created: C:\Webclient\interface\images\operators\
+22.01.2014 10:05:55.269 Have/Webclient/interface/images/operators
+22.01.2014 10:05:55.717 12
+22.01.2014 10:05:55.717 Create Directory: C:\Webclient\interface\images\17\
+22.01.2014 10:05:55.717 Directory created: C:\Webclient\interface\images\17\
+22.01.2014 10:05:55.720 Have/Webclient/interface/images/17
+22.01.2014 10:05:55.751 11
+22.01.2014 10:05:55.751 Create Directory: C:\Webclient\interface\if3scen\
+22.01.2014 10:05:55.751 Directory created: C:\Webclient\interface\if3scen\
+22.01.2014 10:05:55.753 Have/Webclient/interface/if3scen
+22.01.2014 10:05:55.781 10
+22.01.2014 10:05:55.781 Create Directory: C:\Webclient\interface\if3mods\
+22.01.2014 10:05:55.781 Directory created: C:\Webclient\interface\if3mods\
+22.01.2014 10:05:55.784 Have/Webclient/interface/if3mods
+22.01.2014 10:05:55.799 9
+22.01.2014 10:05:55.799 Create Directory: C:\Webclient\interface\if3docs\
+22.01.2014 10:05:55.799 Directory created: C:\Webclient\interface\if3docs\
+22.01.2014 10:05:55.802 Have/Webclient/interface/if3docs
+22.01.2014 10:05:55.818 8
+22.01.2014 10:05:55.818 Create Directory: C:\Webclient\interface\adv\
+22.01.2014 10:05:55.818 Directory created: C:\Webclient\interface\adv\
+22.01.2014 10:05:55.821 Have/Webclient/interface/adv
+22.01.2014 10:05:55.833 7
+22.01.2014 10:05:55.833 Create Directory: C:\Webclient\inbound\
+22.01.2014 10:05:55.833 Directory created: C:\Webclient\inbound\
+22.01.2014 10:05:55.836 Have/Webclient/inbound
+22.01.2014 10:05:55.862 6
+22.01.2014 10:05:55.862 Create Directory: C:\Webclient\DPSCom\
+22.01.2014 10:05:55.862 Directory created: C:\Webclient\DPSCom\
+22.01.2014 10:05:55.865 Have/Webclient/DPSCom
+22.01.2014 10:05:55.882 5
+22.01.2014 10:05:55.882 Create Directory: C:\Webclient\config\
+22.01.2014 10:05:55.882 Directory created: C:\Webclient\config\
+22.01.2014 10:05:55.884 Have/Webclient/config
+22.01.2014 10:05:55.909 9
+22.01.2014 10:05:55.909 Create Directory: C:\Webclient\config\templates_prim\
+22.01.2014 10:05:55.909 Directory created: C:\Webclient\config\templates_prim\
+22.01.2014 10:05:55.911 Have/Webclient/config/templates_prim
+22.01.2014 10:05:55.932 8
+22.01.2014 10:05:55.932 Create Directory: C:\Webclient\config\templates_no_sup\
+22.01.2014 10:05:55.932 Directory created: C:\Webclient\config\templates_no_sup\
+22.01.2014 10:05:55.934 Have/Webclient/config/templates_no_sup
+22.01.2014 10:05:55.958 7
+22.01.2014 10:05:55.959 Create Directory: C:\Webclient\config\templates_frk_no_sup\
+22.01.2014 10:05:55.959 Directory created: C:\Webclient\config\templates_frk_no_sup\
+22.01.2014 10:05:55.961 Have/Webclient/config/templates_frk_no_sup
+22.01.2014 10:05:55.985 6
+22.01.2014 10:05:55.985 Create Directory: C:\Webclient\config\templates_frk\
+22.01.2014 10:05:55.985 Directory created: C:\Webclient\config\templates_frk\
+22.01.2014 10:05:55.997 Have/Webclient/config/templates_frk
+22.01.2014 10:05:56.023 5
+22.01.2014 10:05:56.023 Create Directory: C:\Webclient\config\templates\
+22.01.2014 10:05:56.023 Directory created: C:\Webclient\config\templates\
+22.01.2014 10:05:56.025 Have/Webclient/config/templates
+22.01.2014 10:05:56.050 download: true
+22.01.2014 10:05:56.050 Check directory exists ...
+22.01.2014 10:05:56.269 File created : C:\Webclient\interface\skins\metro2\i\op\int_1gb.gif
+22.01.2014 10:05:56.507 File created : C:\Webclient\interface\jquery\jquery-2.0.3.js
+22.01.2014 10:05:56.746 File created : C:\Webclient\interface\iface_runtime.js
+22.01.2014 10:05:57.529 File created : C:\Webclient\DPSKiosk.exe
+22.01.2014 10:05:57.529 Disconnect...
+22.01.2014 10:05:57.530 Starting C:\WebClient\DPSKiosk.exe...OK.
+22.01.2014 10:05:57.886 Starting C:\WebClient\DPSCom.exe...OK.
+22.01.2014 10:11:49.722 //-------------- 22.01.2014 10:11:49 -------------------------
+22.01.2014 10:11:49.727 Configuration XML has been opened ... 
+22.01.2014 10:11:49.730 Try to get Configuretion info...
+22.01.2014 10:11:49.730 host: 192.168.1.253.....OK
+22.01.2014 10:11:49.730 user: terminals......OK
+22.01.2014 10:11:49.730 password: terminals1357.....OK
+22.01.2014 10:11:49.730 Connecting to: 192.168.1.253 | terminals | terminals1357 | ... OK 
+22.01.2014 10:11:49.756 Соединение с сервером ...Успешно
+22.01.2014 10:11:49.757 Connected to: 192.168.1.253
+22.01.2014 10:11:53.357 Проверка обновления...started
+22.01.2014 10:11:53.383 Create Directory: C:\Webclient\
+22.01.2014 10:11:53.383 Directory created: C:\Webclient\
+22.01.2014 10:11:53.389 Have/Webclient
+22.01.2014 10:11:53.413 8
+22.01.2014 10:11:53.413 Create Directory: C:\Webclient\dealers\
+22.01.2014 10:11:53.413 Directory created: C:\Webclient\dealers\
+22.01.2014 10:11:53.416 Have/Webclient/dealers
+22.01.2014 10:11:53.426 8
+22.01.2014 10:11:53.426 Create Directory: C:\Webclient\dealers\0\
+22.01.2014 10:11:53.426 Directory created: C:\Webclient\dealers\0\
+22.01.2014 10:11:53.429 Have/Webclient/dealers/0
+22.01.2014 10:11:53.440 8
+22.01.2014 10:11:53.440 Create Directory: C:\Webclient\dealers\0\1\
+22.01.2014 10:11:53.440 Directory created: C:\Webclient\dealers\0\1\
+22.01.2014 10:11:53.443 Have/Webclient/dealers/0/1
+22.01.2014 10:11:53.453 7
+22.01.2014 10:11:53.453 Create Directory: C:\Webclient\taxi\
+22.01.2014 10:11:53.453 Directory created: C:\Webclient\taxi\
+22.01.2014 10:11:53.456 Have/Webclient/taxi
+22.01.2014 10:11:53.467 6
+22.01.2014 10:11:53.467 Create Directory: C:\Webclient\outbound\
+22.01.2014 10:11:53.467 Directory created: C:\Webclient\outbound\
+22.01.2014 10:11:53.469 Have/Webclient/outbound
+22.01.2014 10:11:53.480 6
+22.01.2014 10:11:53.480 Create Directory: C:\Webclient\outbound\stat\
+22.01.2014 10:11:53.480 Directory created: C:\Webclient\outbound\stat\
+22.01.2014 10:11:53.482 Have/Webclient/outbound/stat
+22.01.2014 10:11:53.503 5
+22.01.2014 10:11:53.503 Create Directory: C:\Webclient\logs\
+22.01.2014 10:11:53.503 Directory created: C:\Webclient\logs\
+22.01.2014 10:11:53.505 Have/Webclient/logs
+22.01.2014 10:11:53.521 4
+22.01.2014 10:11:53.521 Create Directory: C:\Webclient\interface\
+22.01.2014 10:11:53.521 Directory created: C:\Webclient\interface\
+22.01.2014 10:11:53.523 Have/Webclient/interface
+22.01.2014 10:11:53.764 22
+22.01.2014 10:11:53.764 Create Directory: C:\Webclient\interface\jquery\
+22.01.2014 10:11:53.764 Directory created: C:\Webclient\interface\jquery\
+22.01.2014 10:11:53.766 Have/Webclient/interface/jquery
+22.01.2014 10:11:53.777 21
+22.01.2014 10:11:53.777 Create Directory: C:\Webclient\interface\taxi\
+22.01.2014 10:11:53.777 Directory created: C:\Webclient\interface\taxi\
+22.01.2014 10:11:53.779 Have/Webclient/interface/taxi
+22.01.2014 10:11:53.800 20
+22.01.2014 10:11:53.800 Create Directory: C:\Webclient\interface\outbound\
+22.01.2014 10:11:53.800 Directory created: C:\Webclient\interface\outbound\
+22.01.2014 10:11:53.802 Have/Webclient/interface/outbound
+22.01.2014 10:11:53.813 20
+22.01.2014 10:11:53.813 Create Directory: C:\Webclient\interface\outbound\stat\
+22.01.2014 10:11:53.813 Directory created: C:\Webclient\interface\outbound\stat\
+22.01.2014 10:11:53.816 Have/Webclient/interface/outbound/stat
+22.01.2014 10:11:53.836 19
+22.01.2014 10:11:53.836 Create Directory: C:\Webclient\interface\logs\
+22.01.2014 10:11:53.836 Directory created: C:\Webclient\interface\logs\
+22.01.2014 10:11:53.838 Have/Webclient/interface/logs
+22.01.2014 10:11:53.854 18
+22.01.2014 10:11:53.854 Create Directory: C:\Webclient\interface\interface\
+22.01.2014 10:11:53.854 Directory created: C:\Webclient\interface\interface\
+22.01.2014 10:11:53.856 Have/Webclient/interface/interface
+22.01.2014 10:11:53.882 28
+22.01.2014 10:11:53.882 Create Directory: C:\Webclient\interface\interface\theme\
+22.01.2014 10:11:53.882 Directory created: C:\Webclient\interface\interface\theme\
+22.01.2014 10:11:53.885 Have/Webclient/interface/interface/theme
+22.01.2014 10:11:53.895 28
+22.01.2014 10:11:53.895 Create Directory: C:\Webclient\interface\interface\theme\17\
+22.01.2014 10:11:53.895 Directory created: C:\Webclient\interface\interface\theme\17\
+22.01.2014 10:11:53.898 Have/Webclient/interface/interface/theme/17
+22.01.2014 10:11:53.909 28
+22.01.2014 10:11:53.909 Create Directory: C:\Webclient\interface\interface\theme\17\images\
+22.01.2014 10:11:53.909 Directory created: C:\Webclient\interface\interface\theme\17\images\
+22.01.2014 10:11:53.912 Have/Webclient/interface/interface/theme/17/images
+22.01.2014 10:11:53.924 27
+22.01.2014 10:11:53.924 Create Directory: C:\Webclient\interface\interface\skins\
+22.01.2014 10:11:53.924 Directory created: C:\Webclient\interface\interface\skins\
+22.01.2014 10:11:53.927 Have/Webclient/interface/interface/skins
+22.01.2014 10:11:53.937 27
+22.01.2014 10:11:53.937 Create Directory: C:\Webclient\interface\interface\skins\metro2\
+22.01.2014 10:11:53.937 Directory created: C:\Webclient\interface\interface\skins\metro2\
+22.01.2014 10:11:53.940 Have/Webclient/interface/interface/skins/metro2
+22.01.2014 10:11:53.951 28
+22.01.2014 10:11:53.951 Create Directory: C:\Webclient\interface\interface\skins\metro2\swf\
+22.01.2014 10:11:53.951 Directory created: C:\Webclient\interface\interface\skins\metro2\swf\
+22.01.2014 10:11:53.953 Have/Webclient/interface/interface/skins/metro2/swf
+22.01.2014 10:11:53.966 27
+22.01.2014 10:11:53.966 Create Directory: C:\Webclient\interface\interface\skins\metro2\i\
+22.01.2014 10:11:53.966 Directory created: C:\Webclient\interface\interface\skins\metro2\i\
+22.01.2014 10:11:53.969 Have/Webclient/interface/interface/skins/metro2/i
+22.01.2014 10:11:54.226 27
+22.01.2014 10:11:54.226 Create Directory: C:\Webclient\interface\interface\skins\metro2\i\op\
+22.01.2014 10:11:54.226 Directory created: C:\Webclient\interface\interface\skins\metro2\i\op\
+22.01.2014 10:11:54.229 Have/Webclient/interface/interface/skins/metro2/i/op
+22.01.2014 10:11:54.675 27
+22.01.2014 10:11:54.675 Create Directory: C:\Webclient\interface\interface\skins\metro2\i\op\banks\
+22.01.2014 10:11:54.675 Directory created: C:\Webclient\interface\interface\skins\metro2\i\op\banks\
+22.01.2014 10:11:54.677 Have/Webclient/interface/interface/skins/metro2/i/op/banks
+22.01.2014 10:11:54.688 26
+22.01.2014 10:11:54.688 Create Directory: C:\Webclient\interface\interface\mj\
+22.01.2014 10:11:54.688 Directory created: C:\Webclient\interface\interface\mj\
+22.01.2014 10:11:54.691 Have/Webclient/interface/interface/mj
+22.01.2014 10:11:54.704 25
+22.01.2014 10:11:54.704 Create Directory: C:\Webclient\interface\interface\marketing\
+22.01.2014 10:11:54.704 Directory created: C:\Webclient\interface\interface\marketing\
+22.01.2014 10:11:54.707 Have/Webclient/interface/interface/marketing
+22.01.2014 10:11:54.718 24
+22.01.2014 10:11:54.718 Create Directory: C:\Webclient\interface\interface\locale\
+22.01.2014 10:11:54.718 Directory created: C:\Webclient\interface\interface\locale\
+22.01.2014 10:11:54.720 Have/Webclient/interface/interface/locale
+22.01.2014 10:11:54.731 24
+22.01.2014 10:11:54.731 Create Directory: C:\Webclient\interface\interface\locale\ru\
+22.01.2014 10:11:54.731 Directory created: C:\Webclient\interface\interface\locale\ru\
+22.01.2014 10:11:54.733 Have/Webclient/interface/interface/locale/ru
+22.01.2014 10:11:54.753 28
+22.01.2014 10:11:54.754 Create Directory: C:\Webclient\interface\interface\locale\ru\sound\
+22.01.2014 10:11:54.754 Directory created: C:\Webclient\interface\interface\locale\ru\sound\
+22.01.2014 10:11:54.756 Have/Webclient/interface/interface/locale/ru/sound
+22.01.2014 10:11:54.767 27
+22.01.2014 10:11:54.767 Create Directory: C:\Webclient\interface\interface\locale\ru\osmi\
+22.01.2014 10:11:54.767 Directory created: C:\Webclient\interface\interface\locale\ru\osmi\
+22.01.2014 10:11:54.769 Have/Webclient/interface/interface/locale/ru/osmi
+22.01.2014 10:11:54.780 27
+22.01.2014 10:11:54.780 Create Directory: C:\Webclient\interface\interface\locale\ru\osmi\Resources\
+22.01.2014 10:11:54.780 Directory created: C:\Webclient\interface\interface\locale\ru\osmi\Resources\
+22.01.2014 10:11:54.783 Have/Webclient/interface/interface/locale/ru/osmi/Resources
+22.01.2014 10:11:54.793 27
+22.01.2014 10:11:54.793 Create Directory: C:\Webclient\interface\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:11:54.793 Directory created: C:\Webclient\interface\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:11:54.796 Have/Webclient/interface/interface/locale/ru/osmi/Resources/Images
+22.01.2014 10:11:54.806 26
+22.01.2014 10:11:54.806 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\
+22.01.2014 10:11:54.806 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\
+22.01.2014 10:11:54.809 Have/Webclient/interface/interface/locale/ru/Mts_Helper
+22.01.2014 10:11:54.819 26
+22.01.2014 10:11:54.819 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:11:54.819 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:11:54.822 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface
+22.01.2014 10:11:54.834 28
+22.01.2014 10:11:54.834 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:11:54.834 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:11:54.837 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/snd
+22.01.2014 10:11:54.847 27
+22.01.2014 10:11:54.847 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:11:54.847 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:11:54.850 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/lib
+22.01.2014 10:11:54.861 27
+22.01.2014 10:11:54.861 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:11:54.861 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:11:54.864 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/lib/layouts
+22.01.2014 10:11:54.874 26
+22.01.2014 10:11:54.874 Create Directory: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:11:54.874 Directory created: C:\Webclient\interface\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:11:54.877 Have/Webclient/interface/interface/locale/ru/Mts_Helper/interface/img
+22.01.2014 10:11:54.891 25
+22.01.2014 10:11:54.892 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\
+22.01.2014 10:11:54.892 Directory created: C:\Webclient\interface\interface\locale\ru\jq\
+22.01.2014 10:11:54.894 Have/Webclient/interface/interface/locale/ru/jq
+22.01.2014 10:11:54.905 26
+22.01.2014 10:11:54.905 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\js\
+22.01.2014 10:11:54.905 Directory created: C:\Webclient\interface\interface\locale\ru\jq\js\
+22.01.2014 10:11:54.907 Have/Webclient/interface/interface/locale/ru/jq/js
+22.01.2014 10:11:54.918 25
+22.01.2014 10:11:54.918 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\css\
+22.01.2014 10:11:54.918 Directory created: C:\Webclient\interface\interface\locale\ru\jq\css\
+22.01.2014 10:11:54.921 Have/Webclient/interface/interface/locale/ru/jq/css
+22.01.2014 10:11:54.931 25
+22.01.2014 10:11:54.931 Create Directory: C:\Webclient\interface\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:11:54.931 Directory created: C:\Webclient\interface\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:11:54.934 Have/Webclient/interface/interface/locale/ru/jq/css/ui-lightness
+22.01.2014 10:11:54.944 24
+22.01.2014 10:11:54.944 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\
+22.01.2014 10:11:54.944 Directory created: C:\Webclient\interface\interface\locale\ru\bank\
+22.01.2014 10:11:54.947 Have/Webclient/interface/interface/locale/ru/bank
+22.01.2014 10:11:54.958 26
+22.01.2014 10:11:54.958 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\lib\
+22.01.2014 10:11:54.958 Directory created: C:\Webclient\interface\interface\locale\ru\bank\lib\
+22.01.2014 10:11:54.960 Have/Webclient/interface/interface/locale/ru/bank/lib
+22.01.2014 10:11:54.973 25
+22.01.2014 10:11:54.973 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\images\
+22.01.2014 10:11:54.973 Directory created: C:\Webclient\interface\interface\locale\ru\bank\images\
+22.01.2014 10:11:54.975 Have/Webclient/interface/interface/locale/ru/bank/images
+22.01.2014 10:11:54.987 24
+22.01.2014 10:11:54.987 Create Directory: C:\Webclient\interface\interface\locale\ru\bank\css\
+22.01.2014 10:11:54.987 Directory created: C:\Webclient\interface\interface\locale\ru\bank\css\
+22.01.2014 10:11:54.989 Have/Webclient/interface/interface/locale/ru/bank/css
+22.01.2014 10:11:55.000 23
+22.01.2014 10:11:55.000 Create Directory: C:\Webclient\interface\interface\lib\
+22.01.2014 10:11:55.000 Directory created: C:\Webclient\interface\interface\lib\
+22.01.2014 10:11:55.002 Have/Webclient/interface/interface/lib
+22.01.2014 10:11:55.013 22
+22.01.2014 10:11:55.013 Create Directory: C:\Webclient\interface\interface\images\
+22.01.2014 10:11:55.013 Directory created: C:\Webclient\interface\interface\images\
+22.01.2014 10:11:55.016 Have/Webclient/interface/interface/images
+22.01.2014 10:11:55.026 23
+22.01.2014 10:11:55.026 Create Directory: C:\Webclient\interface\interface\images\operators\
+22.01.2014 10:11:55.027 Directory created: C:\Webclient\interface\interface\images\operators\
+22.01.2014 10:11:55.029 Have/Webclient/interface/interface/images/operators
+22.01.2014 10:11:55.458 22
+22.01.2014 10:11:55.458 Create Directory: C:\Webclient\interface\interface\images\17\
+22.01.2014 10:11:55.458 Directory created: C:\Webclient\interface\interface\images\17\
+22.01.2014 10:11:55.461 Have/Webclient/interface/interface/images/17
+22.01.2014 10:11:55.474 21
+22.01.2014 10:11:55.474 Create Directory: C:\Webclient\interface\interface\if3scen\
+22.01.2014 10:11:55.474 Directory created: C:\Webclient\interface\interface\if3scen\
+22.01.2014 10:11:55.477 Have/Webclient/interface/interface/if3scen
+22.01.2014 10:11:55.487 20
+22.01.2014 10:11:55.487 Create Directory: C:\Webclient\interface\interface\if3mods\
+22.01.2014 10:11:55.488 Directory created: C:\Webclient\interface\interface\if3mods\
+22.01.2014 10:11:55.490 Have/Webclient/interface/interface/if3mods
+22.01.2014 10:11:55.502 19
+22.01.2014 10:11:55.502 Create Directory: C:\Webclient\interface\interface\if3docs\
+22.01.2014 10:11:55.502 Directory created: C:\Webclient\interface\interface\if3docs\
+22.01.2014 10:11:55.504 Have/Webclient/interface/interface/if3docs
+22.01.2014 10:11:55.515 18
+22.01.2014 10:11:55.515 Create Directory: C:\Webclient\interface\interface\adv\
+22.01.2014 10:11:55.515 Directory created: C:\Webclient\interface\interface\adv\
+22.01.2014 10:11:55.518 Have/Webclient/interface/interface/adv
+22.01.2014 10:11:55.529 17
+22.01.2014 10:11:55.529 Create Directory: C:\Webclient\interface\inbound\
+22.01.2014 10:11:55.529 Directory created: C:\Webclient\interface\inbound\
+22.01.2014 10:11:55.531 Have/Webclient/interface/inbound
+22.01.2014 10:11:55.548 16
+22.01.2014 10:11:55.549 Create Directory: C:\Webclient\interface\DPSCom\
+22.01.2014 10:11:55.549 Directory created: C:\Webclient\interface\DPSCom\
+22.01.2014 10:11:55.551 Have/Webclient/interface/DPSCom
+22.01.2014 10:11:55.563 15
+22.01.2014 10:11:55.563 Create Directory: C:\Webclient\interface\config\
+22.01.2014 10:11:55.563 Directory created: C:\Webclient\interface\config\
+22.01.2014 10:11:55.565 Have/Webclient/interface/config
+22.01.2014 10:11:55.581 19
+22.01.2014 10:11:55.581 Create Directory: C:\Webclient\interface\config\templates_prim\
+22.01.2014 10:11:55.581 Directory created: C:\Webclient\interface\config\templates_prim\
+22.01.2014 10:11:55.583 Have/Webclient/interface/config/templates_prim
+22.01.2014 10:11:55.598 18
+22.01.2014 10:11:55.598 Create Directory: C:\Webclient\interface\config\templates_no_sup\
+22.01.2014 10:11:55.598 Directory created: C:\Webclient\interface\config\templates_no_sup\
+22.01.2014 10:11:55.601 Have/Webclient/interface/config/templates_no_sup
+22.01.2014 10:11:55.617 17
+22.01.2014 10:11:55.617 Create Directory: C:\Webclient\interface\config\templates_frk_no_sup\
+22.01.2014 10:11:55.617 Directory created: C:\Webclient\interface\config\templates_frk_no_sup\
+22.01.2014 10:11:55.620 Have/Webclient/interface/config/templates_frk_no_sup
+22.01.2014 10:11:55.636 16
+22.01.2014 10:11:55.636 Create Directory: C:\Webclient\interface\config\templates_frk\
+22.01.2014 10:11:55.636 Directory created: C:\Webclient\interface\config\templates_frk\
+22.01.2014 10:11:55.639 Have/Webclient/interface/config/templates_frk
+22.01.2014 10:11:55.655 15
+22.01.2014 10:11:55.656 Create Directory: C:\Webclient\interface\config\templates\
+22.01.2014 10:11:55.656 Directory created: C:\Webclient\interface\config\templates\
+22.01.2014 10:11:55.658 Have/Webclient/interface/config/templates
+22.01.2014 10:11:55.675 14
+22.01.2014 10:11:55.675 Create Directory: C:\Webclient\interface\theme\
+22.01.2014 10:11:55.675 Directory created: C:\Webclient\interface\theme\
+22.01.2014 10:11:55.678 Have/Webclient/interface/theme
+22.01.2014 10:11:55.688 14
+22.01.2014 10:11:55.688 Create Directory: C:\Webclient\interface\theme\17\
+22.01.2014 10:11:55.689 Directory created: C:\Webclient\interface\theme\17\
+22.01.2014 10:11:55.691 Have/Webclient/interface/theme/17
+22.01.2014 10:11:55.702 14
+22.01.2014 10:11:55.702 Create Directory: C:\Webclient\interface\theme\17\images\
+22.01.2014 10:11:55.702 Directory created: C:\Webclient\interface\theme\17\images\
+22.01.2014 10:11:55.705 Have/Webclient/interface/theme/17/images
+22.01.2014 10:11:55.718 13
+22.01.2014 10:11:55.718 Create Directory: C:\Webclient\interface\skins\
+22.01.2014 10:11:55.718 Directory created: C:\Webclient\interface\skins\
+22.01.2014 10:11:55.720 Have/Webclient/interface/skins
+22.01.2014 10:11:55.731 13
+22.01.2014 10:11:55.731 Create Directory: C:\Webclient\interface\skins\metro2\
+22.01.2014 10:11:55.731 Directory created: C:\Webclient\interface\skins\metro2\
+22.01.2014 10:11:55.733 Have/Webclient/interface/skins/metro2
+22.01.2014 10:11:55.744 14
+22.01.2014 10:11:55.744 Create Directory: C:\Webclient\interface\skins\metro2\swf\
+22.01.2014 10:11:55.744 Directory created: C:\Webclient\interface\skins\metro2\swf\
+22.01.2014 10:11:55.747 Have/Webclient/interface/skins/metro2/swf
+22.01.2014 10:11:55.760 13
+22.01.2014 10:11:55.760 Create Directory: C:\Webclient\interface\skins\metro2\i\
+22.01.2014 10:11:55.760 Directory created: C:\Webclient\interface\skins\metro2\i\
+22.01.2014 10:11:55.762 Have/Webclient/interface/skins/metro2/i
+22.01.2014 10:11:56.023 13
+22.01.2014 10:11:56.023 Create Directory: C:\Webclient\interface\skins\metro2\i\op\
+22.01.2014 10:11:56.023 Directory created: C:\Webclient\interface\skins\metro2\i\op\
+22.01.2014 10:11:56.025 Have/Webclient/interface/skins/metro2/i/op
+22.01.2014 10:11:56.476 13
+22.01.2014 10:11:56.476 Create Directory: C:\Webclient\interface\skins\metro2\i\op\banks\
+22.01.2014 10:11:56.476 Directory created: C:\Webclient\interface\skins\metro2\i\op\banks\
+22.01.2014 10:11:56.479 Have/Webclient/interface/skins/metro2/i/op/banks
+22.01.2014 10:11:56.489 12
+22.01.2014 10:11:56.490 Create Directory: C:\Webclient\interface\mj\
+22.01.2014 10:11:56.490 Directory created: C:\Webclient\interface\mj\
+22.01.2014 10:11:56.492 Have/Webclient/interface/mj
+22.01.2014 10:11:56.505 11
+22.01.2014 10:11:56.505 Create Directory: C:\Webclient\interface\marketing\
+22.01.2014 10:11:56.505 Directory created: C:\Webclient\interface\marketing\
+22.01.2014 10:11:56.508 Have/Webclient/interface/marketing
+22.01.2014 10:11:56.519 10
+22.01.2014 10:11:56.519 Create Directory: C:\Webclient\interface\locale\
+22.01.2014 10:11:56.519 Directory created: C:\Webclient\interface\locale\
+22.01.2014 10:11:56.521 Have/Webclient/interface/locale
+22.01.2014 10:11:56.532 10
+22.01.2014 10:11:56.532 Create Directory: C:\Webclient\interface\locale\ru\
+22.01.2014 10:11:56.532 Directory created: C:\Webclient\interface\locale\ru\
+22.01.2014 10:11:56.535 Have/Webclient/interface/locale/ru
+22.01.2014 10:11:56.555 14
+22.01.2014 10:11:56.555 Create Directory: C:\Webclient\interface\locale\ru\osmi\
+22.01.2014 10:11:56.555 Directory created: C:\Webclient\interface\locale\ru\osmi\
+22.01.2014 10:11:56.557 Have/Webclient/interface/locale/ru/osmi
+22.01.2014 10:11:56.568 14
+22.01.2014 10:11:56.568 Create Directory: C:\Webclient\interface\locale\ru\osmi\Resources\
+22.01.2014 10:11:56.568 Directory created: C:\Webclient\interface\locale\ru\osmi\Resources\
+22.01.2014 10:11:56.571 Have/Webclient/interface/locale/ru/osmi/Resources
+22.01.2014 10:11:56.581 14
+22.01.2014 10:11:56.581 Create Directory: C:\Webclient\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:11:56.581 Directory created: C:\Webclient\interface\locale\ru\osmi\Resources\Images\
+22.01.2014 10:11:56.584 Have/Webclient/interface/locale/ru/osmi/Resources/Images
+22.01.2014 10:11:56.594 13
+22.01.2014 10:11:56.594 Create Directory: C:\Webclient\interface\locale\ru\sound\
+22.01.2014 10:11:56.595 Directory created: C:\Webclient\interface\locale\ru\sound\
+22.01.2014 10:11:56.597 Have/Webclient/interface/locale/ru/sound
+22.01.2014 10:11:56.608 12
+22.01.2014 10:11:56.608 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\
+22.01.2014 10:11:56.608 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\
+22.01.2014 10:11:56.611 Have/Webclient/interface/locale/ru/Mts_Helper
+22.01.2014 10:11:56.621 12
+22.01.2014 10:11:56.621 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:11:56.621 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\
+22.01.2014 10:11:56.624 Have/Webclient/interface/locale/ru/Mts_Helper/interface
+22.01.2014 10:11:56.636 14
+22.01.2014 10:11:56.636 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:11:56.636 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\snd\
+22.01.2014 10:11:56.638 Have/Webclient/interface/locale/ru/Mts_Helper/interface/snd
+22.01.2014 10:11:56.649 13
+22.01.2014 10:11:56.649 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:11:56.649 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\
+22.01.2014 10:11:56.651 Have/Webclient/interface/locale/ru/Mts_Helper/interface/lib
+22.01.2014 10:11:56.663 13
+22.01.2014 10:11:56.663 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:11:56.663 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\lib\layouts\
+22.01.2014 10:11:56.666 Have/Webclient/interface/locale/ru/Mts_Helper/interface/lib/layouts
+22.01.2014 10:11:56.676 12
+22.01.2014 10:11:56.676 Create Directory: C:\Webclient\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:11:56.676 Directory created: C:\Webclient\interface\locale\ru\Mts_Helper\interface\img\
+22.01.2014 10:11:56.679 Have/Webclient/interface/locale/ru/Mts_Helper/interface/img
+22.01.2014 10:11:56.693 11
+22.01.2014 10:11:56.693 Create Directory: C:\Webclient\interface\locale\ru\jq\
+22.01.2014 10:11:56.693 Directory created: C:\Webclient\interface\locale\ru\jq\
+22.01.2014 10:11:56.695 Have/Webclient/interface/locale/ru/jq
+22.01.2014 10:11:56.706 12
+22.01.2014 10:11:56.706 Create Directory: C:\Webclient\interface\locale\ru\jq\js\
+22.01.2014 10:11:56.706 Directory created: C:\Webclient\interface\locale\ru\jq\js\
+22.01.2014 10:11:56.709 Have/Webclient/interface/locale/ru/jq/js
+22.01.2014 10:11:56.720 11
+22.01.2014 10:11:56.720 Create Directory: C:\Webclient\interface\locale\ru\jq\css\
+22.01.2014 10:11:56.720 Directory created: C:\Webclient\interface\locale\ru\jq\css\
+22.01.2014 10:11:56.722 Have/Webclient/interface/locale/ru/jq/css
+22.01.2014 10:11:56.733 11
+22.01.2014 10:11:56.733 Create Directory: C:\Webclient\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:11:56.733 Directory created: C:\Webclient\interface\locale\ru\jq\css\ui-lightness\
+22.01.2014 10:11:56.735 Have/Webclient/interface/locale/ru/jq/css/ui-lightness
+22.01.2014 10:11:56.746 10
+22.01.2014 10:11:56.746 Create Directory: C:\Webclient\interface\locale\ru\bank\
+22.01.2014 10:11:56.746 Directory created: C:\Webclient\interface\locale\ru\bank\
+22.01.2014 10:11:56.748 Have/Webclient/interface/locale/ru/bank
+22.01.2014 10:11:56.760 12
+22.01.2014 10:11:56.760 Create Directory: C:\Webclient\interface\locale\ru\bank\lib\
+22.01.2014 10:11:56.760 Directory created: C:\Webclient\interface\locale\ru\bank\lib\
+22.01.2014 10:11:56.762 Have/Webclient/interface/locale/ru/bank/lib
+22.01.2014 10:11:56.774 11
+22.01.2014 10:11:56.774 Create Directory: C:\Webclient\interface\locale\ru\bank\images\
+22.01.2014 10:11:56.774 Directory created: C:\Webclient\interface\locale\ru\bank\images\
+22.01.2014 10:11:56.777 Have/Webclient/interface/locale/ru/bank/images
+22.01.2014 10:11:56.789 10
+22.01.2014 10:11:56.789 Create Directory: C:\Webclient\interface\locale\ru\bank\css\
+22.01.2014 10:11:56.789 Directory created: C:\Webclient\interface\locale\ru\bank\css\
+22.01.2014 10:11:56.791 Have/Webclient/interface/locale/ru/bank/css
+22.01.2014 10:11:56.802 9
+22.01.2014 10:11:56.802 Create Directory: C:\Webclient\interface\lib\
+22.01.2014 10:11:56.802 Directory created: C:\Webclient\interface\lib\
+22.01.2014 10:11:56.804 Have/Webclient/interface/lib
+22.01.2014 10:11:56.815 8
+22.01.2014 10:11:56.815 Create Directory: C:\Webclient\interface\images\
+22.01.2014 10:11:56.816 Directory created: C:\Webclient\interface\images\
+22.01.2014 10:11:56.818 Have/Webclient/interface/images
+22.01.2014 10:11:56.829 9
+22.01.2014 10:11:56.829 Create Directory: C:\Webclient\interface\images\operators\
+22.01.2014 10:11:56.829 Directory created: C:\Webclient\interface\images\operators\
+22.01.2014 10:11:56.831 Have/Webclient/interface/images/operators
+22.01.2014 10:11:57.268 8
+22.01.2014 10:11:57.268 Create Directory: C:\Webclient\interface\images\17\
+22.01.2014 10:11:57.269 Directory created: C:\Webclient\interface\images\17\
+22.01.2014 10:11:57.271 Have/Webclient/interface/images/17
+22.01.2014 10:11:57.284 7
+22.01.2014 10:11:57.284 Create Directory: C:\Webclient\interface\if3scen\
+22.01.2014 10:11:57.285 Directory created: C:\Webclient\interface\if3scen\
+22.01.2014 10:11:57.287 Have/Webclient/interface/if3scen
+22.01.2014 10:11:57.298 6
+22.01.2014 10:11:57.298 Create Directory: C:\Webclient\interface\if3mods\
+22.01.2014 10:11:57.298 Directory created: C:\Webclient\interface\if3mods\
+22.01.2014 10:11:57.300 Have/Webclient/interface/if3mods
+22.01.2014 10:11:57.311 5
+22.01.2014 10:11:57.311 Create Directory: C:\Webclient\interface\if3docs\
+22.01.2014 10:11:57.311 Directory created: C:\Webclient\interface\if3docs\
+22.01.2014 10:11:57.314 Have/Webclient/interface/if3docs
+22.01.2014 10:11:57.325 4
+22.01.2014 10:11:57.325 Create Directory: C:\Webclient\interface\adv\
+22.01.2014 10:11:57.325 Directory created: C:\Webclient\interface\adv\
+22.01.2014 10:11:57.327 Have/Webclient/interface/adv
+22.01.2014 10:11:57.338 3
+22.01.2014 10:11:57.338 Create Directory: C:\Webclient\inbound\
+22.01.2014 10:11:57.339 Directory created: C:\Webclient\inbound\
+22.01.2014 10:11:57.341 Have/Webclient/inbound
+22.01.2014 10:11:57.365 2
+22.01.2014 10:11:57.365 Create Directory: C:\Webclient\DPSCom\
+22.01.2014 10:11:57.365 Directory created: C:\Webclient\DPSCom\
+22.01.2014 10:11:57.367 Have/Webclient/DPSCom
+22.01.2014 10:11:57.379 1
+22.01.2014 10:11:57.379 Create Directory: C:\Webclient\config\
+22.01.2014 10:11:57.379 Directory created: C:\Webclient\config\
+22.01.2014 10:11:57.382 Have/Webclient/config
+22.01.2014 10:11:57.397 5
+22.01.2014 10:11:57.398 Create Directory: C:\Webclient\config\templates_prim\
+22.01.2014 10:11:57.398 Directory created: C:\Webclient\config\templates_prim\
+22.01.2014 10:11:57.400 Have/Webclient/config/templates_prim
+22.01.2014 10:11:57.415 4
+22.01.2014 10:11:57.415 Create Directory: C:\Webclient\config\templates_no_sup\
+22.01.2014 10:11:57.415 Directory created: C:\Webclient\config\templates_no_sup\
+22.01.2014 10:11:57.417 Have/Webclient/config/templates_no_sup
+22.01.2014 10:11:57.434 3
+22.01.2014 10:11:57.434 Create Directory: C:\Webclient\config\templates_frk_no_sup\
+22.01.2014 10:11:57.434 Directory created: C:\Webclient\config\templates_frk_no_sup\
+22.01.2014 10:11:57.436 Have/Webclient/config/templates_frk_no_sup
+22.01.2014 10:11:57.453 2
+22.01.2014 10:11:57.453 Create Directory: C:\Webclient\config\templates_frk\
+22.01.2014 10:11:57.453 Directory created: C:\Webclient\config\templates_frk\
+22.01.2014 10:11:57.456 Have/Webclient/config/templates_frk
+22.01.2014 10:11:57.472 1
+22.01.2014 10:11:57.472 Create Directory: C:\Webclient\config\templates\
+22.01.2014 10:11:57.472 Directory created: C:\Webclient\config\templates\
+22.01.2014 10:11:57.475 Have/Webclient/config/templates
+22.01.2014 10:11:57.504 download: false
+22.01.2014 10:11:57.504 На терминале установлена актуальная версия
+22.01.2014 10:11:57.505 Disconnect...
+22.01.2014 10:11:57.506 Starting C:\WebClient\DPSKiosk.exe...OK.
+22.01.2014 10:11:57.512 Starting C:\WebClient\DPSCom.exe...OK.
