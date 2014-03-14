@@ -11,6 +11,7 @@
 #include "TBackup.h"  
 #include "TFolderList.h"
 #include "TProgressBar.h"
+#include "TCroupier.h"
 //---------------------------------------------------------------------------
 class TMain : public TThread
 {
@@ -58,6 +59,7 @@ public:
 	
 	//------------------- Для работы с директориями --------------//
 	TStringList *slDirs; //"дерево директорий" на сервере
+        TCroupier *cr; //"раздает" файлы обновления нашей директории
 
 	AnsiString sa; //папка, которую рассматриваем в данный момент (на создание)	
 	

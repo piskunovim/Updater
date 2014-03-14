@@ -1,0 +1,101 @@
+//---------------------------------------------------------------------------
+
+
+#pragma hdrstop
+
+#include "TCroupier.h"
+
+//---------------------------------------------------------------------------
+
+TCroupier::TCroupier()
+{
+    Log = new TLogClass("TCroupier");
+    if (Log){
+     Log->Write("TCroupier started ...");
+    }
+}
+
+TCroupier::~TCroupier(){};
+
+
+//метод дл€ создани€ папок
+void TCroupier::RestoreFolders(AnsiString FS)
+{
+Log->Write("RestoreFolders started ...");
+char *FolderStruct = FS.c_str();
+if (DirectoryExists(AnsiString(FolderStruct)))
+     {
+        Log->Write("Struct is correct");
+     }
+else if ( (!DirectoryExists(AnsiString(FolderStruct))) && (FolderStruct!="C:\\") )
+     {
+                 if ( CreateDirectory(FolderStruct,NULL) ){
+                      Log->Write(AnsiString(FolderStruct)+ " - CREATED");
+                 }
+                 else{
+                           AnsiString ToCreate = FolderStruct;
+                           FolderStruct[strlen(FolderStruct)-strlen(strrchr(FolderStruct,'\\'))]='\0';
+                           Log->Write("Start cheking: "+AnsiString(AnsiString(FolderStruct)));
+                           RestoreFolders(FolderStruct);
+                           Log->Write(AnsiString(FolderStruct)+" - CREATED");
+                           Log->Write("Remember ToCreate: " + ToCreate);
+                           CreateDirectory(ToCreate.c_str(),NULL);
+                           }
+     }
+else {
+        Log->Write("Error on checking structure directory: "+AnsiString(FolderStruct));
+     }
+}
+
+//метод переносит все файлы и каталоги из одной директории в другую
+void TCroupier::FileDistribution(LPTSTR sPath) {
+
+ WIN32_FIND_DATA pFILEDATA;
+
+ HANDLE hFile = FindFirstFile(strcat(sPath,"\\*.*"),&pFILEDATA);
+
+ sPath[strlen(sPath) - strlen(strstr(sPath,"*.*"))] = '\0';
+ if (hFile!=INVALID_HANDLE_VALUE)    {
+
+  char * chBuf;
+  do {
+   if (strlen(pFILEDATA.cFileName) == 1 &&  strchr(pFILEDATA.cFileName,'.') !=NULL)
+    if (FindNextFile(hFile,&pFILEDATA) == 0)
+      break;
+   if (strlen(pFILEDATA.cFileName) == 2 && strstr(pFILEDATA.cFileName,"..") !=NULL)
+    if(FindNextFile(hFile,&pFILEDATA) == 0)
+      break;
+   if(pFILEDATA.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY){
+     FileDistribution(strcat(sPath,pFILEDATA.cFileName));
+     sPath[strlen(sPath) - strlen(pFILEDATA.cFileName)-1] = '\0';
+     Application->ProcessMessages();
+     }
+
+   else{
+      //ѕровер€ем на соотвествие sExt расширени€ pFILEDATA.cFileName
+       char sDistrPath[MAX_PATH]="C:\\WebClient";            //определ€ем директорию дл€ "раздачи" файлов (директори€-получатель)
+       Log->Write("sPath: " + AnsiString(sPath));            //выводим путь к текущему файлу(папки)
+       string sPathErased=sPath;
+       char *sBackUpErase = "C:\\DPSUpdate\\Webclient\\";    //готовим строчку, чтобы мы могли получить им€ конкретного файла
+       sPathErased.erase(0,strlen(sBackUpErase)-1);
+       char *mychar = new char[sPathErased.length()+1];
+       strcpy(mychar, sPathErased.c_str());
+       strcat(sDistrPath,mychar);                          //то, куда мы будем записывать наш файл
+       Log->Write("sPathErased:" + AnsiString(sDistrPath));
+       AnsiString FS = sDistrPath;
+       RestoreFolders(FS);                         //начинаем создавать недостающие папки, если такие есть
+       strcat(sPath, pFILEDATA.cFileName);
+       strcat(sDistrPath, pFILEDATA.cFileName);
+       Log->Write("Copy: "+AnsiString(sPath));
+       Log->Write("Send to: "+AnsiString(sDistrPath));
+       CopyFile(sPath,sDistrPath,false);                       //копируем с перезаписью, если потребуетс€
+       sPath[strlen(sPath) - strlen(pFILEDATA.cFileName)] = '\0';
+   }
+  }
+  while (FindNextFile(hFile,&pFILEDATA));
+ }
+}
+
+//---------------------------------------------------------------------------
+
+#pragma package(smart_init)

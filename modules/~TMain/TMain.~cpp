@@ -38,7 +38,7 @@ __fastcall TMain::TMain(bool CreateSuspended)
 	Log=new TLogClass("TMain");
     if (Log)
         Log->Write("//-------------- "+DateTimeToStr(Now())+" -------------------------"); //выводим в логи текущую дату и время
-    percentage = 0; //процент обработанных файлов
+        percentage = 0; //процент обработанных файлов
 	MDCL = new TMD5Class(); //получение MD5 папки
 	slDirs = new TStringList;
 	TPrBr = new TProgressBar(true); //отображение процесса обновления в ПрогрессБаре
@@ -48,6 +48,7 @@ __fastcall TMain::TMain(bool CreateSuspended)
     NewFile=false; //найден "новый" файл или нет
 	TBaUp = new TBackup();   //резервное копирование текущей версии
     CurBackUp=TBaUp->BUDir(); //узнаем нашу папку для бэкапа
+    cr = new TCroupier();
 
     //------------------- Подключаемся по FTP -----------------//
 
@@ -86,8 +87,6 @@ else if( nodSubElement != NULL ){
                 username = nodSubElement2->NodeValue;
                 password = nodSubElement3->NodeValue;
                 Log->Write("Connecting to: "+thost+" | "+username+" | "+password+" | ... OK ");
-                StopProc("DPSKiosk.exe");
-                StopProc("DPSCom.exe");
         }
 }
 catch(...){
@@ -144,11 +143,11 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                        }
                 NewFile = true;
     }
-        GetFolder("/Webclient","C:\\Webclient\\"); //восстановим "дерево директорий"
+        GetFolder("/Webclient","C:\\DPSUpdate\\Webclient\\"); //восстановим "дерево директорий"
 	if (download)    {
                 Log->Write("download: true");
                 Log->Write("Check directory exists ...");
-                if (DirectoryExists("C:\\Webclient"))
+                if (DirectoryExists("C:\\DPSUpdate\\Webclient"))
                 {
                 int l=1;
                 int finish = m;
@@ -164,10 +163,10 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                          str.erase(0,strlen(str2.c_str())); //получили путь к файлу
 
                          AnsiString FinalFile = StringReplace(str.c_str(),'\\',"/", TReplaceFlags()<< rfReplaceAll); //колдуем со строкой
-                         AnsiString FinalPath = "C:\\";
+                         AnsiString FinalPath = "C:\\DPSUpdate\\";
                          FinalPath+=str.c_str(); //получили полный путь к файлу на диске С:
                          try{
-							   TBaUp->BUCopyFile(FinalPath.c_str(),CurBackUp); //на всякий случай делаем бэкап
+                               TBaUp->BUCopyFile(FinalPath.c_str(),CurBackUp); //на всякий случай делаем бэкап
                                FF=FinalFile; //путь на сервере
                                FP=FinalPath; //путь "локальный"
 
@@ -200,6 +199,9 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
         }
        //Synchronize(&TDisconnect);
        }
+       StopProc("DPSKiosk.exe");
+       StopProc("DPSCom.exe");
+       cr->FileDistribution("C:\\DPSUpdate\\Webclient");
        ChDir("C:\\WebClient\\");
        Synchronize(&TDisconnect);
        Synchronize(&TExit);
@@ -217,7 +219,13 @@ void __fastcall TMain::TStartDownload()
         Form1->idFTP->Host=thost;
         Form1->idFTP->Username=username;
         Form1->idFTP->Password=password;
+        try{
         Form1->idFTP->Connect();
+        }
+         catch (Exception &ex)
+        {
+         Log->Write("Exception: "+AnsiString(ex.Message));
+        }
         if (Form1->idFTP->Connected())
         {
         Log->Write("Соединение с сервером ...Успешно");
@@ -231,6 +239,7 @@ void __fastcall TMain::TStartDownload()
      /**************************************************************************
      ВНИМАНИЕ!: Качаем из папки /Webclient/md5.txt в  C:\Webclient\webclient.txt
      **************************************************************************/
+     try{
      Form1->idFTP->Get("/Webclient/md5.txt","C:\\Webclient\\webclient.txt",TRUE);
      Form1->Memo1->Lines->LoadFromFile("C:\\Webclient\\webclient.txt");
      for (int q=0; q<=Form1->Memo1->Lines->Count-1; q++)
@@ -244,6 +253,11 @@ void __fastcall TMain::TStartDownload()
      {
       Memo2[q]= Form1->Memo2->Lines->Strings[q];
       GM2C = q;
+     }
+     }
+     catch (Exception &ex)
+     {
+    Log->Write("Exception: "+AnsiString(ex.Message));
      }
      // delete MDCL;
      // MDCL = new TMD5Class();
