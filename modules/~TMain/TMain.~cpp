@@ -49,6 +49,14 @@ __fastcall TMain::TMain(bool CreateSuspended)
 	TBaUp = new TBackup();   //резервное копирование текущей версии
     CurBackUp=TBaUp->BUDir(); //узнаем нашу папку для бэкапа
     cr = new TCroupier();
+    FileMap = new TFileMap(TLog);
+    if (FileMap)
+     {
+      FileMap->Create("$share$");
+      FileMap->Open("$share$");
+
+      FileMap->PutWCTimeMark();
+     }
 
     //------------------- Подключаемся по FTP -----------------//
 
@@ -201,8 +209,15 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
        }
        StopProc("DPSKiosk.exe");
        StopProc("DPSCom.exe");
-       cr->FileDistribution("C:\\DPSUpdate\\Webclient");
        ChDir("C:\\WebClient\\");
+
+       //убедимся, что сейчас мы можем закрыть DPSKiosk и провести обновление
+       while(1){
+          if (FileMap->WCIdle){
+              cr->FileDistribution("C:\\DPSUpdate\\Webclient");
+              break;
+              }
+       }
        Synchronize(&TDisconnect);
        Synchronize(&TExit);
 }

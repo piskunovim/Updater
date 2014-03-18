@@ -12,6 +12,7 @@
 #include "TFolderList.h"
 #include "TProgressBar.h"
 #include "TCroupier.h"
+#include "TFileMap.h"
 //---------------------------------------------------------------------------
 class TMain : public TThread
 {
@@ -45,7 +46,7 @@ public:
 	int GM1C; //счетчики кол-ва файлов
 	int GM2C;
 
-    String Memo1[10000]; //список файлов на сервере(скачанный актуальный список md5)
+        String Memo1[10000]; //список файлов на сервере(скачанный актуальный список md5)
 	String Memo2[10000]; //список файлов, в локальной папки (рекурсивно полученный актуальный список md5 в локальной папке)
 	
 	bool NewFile; //говорит новый файл или нет
@@ -55,7 +56,7 @@ public:
 	
 	/*на этапе загрузки*/
 	AnsiString FF; //откуда:
-    AnsiString FP; //куда:
+        AnsiString FP; //куда:
 	
 	//------------------- Для работы с директориями --------------//
 	TStringList *slDirs; //"дерево директорий" на сервере
@@ -80,7 +81,11 @@ public:
     HANDLE UpdateHandle;
     DWORD UpdateProcessId;
 	
-	HANDLE StartProgram(AnsiString ApplicationName); //запускаем DPSKiosk
+    HANDLE StartProgram(AnsiString ApplicationName); //запускаем DPSKiosk
+
+    //------------------- Для организации межпроцессного взаимодействия --------------//
+    TFileMap *FileMap;
+    CLogHolder TLog;
 
 
 };
