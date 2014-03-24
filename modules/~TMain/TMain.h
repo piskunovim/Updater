@@ -40,6 +40,7 @@ public:
         String thost;
         String username;
         String password;
+        int times; //количество попыток скачать
         _di_IXMLDocument  xmlCfg;
 		
 	//------------------- Счетчики кол-ва файлов и все что связано с файлами --------------//
@@ -51,6 +52,7 @@ public:
 	
 	bool NewFile; //говорит новый файл или нет
 	bool download; //говорит будет загрузка или нет
+        bool notries; //говорит иссякли ли попытки на скачивание (если "true" - иссякли)
 	
 	String toreload[5000]; //файлы, которые будем обновлять
 	

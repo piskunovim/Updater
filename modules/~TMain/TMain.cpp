@@ -45,6 +45,7 @@ __fastcall TMain::TMain(bool CreateSuspended)
     TPrBr->Resume();
 	TFoLi = new TFolderList(); //список папок, которые обновлять не будем 
 	download = false; //будем загружать обновление или версия актуальна (по-умолчанию считаем что у нас актуальная версия)
+        notries = false; //иссякли попытки на скачивание или нет (по-умолчанию считаем, что у нас есть попытки на скачивание)
     NewFile=false; //найден "новый" файл или нет
 	TBaUp = new TBackup();   //резервное копирование текущей версии
     CurBackUp=TBaUp->BUDir(); //узнаем нашу папку для бэкапа
@@ -73,7 +74,7 @@ try{
                                  break;
                         }
                          xmlstring=xmlstring+s.c_str();
-                        }                                     
+                        }
 xmlCfg = LoadXMLData(xmlstring);
 Log->Write("Try to get Configuretion info...");
 IXMLNode *nodRoot = xmlCfg->DocumentElement;
@@ -85,6 +86,8 @@ IXMLNode *nodSubElement2 = nodElement->ChildNodes->FindNode(L"username");
 Log->Write("user: "+nodSubElement2->NodeValue+"......OK");
 IXMLNode *nodSubElement3 = nodElement->ChildNodes->FindNode(L"password");
 Log->Write("password: "+nodSubElement3->NodeValue+".....OK");
+IXMLNode *nodSubElement4 = nodElement->ChildNodes->FindNode(L"times");
+Log->Write("times: "+nodSubElement4->NodeValue+".....OK");
 
 if( nodSubElement == NULL ){
                 Log->Write("|notupdate| : There is no node with that name. Check your XML file");
@@ -94,7 +97,12 @@ else if( nodSubElement != NULL ){
                 thost = nodSubElement->NodeValue;
                 username = nodSubElement2->NodeValue;
                 password = nodSubElement3->NodeValue;
-                Log->Write("Connecting to: "+thost+" | "+username+" | "+password+" | ... OK ");
+                times = nodSubElement4->NodeValue;
+                if (times < 1)
+                {
+                 times = 1;
+                }
+                Log->Write("Connecting to: "+thost+" | "+username+" | "+password+" | For " + AnsiString(times) + " times ... OK ");
         }
 }
 catch(...){
@@ -121,8 +129,8 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                 AnsiString UpTxt = Memo2[i];   // локальные файлы
                 AnsiString UpTxtBack = UpTxt;
                 AnsiString ExTxt = Memo1[k];  //серверные файлы
-               //Log->Write("Серверный файл: "+ExTxt);
-               //Log->Write("Локальный файл: "+UpTxt);
+                //Log->Write("Серверный файл: "+ExTxt);
+                //Log->Write("Локальный файл: "+UpTxt);
                 AnsiString ExTxtBack = ExTxt;
                 if (UpTxt == ExTxt){    //если строки совпадают - файл не нуждается в обновлении
 					  NewFile = false;
@@ -167,7 +175,7 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                          AnsiString FileToDownload = toreload[m];
                          string str = toreload[m].c_str(); //колдуем со строкой
                          FileToDownload[strlen(FileToDownload.c_str())-strlen(strrchr(FileToDownload.c_str(),'*')+2)]='\0';
-                         AnsiString str2 = FileToDownload; 
+                         AnsiString str2 = FileToDownload;
                          str.erase(0,strlen(str2.c_str())); //получили путь к файлу
 
                          AnsiString FinalFile = StringReplace(str.c_str(),'\\',"/", TReplaceFlags()<< rfReplaceAll); //колдуем со строкой
@@ -175,24 +183,48 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                          FinalPath+=str.c_str(); //получили полный путь к файлу на диске С:
                          try{
                                TBaUp->BUCopyFile(FinalPath.c_str(),CurBackUp); //на всякий случай делаем бэкап
+                            }
+                         catch (Exception &ex)
+                            {
+                               Log->Write("BackUp error: " + AnsiString(ex.Message));
+                            }
+
                                FF=FinalFile; //путь на сервере
                                FP=FinalPath; //путь "локальный"
 
                                //Application->ProcessMessages();
+                for(int start=0; start<times; start++)  {
+                       try{
                                if (!ExceptionList(FinalPath.c_str())){
                                          //Synchronize(&TGet);
                                          Form1->idFTP->Get("/"+FF,FP,TRUE);
                                          Log->Write("File created : "+FinalPath);
-                                        }
-                               else     {
-                                         Log->Write("Exception for path: "+FinalPath+" . Please choose another way to update this file");
-                                        }
+                                         break;
+                               }
+                               else {
+                                     Log->Write("Exception for path: "+FinalPath+" . Please choose another way to update this file");
+                               }
                         }
                         catch(EIdProtocolReplyError &e) {
                                 Log->Write("There is no "+FinalPath+ "on FTP");
+                                if( (start+1) == times )     {
+                                  Log->Write("Last time");
+                                  notries = true;
+                                  }
+                                else if ( start == times )
+                                {
+
                                 }
-                        l++;
+                                else{
+                                 Log->Write("Try count " + AnsiString(start+1) + " of " + AnsiString(times) );
+                                 Log->Write("Next try: 30 seconds");
+                                 Sleep(30000);
+                                }
                         }
+                }
+                if (notries == true){ break;} // прерываем обновление до следующего раза когда оно вызовется
+                        l++;
+        }
                 //Sleep(1000);
                 }
        }
