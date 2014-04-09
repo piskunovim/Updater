@@ -15,7 +15,7 @@ protected:
 public:
         __fastcall TThreadTimer(bool CreateSuspended);
         void __fastcall TThreadTimer::OutTimer();
-        void __fastcall TThreadTimer::ShowTimer()
+        void __fastcall TThreadTimer::ShowTimer();
         int timecount,timecountmin;
         AnsiString outtime, outtimemin;
 //---------------------------------------------------------------------------

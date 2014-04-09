@@ -1,5 +1,3 @@
-//---------------------------------------------------------------------------
-
 #include <vcl.h>
 #pragma hdrstop
 
@@ -8,6 +6,8 @@
 #include "fstream.h"
 #include "conio.h"
 #include <Tlhelp32.h>
+#include "CSevenZip.h"
+#include <memory>
 #pragma package(smart_init)
 //---------------------------------------------------------------------------
 
@@ -29,7 +29,6 @@ char sPath[MAX_PATH]="C:\\Webclient";
 int n=0;
 int k=0;      //сопоставление с каждой строкой md5
 int m=0;      //список директорий GetFolder
-
 
 __fastcall TMain::TMain(bool CreateSuspended)
         : TThread(CreateSuspended)
@@ -92,7 +91,7 @@ Log->Write("times: "+nodSubElement4->NodeValue+".....OK");
 if( nodSubElement == NULL ){
                 Log->Write("|notupdate| : There is no node with that name. Check your XML file");
                 TExit();
-        }
+				}
 else if( nodSubElement != NULL ){
                 thost = nodSubElement->NodeValue;
                 username = nodSubElement2->NodeValue;
@@ -106,9 +105,9 @@ else if( nodSubElement != NULL ){
         }
 }
 catch(...){
-Log->Write("Something wrong with initialization...Check \"config.xml\" file");
-Application->Terminate();
-}
+	Log->Write("Something wrong with initialization...Check \"config.xml\" file");
+	Application->Terminate();
+   }
 }
 
 //---------------------------------------------------------------------------
@@ -126,7 +125,7 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
          for (i=0; i<=GM2C; i++)
                 {
                 //Application->ProcessMessages();
-                AnsiString UpTxt = Memo2[i];   // локальные файлы
+                AnsiString UpTxt = Memo2[i];   //локальные файлы
                 AnsiString UpTxtBack = UpTxt;
                 AnsiString ExTxt = Memo1[k];  //серверные файлы
                 //Log->Write("Серверный файл: "+ExTxt);
@@ -137,8 +136,8 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                                           break;
 					 }
                 else {
-                                          if(ExTxt.Pos("document") !=0)
-                                                Log->Write("Совпали: "+UpTxt+" и "+ExTxt);
+                                    //      if(ExTxt.Pos("document") !=0)
+                                    //            Log->Write("Совпали: "+UpTxt+" и "+ExTxt);
 					  NewFile = true;
 					  Txt = ExTxt;
 					  TTxt=UpTxt;
@@ -160,14 +159,51 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                 NewFile = true;
     }
         GetFolder("/Webclient","C:\\DPSUpdate\\Webclient\\"); //восстановим "дерево директорий"
+		Log->Write("Восстановление дерева директорий завершено");
 	if (download)    {
                 Log->Write("download: true");
                 Log->Write("Check directory exists ...");
                 if (DirectoryExists("C:\\DPSUpdate\\Webclient"))
                 {
-                int l=1;
-                int finish = m;
-                while (m>0) //кол-во файлов требующих обновление
+                /*                Log->Write("Start downloading Update.7z ...");
+                                try{
+
+                                TMemoryStream *UpdateStream = new TMemoryStream();
+                                //Form1->idFTP->Get("/Webclient/Update.7z","C:\\DPSUpdate\\Webclient\\Update.7z",TRUE); //качаем архив с обновлением
+                                Form1->idFTP->Get("/Webclient/Update.7z",UpdateStream);
+                                Log->Write("File size: " + AnsiString(UpdateStream->Size));
+                                
+                                //FileStream *fs = File::OpenWrite("Update.7z");
+
+                                UpdateStream->SaveToFile("C:\\DPSUpdate\\Webclient\\Update.7z");
+
+
+                                //Log->Write("Downloading finished successfully ...");
+                                }
+                                catch (Exception &ex)
+                                {
+                                  Log->Write("Exception: "+AnsiString(ex.Message));
+                                }
+                                bool ExtractOK = false; //флаг, чтобы понять получилось ли у нас разархивировать Update.7z или нет
+				AnsiString ArchiveFileName = "C:\\DPSUpdate\\Webclient\\Update.7z"; //место, где лежит скачанный архив
+
+   std::auto_ptr <CSevenZip> SvnZip (new CSevenZip(ArchiveFileName)); //начинаем распаковку
+   ExtractOK = SvnZip->Extract("C:\\DPSUpdate\\Webclient\\");
+   if (ExtractOK)
+        Log->Write("<<<<>>>>>>>Extracting finished: GOOD!");
+   else
+        Log->Write("<<<<>>>>>>>Extracting finished: Error! Please try again");  */
+
+      //удалим скачанный архив
+      /* if (FileExists(ArchiveFileName))
+      if (!DeleteFile(ArchiveFileName))
+         Log->Write("Error deleting \'" + ArchiveFileName + "\' file!");   */
+
+         //Раскомментировать если захотим качать пофайлово (не архивом)
+
+              int l=1;
+              int finish = m;
+              while (m>0) //кол-во файлов требующих обновление
                         {
                          m--;
                          Progress(l, finish);
@@ -197,9 +233,32 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
                        try{
                                if (!ExceptionList(FinalPath.c_str())){
                                          //Synchronize(&TGet);
-                                         Form1->idFTP->Get("/"+FF,FP,TRUE);
+                                         //Form1->idFTP->Get("/"+FF,FP,TRUE);
+                                         TMemoryStream *UpdateStream = new TMemoryStream();
+                                         Form1->idFTP->Get("/"+FF+".7z",UpdateStream);
+                                         Log->Write("File size: " + AnsiString(UpdateStream->Size));
+                                         UpdateStream->SaveToFile(FP+".7z");
                                          Log->Write("File created : "+FinalPath);
-                                         break;
+
+                                         bool ExtractOK = false; //флаг, чтобы понять получилось ли у нас разархивировать Update.7z или нет
+				         AnsiString ArchiveFileName = FP+".7z"; //место, где лежит скачанный архив
+
+                                         std::auto_ptr <CSevenZip> SvnZip (new CSevenZip(ArchiveFileName)); //начинаем распаковку
+                              char *ExtractFile = FP.c_str();
+                              ExtractFile[strlen(ExtractFile) - strlen(strrchr(ExtractFile, '\\'))] = '\0';
+                          ExtractOK = SvnZip->Extract(ExtractFile);
+                             if (ExtractOK)
+                                  Log->Write("<<<<>>>>>>>Extracting finished: GOOD!");
+                             else
+                                  Log->Write("<<<<>>>>>>>Extracting finished: Error! Please try again");  
+
+         //удалим скачанный архив
+         if (FileExists(ArchiveFileName))
+                if (!DeleteFile(ArchiveFileName))
+                   Log->Write("Error deleting \'" + ArchiveFileName + "\' file!");   
+        //------------------------------------------------------------------------
+
+                                 break;     //скачали
                                }
                                else {
                                      Log->Write("Exception for path: "+FinalPath+" . Please choose another way to update this file");
@@ -288,6 +347,7 @@ void __fastcall TMain::TStartDownload()
      **************************************************************************/
      try{
      Form1->idFTP->Get("/Webclient/md5.txt","C:\\Webclient\\webclient.txt",TRUE);
+     Form1->idFTP->Noop();
      Form1->Memo1->Lines->LoadFromFile("C:\\Webclient\\webclient.txt");
      for (int q=0; q<=Form1->Memo1->Lines->Count-1; q++)
      {
@@ -326,7 +386,7 @@ try
     slDirs->Clear();
     Form1->idFTP->ChangeDir(CurFolder);
     Form1->idFTP->Noop();
-    Log->Write("Have"+CurFolder);
+    Log->Write("Have: "+CurFolder);
 //------------------- Начало --------------//
     Form1->idFTP->List(slDirs, ' ', False); //получаем список директорий (и файлы здесь же)
     Form1->Memo1->Lines->AddStrings(slDirs);
@@ -340,7 +400,7 @@ try
             AnsiString CF=CurFolder+'/'+FolderLine;    //колдуем над строками
             AnsiString SF = StringReplace(CF,'/',"\\", TReplaceFlags()<< rfReplaceAll);
             SF = strstr(SF.c_str(),"\\Webclient");
-            SF = "C:"+SF+"\\";
+            SF = "C:\\DPSUpdate"+SF+"\\";
             ftpfold[m]=CF; //путь на сервере     <-- делаем в массиве, чтобы не упустить все папки конкретной директории
             drivefold[m]=SF; //путь "локальный"
             m++;
@@ -478,18 +538,19 @@ void __fastcall TMain::TExit()
 Form1->Close();
 }
 
+/*void __fastcall TMain::Extract7z()
+{
+   bool ExtractOK = false;
+   std::auto_ptr <CSevenZip> SvnZip (new CSevenZip("C:\\DPSUpdate\\Webclient\\Update.7z"));
+   ExtractOK = SvnZip->Extract("C:\\DPSUpdate\\Webclient");
+   if (ExtractOK)
+        Log->Write("<<<<>>>>>>>Extracting finished: GOOD!");
+   else
+        Log->Write("<<<<>>>>>>>Extracting finished: Error! Please try again");
 
+   if (FileExists(ArchiveFileName))
+      if (!DeleteFile(ArchiveFileName))
+        Log->Write("Error deleting \'" + ArchiveFileName + "\' file!");
 
-
-
-
-
-
-
-
-
-
-
-
-
+}    */
 

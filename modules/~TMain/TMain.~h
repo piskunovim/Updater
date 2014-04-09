@@ -29,6 +29,7 @@ public:
 		void __fastcall TGet();//загружаем файл
 		void __fastcall TDisconnect(); //отключаемся от сервера
         void __fastcall TExit();
+        //void __fastcall Extract7z();              //распаковываем полученный архив
 	//bool __fastcall StartProgram(AnsiString ApplicationName); //запускаем DPSKiosk
 	void __fastcall StopProc(char *exeName); // останавливаем процесс
         TProgressBar *TPrBr;
@@ -88,6 +89,9 @@ public:
     //------------------- Для организации межпроцессного взаимодействия --------------//
     TFileMap *FileMap;
     CLogHolder TLog;
+
+
+
 
 
 };

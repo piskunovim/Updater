@@ -37,7 +37,6 @@ bool CSevenZip::Test()
 bool CSevenZip::Compress(AnsiString FilesToCompress)
 {
   AnsiString Output;
-  ArchiveFileName = "C:\\DPSUpdate\\DPS.7z";
   unsigned long ArchiverExitCode = ExecCmd("7z.exe a -r0 \"" + ArchiveFileName + "\" " + FilesToCompress, Output);
 
   if (ArchiverExitCode == STILL_ACTIVE)

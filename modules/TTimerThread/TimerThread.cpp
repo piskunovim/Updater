@@ -36,7 +36,7 @@ timecountmin=0;
 void __fastcall TThreadTimer::Execute()
 {
 Sleep(2000);
-for (int i=0; i<360; i++)
+for (int i=0; i<5400; i++)
 {
         Sleep(1000);
         timecount++;

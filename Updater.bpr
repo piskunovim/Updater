@@ -11,7 +11,8 @@
       modules\zzTBackUp\TBackup.obj modules\TTimerThread\TimerThread.obj 
       modules\zzTCancelUpdate\TCancelUpdate.obj modules\TCroupier\TCroupier.obj 
       modules\TFileMap\TFileMap.obj modules\LogHolder\LogHolder.obj 
-      modules\Common\showerror.obj"/>
+      modules\Common\showerror.obj modules\Common\common.obj 
+      modules\Common\szip.obj modules\zCSevenZip\CSevenZip.obj"/>
     <RESFILES value="Updater.res"/>
     <DEFFILE value=""/>
     <RESDEPEN value="$(RESFILES) Unit1.dfm"/>
@@ -25,7 +26,7 @@
       nmfast.bpi bcbie.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
       Indy60.bpi bcb2kaxserver.bpi ThemeManagerC6D.bpi ThemeManagerC6.bpi 
       VirtualTreesC6D.bpi VirtualTreesC6.bpi xmldocBCB6.bpi"/>
-    <PATHCPP value=".;modules\TProgressBar;modules\~TMain;modules\TAdvert;modules\LogClass;modules\TFolderList;modules\TMD5;modules\zzTBackUp;modules\TTimerThread;modules\zzTCancelUpdate;modules\TCroupier;modules\TFileMap;modules\LogHolder;modules\Common"/>
+    <PATHCPP value=".;modules\TProgressBar;modules\~TMain;modules\TAdvert;modules\LogClass;modules\TFolderList;modules\TMD5;modules\zzTBackUp;modules\TTimerThread;modules\zzTCancelUpdate;modules\TCroupier;modules\TFileMap;modules\LogHolder;modules\Common;modules\zCSevenZip"/>
     <PATHPAS value=".;"/>
     <PATHRC value=".;"/>
     <PATHASM value=".;"/>
@@ -45,7 +46,7 @@
       -tW -tWM"/>
     <PFLAGS value="-$YD -$W -$O- -$A8 -v -JPHNE -M"/>
     <RFLAGS value=""/>
-    <AFLAGS value="/mx /w2 /zd"/>
+    <AFLAGS value="/mx /w2 /zi"/>
     <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn -v"/>
     <OTHERFILES value=""/>
   </OPTIONS>
@@ -73,6 +74,9 @@
       <FILE FILENAME="modules\TFileMap\TFileMap.cpp" FORMNAME="" UNITNAME="TFileMap" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
       <FILE FILENAME="modules\LogHolder\LogHolder.cpp" FORMNAME="" UNITNAME="LogHolder" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
       <FILE FILENAME="modules\Common\showerror.cpp" FORMNAME="" UNITNAME="showerror" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\Common\common.cpp" FORMNAME="" UNITNAME="common" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\Common\szip.cpp" FORMNAME="" UNITNAME="szip" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="modules\zCSevenZip\CSevenZip.cpp" FORMNAME="" UNITNAME="CSevenZip" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
   </FILELIST>
   <BUILDTOOLS>
   </BUILDTOOLS>
@@ -106,14 +110,16 @@ ProductVersion=1.0.0.0
 Comments=
 
 [HistoryLists\hlIncludePath]
-Count=3
-Item0=modules\~TMain;modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
-Item1=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
-Item2=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
+Count=4
+Item0=modules\Common;modules\LogHolder;modules\TFileMap;modules\TCroupier;modules\~TMain;modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
+Item1=modules\~TMain;modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
+Item2=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
+Item3=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\include;$(BCB)\include\vcl
 
 [HistoryLists\hlLibraryPath]
-Count=1
-Item0=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Count=2
+Item0=modules\Common;modules\LogHolder;modules\TFileMap;modules\TCroupier;modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item1=modules\zzTCancelUpdate;modules\zzTBackUp;modules\zCSevenZip;modules\zCommon;modules\TProgressThread;modules\TMOperation;modules\TMD5;modules\TFolderList;modules\TFolderCheck;modules\TProgressBar;modules\~TMain;modules\TMain;modules\LogClass;modules\TAdvert;modules\TTimerThread;C:\Program Files\Borland\CBuilder6\Projects;C:\Users\PiskunovI\Desktop\Workplace\Updater;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
 
 [HistoryLists\hlDebugSourcePath]
 Count=1

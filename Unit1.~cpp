@@ -47,7 +47,8 @@ __fastcall TForm1::TForm1(TComponent* Owner)
        TAd = new TAdvert(true);                   //после всего запускаем поток, который будем показывать рекламу
        TAd->Resume();
    }
-   else {  //вместо рекламы покажем часы
+   else {
+         //вместо рекламы покажем часы
          Shape1->Left=Form1->Width-828;
          Shape2->Left=Form1->Width-828;
          Label2->Left=Form1->Width-824;
