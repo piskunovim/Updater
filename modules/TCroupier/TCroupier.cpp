@@ -88,7 +88,18 @@ void TCroupier::FileDistribution(LPTSTR sPath) {
        strcat(sDistrPath, pFILEDATA.cFileName);
        Log->Write("Copy: "+AnsiString(sPath));
        Log->Write("Send to: "+AnsiString(sDistrPath));
-       CopyFile(sPath,sDistrPath,false);                       //копируем с перезаписью, если потребуется
+       try{
+          int CopyOK = CopyFile(sPath,sDistrPath,false);                       //копируем с перезаписью, если потребуется
+          if (CopyOK == 0){
+                int Error = GetLastError();
+                Log->Write("CopyFile error: " + AnsiString(Error));
+          }
+
+       }
+       catch (Exception &ex)
+          {
+           Log->Write("CopyFile error exception: " + AnsiString(ex.Message));
+          }
        sPath[strlen(sPath) - strlen(pFILEDATA.cFileName)] = '\0';
    }
   }

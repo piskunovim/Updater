@@ -25,7 +25,7 @@ TMD5Class::~TMD5Class()
 
 void TMD5Class::GetFileList(LPTSTR sPath)
 {
- Log->Write("Start getting md5 of: "+AnsiString(sPath));
+ //Log->Write("Start getting md5 of: "+AnsiString(sPath));
 
  WIN32_FIND_DATA pFILEDATA;
 
@@ -52,7 +52,7 @@ void TMD5Class::GetFileList(LPTSTR sPath)
    else {
 
       strcat(sPath, pFILEDATA.cFileName);
-      Log->Write("MD5 ( "+AnsiString(sPath)+" ) " );
+      //Log->Write("MD5 ( "+AnsiString(sPath)+" ) " );
       GetSum(sPath);
       sPath[strlen(sPath) - strlen(pFILEDATA.cFileName)] = '\0';
    }
@@ -65,7 +65,7 @@ void TMD5Class::GetFileList(LPTSTR sPath)
 void __fastcall TMD5Class::GetSum(char *FilePath)
 {
   
- Log->Write("GetSum start: "+AnsiString(FilePath));
+ //Log->Write("GetSum start: "+AnsiString(FilePath));
   char *Buffer = NULL;
   TFileStream *PktFile = NULL;
         PktFile = new TFileStream( FilePath, fmOpenRead | fmShareDenyNone );
@@ -76,8 +76,8 @@ void __fastcall TMD5Class::GetSum(char *FilePath)
 
         int p=(int)(PktFile->Size);
 
-        if (p)
-        Log->Write("Start reading "+AnsiString(FilePath));
+        //if (p)
+        //Log->Write("Start reading "+AnsiString(FilePath));
 
         String FileString(reinterpret_cast<char*>(Buffer), (int)(PktFile->Size));
         AnsiString MD5String = MD5(FileString);

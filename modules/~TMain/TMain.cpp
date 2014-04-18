@@ -114,6 +114,7 @@ catch(...){
 void __fastcall TMain::Execute()
 {
 CoInitialize(NULL);
+try{
 Synchronize(&TStartDownload); //получаем md5 для текущей версии и качаем md5 обновления
 AnsiString Txt;  //Txt и TTxt нужны для сверки хеш-сумм полученных выше и формирования списка загрузки
 AnsiString TTxt;
@@ -160,6 +161,11 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
     }
         GetFolder("/Webclient","C:\\DPSUpdate\\Webclient\\"); //восстановим "дерево директорий"
 		Log->Write("Восстановление дерева директорий завершено");
+                }
+		catch (Exception &ex)  //ловим исключение на старте коннекта с FTP сервером
+                            {
+                               Log->Write("Exception FTP Connection: " + AnsiString(ex.Message));
+                            }
 	if (download)    {
                 Log->Write("download: true");
                 Log->Write("Check directory exists ...");
@@ -302,6 +308,8 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
        StopProc("DPSKiosk.exe");
        StopProc("DPSCom.exe");
        ChDir("C:\\WebClient\\");
+       Log->Write("Updater copy new files to \"Webclient\" directory in 10 sec...");
+       Sleep(10000);
 
        //убедимся, что сейчас мы можем закрыть DPSKiosk и провести обновление
        while(1){
@@ -310,6 +318,9 @@ for (k=0;k<=GM1C; k++) //формируем список для загрузки (учтем файлы/папки исключ
               break;
               }
        }
+
+       Log->Write("Update files copied successfully");
+       Sleep(5000);
        Synchronize(&TDisconnect);
        Synchronize(&TExit);
 }
@@ -409,7 +420,7 @@ try
 	}
     while (m>start_m)
     {
-	 Log->Write(AnsiString(m));
+      Log->Write(AnsiString(m));
      SaveFolder = NULL;
      CurFolder = NULL;
      m--;
@@ -458,7 +469,8 @@ void __fastcall TMain::TGet() //загружаем файл
 
 void __fastcall TMain::TDisconnect() //отключаем от сервера
 {
- Log->Write("Disconnect...");
+ Log->Write("Disconnect FTP...");
+ Log->Write("Start DPSKiosk...");
  Form1->idFTP->Noop();
  StartProgram("C:\\WebClient\\DPSKiosk.exe");
  StartProgram("C:\\WebClient\\DPSCom.exe");
